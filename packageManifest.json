@@ -1,18 +1,18 @@
 {
     "packageName": "Fun Api Responses",
     "author": "Kurt Sanders",
-    "minimumHEVersion": "0.0.1",
-    "dateReleased": "2025-05-21",
+    "minimumHEVersion": "0.1.0",
+    "dateReleased": "2025-05-29",
     "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main?tab=readme-ov-file#hubitat-fun-api-responses-app",
     "communityLink": "https://community.hubitat.com/t/pre-release-new-hubitat-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331",
     "licenseFile": "",
-    "releaseNotes": "Version 0.0.1\n1. This application generates random responses that are suitable for TTS on capability 'SpeechSynthesis' compatible devices (ie. Amazon, Google, Sonos, Ikea, etc).\n2. A free account on APILeague.com is required to obtain an api string for those categories indicated below. You may wish to purchase their paid plans, which allow more responses (tokens) per day.\n3. The 'Idiom' category does not require an api account or api string. The Idioms category is powered by my own JSON file (over 700 entries), and I will add more on an as-needed basis..",
+    "releaseNotes": "Version 0.1.0 Release Highlights\n\n    1. This application generates fun and educational random responses from the internet that are formatted for TTS output on capability 'SpeechSynthesis' compatible devices (ie. Amazon, Google, Sonos, Ikea, etc).\n\n    2. A free account on APILeague.com is required to obtain a free api string for some response categories. You may wish to purchase their paid plans, which allow more responses (tokens) per day.\n\n    3. The 'Idiom' category does not require an api account or api string. The Idioms category is powered by my own JSON file (over 700 entries), and I will add more on an as-needed basis.\n\n    4. Several new 'no api required' response categories have been added: Dad-Jokes, Cat-facts, Zen-Facts, Advice and Useless-Facts.\n\n    5. Site responses can be directed to an existing Global Hub Variable, eliminating creating a temporary valiable in RM or WebCore.\n\n    6. Riddles can have a designated pause duration bewteen the question and the answer.\n\n    7. Amazon Echo devices have an option to direct TTS to one device ot play synchromously all hubitat integrated devices.\n\n    8. One can select only the sites they wish and respective child devices.\n\n    9. Child devices now have addditional custom attributes for those responses that have separate responses, like Poems (eg. title, author, poem). The response field will have the sites response in a TTS format. \n    ",
     "bundles": [
         {
             "id": "b438d8c9-c3bb-45b6-9dcd-a5f0fb931617",
             "name": "SanderSoft Bundle",
             "namespace": "kurtsanders",
-            "version": "0.0.6",
+            "version": "0.0.7",
             "location": "https://github.com/KurtSanders/HubitatPackages/raw/master/resources/bundles/SanderSoftBundle.zip",
             "required": true
         },
@@ -20,7 +20,7 @@
             "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
-            "version": "0.0.1",
+            "version": "0.1.0",
             "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }
@@ -29,7 +29,7 @@
         {
             "id": "28856352-d07f-4bfb-a487-6d1eb5b9b92b",
             "name": "Fun Api Responses App",
-            "version": "0.0.1",
+            "version": "0.1.0",
             "primary": true,
             "namespace": "kurtsanders",
             "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20App.groovy",
@@ -40,7 +40,7 @@
         {
             "id": "540069b8-233f-496a-9161-3d24b40f60bd",
             "name": "Fun Api Responses Driver",
-            "version": "0.0.1",
+            "version": "0.1.0",
             "namespace": "kurtsanders",
             "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20Driver.groovy",
             "required": true

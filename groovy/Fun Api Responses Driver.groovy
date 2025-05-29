@@ -17,22 +17,39 @@
 #include kurtsanders.SanderSoft-Library
 #include kurtsanders.Fun-Api-Responses-Library
 
-@Field static final String  VERSION 			= "0.0.1"
+@Field static final String  VERSION 			= "0.1.0"
 
 metadata {
     definition(name: "Fun Api Responses Driver", namespace: "kurtsanders", author: "Kurt Sanders") {
         capability "Actuator"
-        capability "Sensor"
-        capability "Refresh"
 		capability "Momentary"
-        
+        capability "Refresh"
+        capability "Sensor"
+        capability "Switch"
+
+        // Define the full response and response attributes parts for each site category
+        attribute "answer"				, "string"
+        attribute "author"				, "string"
+        attribute "definition"			, "string"
+        attribute "joke"				, "string"
+        attribute "phrase"				, "string"
+        attribute "poem"				, "string"
+        attribute "question"			, "string"
+        attribute "quote"				, "string"
         attribute "response"			, "string"
+        attribute "riddle"				, "string"
+        attribute "title"				, "string"
+        attribute "trivia"				, "string"
+        
+		// Site metadata attributes
         attribute "error"				, "string"
+        attribute "difficultyLevel"		, "string"
+        attribute "excludeTags"			, "string"
+        attribute "includeTags"			, "string"
         attribute "quotaRequest"		, "number"
         attribute "quotaUsed"			, "number"
         attribute "quotaLeft"			, "number"
-        attribute "includeTags"			, "string"
-        attribute "excludeTags"			, "string"
+        attribute "quotaLastUpdated"	, "date"
     }
 }
 
@@ -48,6 +65,15 @@ preferences {
 
 def push() {
     refresh()
+}
+
+def on() {
+ 	refresh()
+    runIn(1,'off')
+}
+
+def off() {
+ 	sendEvent(name:'switch', value:'off')   
 }
 
 def installed() {

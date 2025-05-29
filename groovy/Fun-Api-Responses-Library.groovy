@@ -20,51 +20,100 @@ import groovy.transform.Field
             "Jokes": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-joke",
-                website		: "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
                 api			: ['where':'headers', 'name': 'x-api-key'],
-                response	: ["value": "joke"],
+                responseVars: ["joke"],
+                strTemplate	: 'Here is your joke for today. %1$s',
                 parameters	: ["include-tags","exclude-tags"],
                 keywords	: ["analogy","animal","alondes","christmas","chuck norris","clean","dark","deep thougths","food","holiday","insults","jewish","kids","knock knock","law","nerdy","nsfw","one liner","political","racist","relationship","religious","school","sexist","sexual","sport","yo momma"],
-                description	: "This category returns a random joke. You can filter the jokes by tags and keywords. To make sure they are safe for work/home, you could use the exclude-tags to exclude jokes with certain tags such as \"sexual\" or \"racist\".",
+                description	: "This category returns a random joke. You can filter the jokes by tags and keywords. To make sure they are safe for work/home, you could use the exclude-tags to exclude jokes with certain tags such as \"sexual\" or \"racist\". An api key is required.",
                 ],
             "Trivia": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-trivia",
-                website		: "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
                 api			: ['where':'headers', 'name': 'x-api-key'],
-                response	: ["value": "trivia"],
-                description	: "This category returns a random piece of trivia like \"Rio de Janeiro was once the capital of Portugal, making it the only European capital outside of Europe.\".",
+                responseVars: ["trivia"],
+                strTemplate	: 'Here is your trivia for today. %1$s',
+                description	: "This category returns a random piece of trivia like \"Rio de Janeiro was once the capital of Portugal, making it the only European capital outside of Europe.\" An api key is required..",
                 ],
             "Quotes": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-quote",
-                website		: "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
                 api			: ['where':'headers', 'name': 'x-api-key'],
-                response	: ["author": "author","value": "quote"],
-                description	: "This category returns a random quote from a collection of quotes. The quotes are from famous people and are in English.",
+                responseVars: ["author", "quote"],
+                strTemplate	: 'Here is your quote for today. %1$s %2$s',
+                description	: "This category returns a random quote from a collection of quotes. The quotes are from famous people and are in English. An api key is required.",
                 ],
             "Riddles": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-riddle",
-                website		: "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
                 api			: ['where':'headers', 'name': 'x-api-key'],
-                response	: ["difficulty": "difficulty","riddle": "riddle","value": "answer"],
+                responseVars: ["difficulty","riddle","answer"],
+                strTemplate	: 'Here is your riddle for today, which has a difficulty rating of %1$s. %2$s %3$s',
                 parameters	: ["difficulty"],
                 keywords	: ["easy", "medium", "hard"],
-                description	: "This category returns a random riddle or brain-teaser. Riddles are a great way to exercise your brain and keep it sharp. The API supports brain-teasers in three difficulty levels: easy, medium, and hard. You can also get a random riddle without specifying a difficulty level.",
+                description	: "This category returns a random riddle or brain-teaser. Riddles are a great way to exercise your brain and keep it sharp. The API supports brain-teasers in three difficulty levels: easy, medium, and hard. You can also get a random riddle without specifying a difficulty level. An api key is required.",
                 ],
             "Poems" : [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-poem",
-                website		: "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
                 api			: ['where':'headers', 'name': 'x-api-key'],
-                response	: ["author": "author","title": "title", "value": "poem"],
-                description	: "This category returns a random poem by many famous authors.",
+                responseVars: ["title", "author", "poem"],
+                strTemplate	: 'Here is your poem for today. %1$s. by %2$s?. %3$s',
+                description	: "This category returns a random poem by many famous authors. An api key is required.",
+                ],
+            "Cat-Facts" : [
+		        url			: "https://catfact.ninja",
+                path		: "/fact",
+                website		: ['name': "Cat-Facts",'link': "https://github.com/alexwohlbruck/cat-facts"],
+                responseVars: ["fact"],
+                strTemplate	: 'Here is your Cat Fact for today. %1$s',
+                description	: "The Cat Facts API provides access to a collection of interesting and fun facts about cats. No api key is required.",
+                ],
+            "Zen-Facts" : [
+		        url			: "https://zenquotes.io",
+                path		: "/api/random",
+                website		: ['name': "Zen-Facts",'link': "https://zenquotes.io/"],
+                responseVars: ["a", "q"],
+                strTemplate	: 'Here is your Zen Fact for today by %1$s. %2$s',
+                description	: "The Zen facts API provides access to a collection of peaceful Zen quotes. No api key is required.",
+                ],
+            "Advice" : [
+		        url			: "https://api.adviceslip.com",
+                path		: "/advice",
+                website		: ['name': "Advice",'link': "https://api.adviceslip.com"],
+                responseVars: ["advice"],
+                responseKey	: 'slip',
+                strTemplate	: 'Here is some advice for you today. %1$s',
+                description	: "The Advice API provides access to a collection of interesting advice tips. No api key is required.",
+                ],
+            "Dad-Jokes" : [
+		        url			: "https://icanhazdadjoke.com",
+                website		: ['name': "Dad Jokes",'link': "https://icanhazdadjoke.com/"],
+                responseVars: ["joke"],
+                UserAgent	: true, 
+                strTemplate	: 'Here is a Dad joke for you today. %1$s',
+                description	: "The Dad Joke API is the largest selection of dad jokes on the internet. No api key is required.",
+                ],
+            "Useless-Facts" : [
+		        url			: "https://uselessfacts.jsph.pl",
+                path		: "/api/v2/facts/random",
+                website		: ['name': "Useless Facts",'link': "https://uselessfacts.jsph.pl"],
+                parameters	: ["language"],
+                responseVars: ["text"],
+                strTemplate	: 'Here is some useless facts for you today. %1$s',
+                description	: "The Advice API provides access to a collection of useless facts. No api key is required.",
                 ],
             "Idioms" : [
 		        url			: "https://raw.githubusercontent.com",
                 path		: "/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/data/production/Idioms-%s.json",
-                response	: ["phrase":"phrase", "value":"definition"],
+                responseVars: ["phrase", "definition"],
+                responseKey	: 'Idioms',
+                strTemplate	: 'Here is your idiom for today. %1$s. %2$s',
                 description	: "This category returns a random idiom. No api key is required.",
                 ]
             ]
@@ -102,18 +151,18 @@ String fmtHelpInfo(String str) {
     }
 }
 
-def createDataChildDevice(namespace, typeName, deviceNetworkId, label) {    
+def createDataChildDevice(namespace, typeName, deviceNetworkId, name) {    
     logDebug "In createDataChildDevice()"
     def statusMessageD = ""
     def rc
     if(!getChildDevice(deviceNetworkId)) {
-        logInfo "In createDataChildDevice - Child device not found - Creating device: ${typeName}"
+        logInfo "In createDataChildDevice - Child device not found - Creating device: Name: ${name} Label: ${name} Driver: ${typeName}"
         try {
-            rc = addChildDevice(namespace, typeName, deviceNetworkId, ["name": "${typeName}", "label": "${label}", isComponent: false])
-            statusMessageD = "<b>A device with the name '${label}' has been been created. (${typeName})</b>"
+            rc = addChildDevice(namespace, typeName, deviceNetworkId, ["name": "${name}", "label": "${name}", isComponent: false])
+            statusMessageD = "<b>A device with the label name '${name}' has been been created. (Type: ${typeName})</b>"
         } catch (e) { logErr "Unable to create device - ${e}" }
     } else {
-        statusMessageD = "<b>The device '${label}' (${typeName}) already exists.</b>"
+        statusMessageD = "<b>The device '${name}' (${typeName}) already exists.</b>"
     }
     logInfo "${statusMessageD}"
     return rc
