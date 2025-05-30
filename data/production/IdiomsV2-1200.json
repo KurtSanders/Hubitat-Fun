@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Talk someone's ear off - To talk to someone excessively, especially about something insignificant.",
+   "definition": "As in this example, They talked my ear off this morning. It seemed like they would never stop!"
+  },
+  {
+   "phrase": "Talk through one's hat - To speak ignorantly or foolishly.",
+   "definition": "As in this example, I think Kim is just speaking through her hat. What she's saying couldn't be true. I don't think she's deliberately lying, but she's certainly being foolish."
+  },
+  {
+   "phrase": "Talk to someone like a Dutch uncle - To speak to someone as if they are a close relative, offering (perhaps stern) advice.",
+   "definition": "As in this example, My math teacher talked to me like a Dutch uncle today. He gave me study tips and told me I had to start trying harder if I wanted to do well."
+  },
+  {
+   "phrase": "Talk to the hand - Don't talk to me because I'm not listening (often done while holding up the palm of one's hand).",
+   "definition": "As in this example, You want to know what I said to Ken when he spoke to me the other day? I said just one thing: talk to the hand!"
+  },
+  {
+   "phrase": "Talk turkey - To talk in a serious way, most often with regard to a business deal.",
+   "definition": "As in this example, The two businesspeople were at dinner, talking turkey about a possible business deal."
+  },
+  {
+   "phrase": "Talking shop - Talking about one's trade or occupation with another person in the same trade or occupation.",
+   "definition": "As in this example, Two electricians were talking shop in the corner of the café."
+  },
+  {
+   "phrase": "Tall order - Something that is difficult to do or achieve.",
+   "definition": "As in this example, Wow! Well, I'll try to do what you’re asking but it's a tall order."
+  },
+  {
+   "phrase": "Tall story - An unlikely story.",
+   "definition": "As in this example, The kid tells a lot of tall stories that are full of exaggerations and even lies."
+  },
+  {
+   "phrase": "Tar someone with the same brush - To assume or say that someone has the same bad characteristics as someone else, probably in the same group.",
+   "definition": "As in this example, They always assumed that because Zoe was friends with some people who got in trouble at school, that she must be bad, too. But she wasn't. They were just tarring her with the same brush."
+  },
+  {
+   "phrase": "Tell me about it - I already know and/or agree.",
+   "definition": "As in this example, Tell me about it! I couldn't agree more with what you said about James being annoyed with Jonathan."
+  },
+  {
+   "phrase": "Test the waters - To test a situation in some way.",
+   "definition": "As in this example, He decided to test the waters a bit before trying to resume his friendship with Mark."
+  },
+  {
+   "phrase": "That hit the spot - That was exactly what was desired or needed, especially with regard to food or drink.",
+   "definition": "As in this example, I find a bowl of hot chicken soup always hits the spot on a winter evening."
+  },
+  {
+   "phrase": "That is to say - What I mean is.",
+   "definition": "As in this example, She doesn't eat very much. That is to say, she has a very small appetite."
+  },
+  {
+   "phrase": "That ship has sailed - You have missed an opportunity.",
+   "definition": "As in this example, No, I'm afraid they're no longer taking applications for the job. Unfortunately, that ship has sailed."
+  },
+  {
+   "phrase": "That's all she wrote - That is all the person in question has to say about something.",
+   "definition": "As in this example, I'm telling you the truth. I've given you all the information that Maxine gave me. That's all she wrote!"
+  },
+  {
+   "phrase": "That's the last straw - This last circumstance/occurrence has caused me to lose patience/give up.",
+   "definition": "As in this example, I've had enough of all this. That was the last straw!"
+  },
+  {
+   "phrase": "That's wicked - That's cool, neat, trendy, or impressive. (It depends on the context of the sentence, as wicked can also mean \"evil.\")",
+   "definition": "As in this example, I just love your new sports car. It's wicked!"
+  },
+  {
+   "phrase": "The apple of my eye - Someone who is cherished more than any other person.",
+   "definition": "As in this example, Abigail's niece is the apple of her eye. She really loves her and spends lots of time with her."
+  },
+  {
+   "phrase": "The ball is in your court - It's up to you to make the next decision.",
+   "definition": "As in this example, She decided not to contact him again; the ball was in his court now."
+  },
+  {
+   "phrase": "The bee's knees - The best.",
+   "definition": "As in this example, My cousin is so happy with the beautiful dress she bought for the upcoming dance. She thinks it's the bee's knees!"
+  },
+  {
+   "phrase": "The best of both worlds - A situation that incorporates the best elements of different things.",
+   "definition": "As in this example, Ben loved chemistry and thought about becoming a chemist, but he also thought he'd be a good teacher. Ultimately, he became a chemistry teacher. It was the best of both worlds."
+  },
+  {
+   "phrase": "The best thing since sliced bread - An excellent invention.",
+   "definition": "As in this example, They decided that the new tech gadget was the best thing since sliced bread."
+  },
+  {
+   "phrase": "The Big Apple - New York City.",
+   "definition": "As in this example, Are you going to the Big Apple this summer? New York City is so exciting!"
+  },
+  {
+   "phrase": "The Big Easy - New Orleans, Louisiana.",
+   "definition": "As in this example, The Big Easy is a fascinating city. Everyone should learn about the history of New Orleans."
+  },
+  {
+   "phrase": "The bottom line - A company or other business's profit.",
+   "definition": "As in this example, The CEO was worried about the company's bottom line. It wasn't doing very well."
+  },
+  {
+   "phrase": "The boys in blue - Police officers.",
+   "definition": "As in this example, There are many boys in blue at the festival; obviously, they’re there to keep the peace."
+  },
+  {
+   "phrase": "The brush-off/brushed me off - To dismiss someone or to be dismissed.",
+   "definition": "As in this example, I couldn't believe it when they brushed me off. I thought they were my friends, but apparently they’re not."
+  },
+  {
+   "phrase": "The burning question - The most important or significant question.",
+   "definition": "As in this example, Sarah said that this was the burning question, but I didn't agree. I thought the other issues were more pressing."
+  },
+  {
+   "phrase": "The cat's meow - Very nice and impressive.",
+   "definition": "As in this example, Wow! That sports car is the cat's meow. Don't you think so?"
+  },
+  {
+   "phrase": "The devil is in the details - Something might appear good when viewed from a distance. Upon closer inspection, however, problems become apparent.",
+   "definition": "As in this example, Overall, it sounds like it would be a good contract. But remember, the devil is in the details."
+  },
+  {
+   "phrase": "The early bird gets the worm - To be ready and to get somewhere or do something early will give you the chance to reap the best results.",
+   "definition": "As in this example, Greg thought I was crazy for getting up at five thirty in the morning every day, but I always say that the early bird gets the worm."
+  },
+  {
+   "phrase": "The elephant in the room - A huge issue that people are trying to ignore and avoid.",
+   "definition": "As in this example, The meeting seemed to go well, with everyone giving their input on a variety of issues, but the one thing that wasn't addressed was the elephant in the room: our paychecks!"
+  },
+  {
+   "phrase": "The eleventh hour - At a very late moment in some kind of situation or cycle.",
+   "definition": "As in this example, It happened at the eleventh hour. Everyone had thought the contest was over, but then a new contestant suddenly jumped onto the stage."
+  },
+  {
+   "phrase": "The gift of the gab - The talent of speaking and getting people's attention.",
+   "definition": "As in this example, The salesperson certainly loved to talk and was good at persuading people! Without a doubt, he had the gift of the gab."
+  },
+  {
+   "phrase": "The last minute - During the final period of time available before a decision or action is required.",
+   "definition": "As in this example, Sinead made her decision at the very last minute. Everyone was worried that she wouldn't make any kind of decision in time."
+  },
+  {
+   "phrase": "The lion's share - The largest portion of something.",
+   "definition": "As in this example, Everyone was annoyed because it seemed like Brandon always got the lion's share of praise from our boss, even though we all worked equally hard."
+  },
+  {
+   "phrase": "The long and short of it - The point or the outcome.",
+   "definition": "As in this example, It's a long story. The long and short of it, though, is that he's coming with us tomorrow. That's what really matters here."
+  },
+  {
+   "phrase": "The munchies - Desire to eat, usually snacks or junk food.",
+   "definition": "As in this example, I have the munchies! I think I'll have some pretzels."
+  },
+  {
+   "phrase": "The other day - On a day quite recently.",
+   "definition": "As in this example, It felt like I’d seen her just the other day, but then I realized that it had been two weeks ago."
+  },
+  {
+   "phrase": "The patience of Job - To be willing to patiently deal with hardship or to generally have a lot of patience.",
+   "definition": "As in this example, She was a wonderful teacher. She really seemed to have the patience of Job when dealing with difficult students."
+  },
+  {
+   "phrase": "The pits - A negative, disappointing circumstance or circumstances.",
+   "definition": "As in this example, Oh, no! You're not going on the trip after all because you're sick? I'm sorry. That's really the pits!"
+  },
+  {
+   "phrase": "The pot calling the kettle black - Someone with the same (or more) faults criticizing someone else.",
+   "definition": "As in this example, Can you believe it? She actually had the nerve to criticize me for being too difficult. Talk about the pot calling the kettle black!"
+  },
+  {
+   "phrase": "The road less travelled - A path in life that most other people don't usually take.",
+   "definition": "As in this example, People told me they couldn't understand the decision I had made. I smiled and told them I was taking the road less travelled."
+  },
+  {
+   "phrase": "The same wavelength - To think in the same way as someone else.",
+   "definition": "As in this example, Liz and Meg always got along very well. They seemed to be on the same wavelength about everything, and almost always agreed on various issues."
+  },
+  {
+   "phrase": "The school of hard knocks - Life experience (especially difficult life experiences).",
+   "definition": "As in this example, He explained that, while he hadn't gone to university, he had graduated from the school of hard knocks."
+  },
+  {
+   "phrase": "The shoe is on the other foot - A person is in the same situation as someone else, possibly someone whom they had judged unfairly.",
+   "definition": "As in this example, The shoe is on the other foot now. Maybe you can finally understand what I was going through."
+  },
+  {
+   "phrase": "The short end of the stick - The lesser amount of benefit or reward, or having to do something unpleasant while other people involved do not.",
+   "definition": "As in this example, Wow! Judith definitely got the short end of the stick when she was assigned bathroom cleaning duty."
+  },
+  {
+   "phrase": "The squeaky wheel gets the grease - You have to try to get attention if you need it. You can't just wait and hope that people will help.",
+   "definition": "As in this example, Lily was always very assertive; she never hesitated to ask for help when she needed it. After all, she said, the squeaky wheel gets the grease."
+  },
+  {
+   "phrase": "The straight and narrow - A path of good behavior and morality.",
+   "definition": "As in this example, She was a very cautious and moral person, always sticking to the straight and narrow course."
+  },
+  {
+   "phrase": "The tide has turned - Things have changed.",
+   "definition": "As in this example, That actor was once extremely popular. The tide has turned on his career though, and he no longer gets many parts in high-profile movies."
+  },
+  {
+   "phrase": "The tip of the iceberg - Only a tiny bit of something much larger.",
+   "definition": "As in this example, Christopher said that this was only the tip of the iceberg; the company faced even worse problems."
+  },
+  {
+   "phrase": "The whole nine yards - To go all the way in completing a task.",
+   "definition": "As in this example, Their employer demanded that they go the whole nine yards with every project."
+  },
+  {
+   "phrase": "There are clouds on the horizon - Trouble is going to arrive.",
+   "definition": "As in this example, She was feeling really worried. Her friends said that everything was fine, but she was certain that there were clouds on the horizon."
+  },
+  {
+   "phrase": "There are other fish in the sea - Don't worry if you miss out on the current opportunity. There will be others. Often used with respect to a potential relationship partner.",
+   "definition": "As in this example, Don't worry, Patricia. I know you really liked that guy, but there are other fish in the sea."
+  },
+  {
+   "phrase": "There's a method to his madness - It may seem like a person is crazy, but there are actually clever reasons behind his or her actions.",
+   "definition": "As in this example, I know you think I'm crazy for buying so many groceries at once. But there's a method to my madness."
+  },
+  {
+   "phrase": "There's no such thing as a free lunch - Nothing in life is ever free.",
+   "definition": "As in this example, My family often told me that there's no such thing as a free lunch. Everything comes with a price tag."
+  },
+  {
+   "phrase": "They were thrown together - Brought together unexpectedly.",
+   "definition": "As in this example, The friends were first thrown together when they had to team up for a project at school. They've been inseparable ever since."
+  },
+  {
+   "phrase": "Think outside the box - To think in a unique way.",
+   "definition": "As in this example, I think one of the reasons that she is so effective at this job is that she thinks outside the box. She's always coming up with new and unique ideas."
+  },
+  {
+   "phrase": "Third time's a charm - If you don't succeed with the first two tries, perhaps the third one will prove lucky.",
+   "definition": "As in this example, I didn't do very well the last couple of times I played baseball. But you never know, third time's a charm!"
+  },
+  {
+   "phrase": "This is the life - This is a wonderful or luxurious way to live.",
+   "definition": "As in this example, Wow, this is the life! I love staying in this luxurious resort."
+  },
+  {
+   "phrase": "Those who live in glass houses shouldn't throw stones - People with lots of faults should refrain from criticizing others.",
+   "definition": "As in this example, Lara was always criticizing her friends for various things, but I say that people in glass houses shouldn't throw stones."
+  },
+  {
+   "phrase": "Three sheets to the wind - Extremely drunk.",
+   "definition": "As in this example, Adam was three sheets to the wind on the first night of his vacation. He had way too much to drink!"
+  },
+  {
+   "phrase": "Threw me for a loop - Something catches you off guard and confuses you.",
+   "definition": "As in this example, Wow! That announcement yesterday really threw me for a loop. I wasn't expecting it and I'm still feeling a bit disoriented."
+  },
+  {
+   "phrase": "Through thick and thin - In both good and bad times.",
+   "definition": "As in this example, Janet was experiencing a stressful situation, and I was determined to help her. After all, she had stood by me through thick and thin over the years."
+  },
+  {
+   "phrase": "Throw a curveball/Throw a curve - To abruptly present something to someone that they will have difficulty dealing with.",
+   "definition": "As in this example, Marlene really surprised me with the news the other day. It's definitely going to affect me, too. She threw me a real curveball."
+  },
+  {
+   "phrase": "Throw a monkey wrench into the works - Doing something that causes problems for an endeavor and can cause it to fail.",
+   "definition": "As in this example, He caused a lot of problems for our assignment the other day. What he did really threw a monkey wrench into the works."
+  },
+  {
+   "phrase": "Throw caution to the wind - Go ahead and task a risk.",
+   "definition": "As in this example, I was worried about the cost of the vacation. But I decided that I could find a way to afford it and that I should throw caution to the wind."
+  },
+  {
+   "phrase": "Thrown to the wolves - Abandoned to deal with a difficult situation.",
+   "definition": "As in this example, The executive was thrown to the wolves when he made that mistake. No one would give him any more help."
+  },
+  {
+   "phrase": "Tickled pink - Happy and excited.",
+   "definition": "As in this example, My sister was tickled pink by all the wonderful things people said about her accomplishments."
+  },
+  {
+   "phrase": "Tighten your belt (or belt-tightening) - To start spending less money than you used to; to be more frugal.",
+   "definition": "As in this example, Their income is less than it used to be, so they've decided to do the wise thing and tighten their belts."
+  },
+  {
+   "phrase": "Tilt at windmills - To fight in opposition of overwhelming odds—in an attempt to accomplish something good and moral—to the point of denying reality.",
+   "definition": "As in this example, I tried to tell him that he's just tilting at windmills. Even if he works around-the-clock, he won’t be able to accomplish his goals."
+  },
+  {
+   "phrase": "Time flies when you're having fun - You're less likely to notice time passing when you're having a good time.",
+   "definition": "As in this example, Is it really already five o'clock? Time flies when you're having fun!"
+  },
+  {
+   "phrase": "Time is money - Wasting time amounts to wasting money.",
+   "definition": "As in this example, He decided he shouldn't go on two vacations this year. There are always many expenses to deal with, and time is money."
+  },
+  {
+   "phrase": "To be a chicken/to chicken out - To be too afraid.",
+   "definition": "As in this example, The kids called their friends chickens for not wanting to climb on the gym equipment. They knew they were too scared."
+  },
+  {
+   "phrase": "To be beside yourself - To feel extremely emotional with worry, anxiety, or sadness.",
+   "definition": "As in this example, My friend was just beside herself with worry about her son. He had to go to the doctor because of a health concern."
+  },
+  {
+   "phrase": "To be closefisted - Someone who is stingy with money.",
+   "definition": "As in this example, Mike is so closefisted! He wouldn't even contribute ten bucks for the upcoming office party."
+  },
+  {
+   "phrase": "To be loaded - To have a lot money; to be wealthy.",
+   "definition": "As in this example, Tim's family never has to worry about money; they're loaded."
+  },
+  {
+   "phrase": "To be named after - To be named in honor, or in memory, of someone else.",
+   "definition": "As in this example, Melissa was named after her aunt, Melissa Smith."
+  },
+  {
+   "phrase": "To be out of the question - To be impossible or unacceptable.",
+   "definition": "As in this example, They told their kids that going to the new amusement park that weekend was out of the question. After all, they would have lots of homework to do and it would probably be rain, too."
+  },
+  {
+   "phrase": "To be tied up with something or someone - To be completely occupied with someone or on something.",
+   "definition": "As in this example, Francis apologized for not being able to reply to my email. He explained that he'd been tied up all day long with meetings."
+  },
+  {
+   "phrase": "To be up to something - To be doing something, or planning to do something, that other people aren't expecting or that you perhaps shouldn't.",
+   "definition": "As in this example, Do you think he's up to something? Lately, he's been acting in kind of sneaky way."
+  },
+  {
+   "phrase": "To beat the band - To do something in an exaggerated or extreme way.",
+   "definition": "As in this example, They bought enough soda yesterday to beat the band! Yes, I know we're having a picnic, but it seemed like they bought enough drinks for an entire army."
+  },
+  {
+   "phrase": "To bend someone's ear - To speak to someone eagerly, especially in order to ask for a favor.",
+   "definition": "As in this example, I thought Jake just wanted to chat, but it turned out he wanted to bend my ear; he spent the entire conversation trying to convince me to join his team."
+  },
+  {
+   "phrase": "To black out - To lose consciousness.",
+   "definition": "As in this example, It's very foolish and dangerous to drink so much alcohol that you black out."
+  },
+  {
+   "phrase": "To blow your own horn - To outwardly praise yourself for something.",
+   "definition": "As in this example, I don't mean to blow my own horn, but I think I did really well with that task the other day."
+  },
+  {
+   "phrase": "To bomb - To fail something.",
+   "definition": "As in this example, Cindy bombed her exam. She didn’t even get close to a passing grade."
+  },
+  {
+   "phrase": "To box someone in - To trap someone in a situation, or to put them in circumstances where their options are limited.",
+   "definition": "As in this example, I felt boxed in by what they did. My options were so limited and I felt I had to do what they wanted."
+  },
+  {
+   "phrase": "To bug someone - To annoy someone.",
+   "definition": "As in this example, They were really bugging me. It seemed like they were deliberately trying to be annoying."
+  },
+  {
+   "phrase": "To butt in - To interrupt in a rude manner.",
+   "definition": "As in this example, I don't mean to butt in, but I couldn't help but hear what you guys were talking about and I wanted to give my opinion."
+  },
+  {
+   "phrase": "To call it a day - To stop working for the day.",
+   "definition": "As in this example, After we finished writing notes for the next meeting, we decided to call it a day and go home."
+  },
+  {
+   "phrase": "To call someone on the carpet - To confront someone with whom you're having a conflict.",
+   "definition": "As in this example, My boss was tired of dealing with Henry's sloppy ways. He finally called him on the carpet yesterday."
+  },
+  {
+   "phrase": "To carry a torch for someone - To continue to have an infatuation with someone.",
+   "definition": "As in this example, Henrietta claimed that she didn't like her ex-boyfriend anymore, but her friends knew that she still carried a torch for him."
+  },
+  {
+   "phrase": "To come out flat-footed - To have been unprepared.",
+   "definition": "As in this example, Daniel and Matthew came out flat-footed in their presentation. They stumbled over their lines and didn't do well."
+  },
+  {
+   "phrase": "To come out swinging - To strongly defend oneself as a confrontation or debate begins.",
+   "definition": "As in this example, We all assumed that Chris would win the debate, but Mandy really came out swinging."
+  },
+  {
+   "phrase": "To corner the market - To become the most dominant (or the only dominant) player in a specific area of the market.",
+   "definition": "As in this example, That company really cornered the market with that product they released last year. No one else can compete!"
+  },
+  {
+   "phrase": "To cry wolf - To deliberately raise an alarm for no real reason.",
+   "definition": "As in this example, He warned his nephew to never cry wolf. Raising an alarm over a fake situation now would result in people being less likely to believe him in the future if he encountered real trouble."
+  },
+  {
+   "phrase": "To do a number on something - To hurt or severely damage something.",
+   "definition": "As in this example, All that time on the beach without sunscreen many years ago did a number on my skin. That's why I have so much sun damage now and I worry about skin cancer."
+  },
+  {
+   "phrase": "To draw a blank - To forget something you specifically wanted to remember.",
+   "definition": "As in this example, I was excited to tell them about it, but I ended up drawing a blank when I got the opportunity. I just couldn't remember what I wanted to say!"
+  },
+  {
+   "phrase": "To drink like a fish - To drink a lot of alcohol on a regular basis.",
+   "definition": "As in this example, They were worried about their friend because he drank like a fish every time they saw him."
+  },
+  {
+   "phrase": "To drop by - To visit unexpectedly.",
+   "definition": "As in this example, Rose didn't like it when people just dropped by her house. She was embarrassed that it might be untidy."
+  },
+  {
+   "phrase": "To find fault with - To look for faults in someone or something.",
+   "definition": "As in this example, She was so frustrated; it seemed like people at school were always finding fault with her hair and the way she dressed."
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Cute as a bug - Endearing and sweet.",
+   "definition": "As in this example, We saw the puppy their family is getting. It is as cute as a bug!"
+  },
+  {
+   "phrase": "Cutting corners - Doing a task inadequately in an effort to save money or time.",
+   "definition": "As in this example, It seemed like the builders had cut corners and that was the reason why the building was unstable."
+  },
+  {
+   "phrase": "Damn someone with faint praise - To criticize someone in a way that seems to be praise but actually communicates disapproval or condemnation.",
+   "definition": "As in this example, Emma tried to give the impression to others that she was complimenting me, but I knew that she was just damning me with faint praise."
+  },
+  {
+   "phrase": "Dark horse - A previously unknown person who becomes prominent or known for something.",
+   "definition": "As in this example, Did you realize that Hailey had so many talents? She's certainly a dark horse!"
+  },
+  {
+   "phrase": "Dawned on me - To suddenly realize or recognize something.",
+   "definition": "As in this example, I was taking a walk when it suddenly dawned on me that I should do that more often. It would be good for my health."
+  },
+  {
+   "phrase": "Dead from the neck up - Unintelligent or stupid.",
+   "definition": "As in this example, That guy seems really stupid. I think he's dead from the neck up."
+  },
+  {
+   "phrase": "Dead in the water - No longer effective.",
+   "definition": "As in this example, The project is dead in the water. It is ruined and there is no way to move forward with it."
+  },
+  {
+   "phrase": "Dead quiet - Extremely quiet.",
+   "definition": "As in this example, It was dead quiet in there. But that's appropriate, of course. It's a library!"
+  },
+  {
+   "phrase": "Dead ringer - To look exactly like someone else.",
+   "definition": "As in this example, Ashley is a dead ringer for my favorite actress. She really looks just like her."
+  },
+  {
+   "phrase": "Dead tired - Extremely tired.",
+   "definition": "As in this example, They were dead tired after an exhausting day spent moving to a different city."
+  },
+  {
+   "phrase": "Dead to the world - In a deep sleep.",
+   "definition": "As in this example, I couldn't wake Aiden up! He was dead to the world. I think it’s because he couldn’t get any sleep on the plane."
+  },
+  {
+   "phrase": "Dead-end job - A job that doesn't seem to have any opportunities for advancement.",
+   "definition": "As in this example, I think that's a dead-end job. It has really low pay and there doesn't seem any way to advance."
+  },
+  {
+   "phrase": "Deep down - How you really feel inside, even if you don't realize it.",
+   "definition": "As in this example, Deep down, I think I always felt that their friendship wouldn't last."
+  },
+  {
+   "phrase": "Diamond in the rough – Someone, or something, that may not seem wonderful right now but has a lot of potential.",
+   "definition": "As in this example, Marie didn't seem very impressive at first, but her instructors realized that she was a diamond in the rough and would be a great dancer after more training."
+  },
+  {
+   "phrase": "Different strokes for different folks - Different people do things differently, in ways that suit their personalities.",
+   "definition": "As in this example, I was really surprised to see how Mia decorated her house. Oh well, different strokes for different folks."
+  },
+  {
+   "phrase": "Dig in your heels - To retain your position on something in spite of what others say.",
+   "definition": "As in this example, I don't agree with what the others are saying about this. They're right when they accuse me of digging in my heels."
+  },
+  {
+   "phrase": "Dirt cheap - Extremely cheap.",
+   "definition": "As in this example, They went shopping the other day and found some good items for dirt cheap. There were big sales going on."
+  },
+  {
+   "phrase": "Dish the dirt - Reveal an embarrassing or scandalous secret, probably about someone else; spread gossip.",
+   "definition": "As in this example, The tabloid dished the dirt on all sorts of celebrities. No one was sure if the stories were true, though."
+  },
+  {
+   "phrase": "Divide the spoils - To divide the rewards resulting from an endeavor.",
+   "definition": "As in this example, The business partners divided the spoils from their newest venture."
+  },
+  {
+   "phrase": "Do or die - To do no matter what the obstacles.",
+   "definition": "As in this example, Renee decided that it was do or die with advancing in her career. She would do it, no matter what it took."
+  },
+  {
+   "phrase": "Do someone a good turn - To do something kind for someone.",
+   "definition": "As in this example, She did me a good turn yesterday. She helped me out of a tricky situation, even though she must know that there's very little I'm able to do for her in return."
+  },
+  {
+   "phrase": "Do something at the drop of a hat - To do something right away, without any planning.",
+   "definition": "As in this example, My friends surprised me when they expected me to do something at the drop of a hat. I already had plans, so I couldn't accommodate them."
+  },
+  {
+   "phrase": "Do something by the seat of your pants - To tackle something without really knowing what you're doing at first.",
+   "definition": "As in this example, I didn't really understand the job when I first started. I was doing it by the seat of my pants."
+  },
+  {
+   "phrase": "Doesn't hold water - Isn't credible and cannot withstand scrutiny.",
+   "definition": "As in this example, This argument doesn't hold water. It doesn't make sense and no informed person would agree with it."
+  },
+  {
+   "phrase": "Doesn't know beans about it - Knows very little, or nothing, on a subject.",
+   "definition": "As in this example, Jordan doesn't know beans about this. I don't know why he's offering an opinion."
+  },
+  {
+   "phrase": "Dog and pony show - A presentation of some kind that has quite a bit of style but lacks real content.",
+   "definition": "As in this example, The speech was well-attended but it was really just a dog and pony show. Nothing important was said."
+  },
+  {
+   "phrase": "Dog days of summer - The hottest summer days.",
+   "definition": "As in this example, I always hate the dog days of summer. It's so hard to stay cool on those extremely hot days!"
+  },
+  {
+   "phrase": "Dog-eat-dog - A ruthless environment.",
+   "definition": "As in this example, The corporate world can be dog-eat-dog. People often try to take advantage of you."
+  },
+  {
+   "phrase": "Dollars for doughnuts - A certainty, or a sure bet.",
+   "definition": "As in this example, I'm certain that my team will win the game. Dollars for doughnuts."
+  },
+  {
+   "phrase": "Don’t sweat the small stuff - Don't spend time worrying about insignificant issues and small problems.",
+   "definition": "As in this example, Stop worrying about all those little things! Remember, don't sweat the small stuff."
+  },
+  {
+   "phrase": "Done to a turn - Food is cooked perfectly.",
+   "definition": "As in this example, The chicken was delicious. It was truly done to a turn."
+  },
+  {
+   "phrase": "Don't beat a dead horse - The subject is over and it's time to move on.",
+   "definition": "As in this example, Look, there's no point in discussing this anymore. Don't beat a dead horse."
+  },
+  {
+   "phrase": "Don't count your chickens before they hatch - Don't assume that something good will happen until it has actually happened.",
+   "definition": "As in this example, You don't know that you will be offered the job yet. Don't count your chickens before they've hatched."
+  },
+  {
+   "phrase": "Don't cry over spilt milk - There is no point in complaining or lamenting something that cannot be fixed.",
+   "definition": "As in this example, Don't cry over spilt milk. There's nothing you can do about your dropping the ball during the game today. Just try harder next time."
+  },
+  {
+   "phrase": "Don't do anything I wouldn't do - Don't behave foolishly; sometimes said in a jovial way.",
+   "definition": "As in this example, Have a great time in California! Don't do anything I wouldn't do."
+  },
+  {
+   "phrase": "Don't give up your day job - You're not very competent at a task, or you're not good enough to do it professionally.",
+   "definition": "As in this example, Thanks for inviting me to your show, but I have to be honest: Don't give up your day job."
+  },
+  {
+   "phrase": "Don't hold your breath - Don't be hopeful or imagine that something will happen.",
+   "definition": "As in this example, Don't hold your breath about the vacation. There's a strong chance that it won't happen."
+  },
+  {
+   "phrase": "Don't know him from Adam - Don't know a person.",
+   "definition": "As in this example, He said that I know him? That's strange. I don't know him from Adam."
+  },
+  {
+   "phrase": "Don't know if I'm coming or going - Extremely confused about a situation.",
+   "definition": "As in this example, Honestly, I'm so confused that I don't know if I'm coming or going right now."
+  },
+  {
+   "phrase": "Don't look a gift horse in the mouth - Don't find fault with a gift you are given.",
+   "definition": "As in this example, I always remember to never look a gift horse in the mouth. That's why I never look for fault with presents that I am given."
+  },
+  {
+   "phrase": "Don't put all your eggs in one basket - Don't make everything depend on one circumstance; avoid taking unnecessary risks.",
+   "definition": "As in this example, You've sent out one resume, but that's not enough. Remember not to put all your eggs in one basket."
+  },
+  {
+   "phrase": "Don't quote me on that – This might be the answer, but I’m not 100 percent sure.",
+   "definition": "As in this example, It sounds like you might be allergic to dust. But don’t quote me on that, I’m not a doctor."
+  },
+  {
+   "phrase": "Don't throw the baby out with the bath water - Don't try to throw away everything in a situation when there might be elements that you would like to keep or that would benefit you to keep.",
+   "definition": "As in this example, I think you should slow down and ensure you're making the right decision here. Remember, don't throw the baby out with the bath water."
+  },
+  {
+   "phrase": "Don't want to hear that - You don't like what is being said and would rather not hear it, even though you acknowledge it could be real, or is, real.",
+   "definition": "As in this example, Please don't talk about that. I just don't want to hear about it."
+  },
+  {
+   "phrase": "Doom and gloom - To talk or dwell on something depressing or gloomy.",
+   "definition": "As in this example, Alfred always seemed to have a negative outlook on life. Everything was always doom and gloom."
+  },
+  {
+   "phrase": "Double whammy - To have to deal with two difficult things at the same time.",
+   "definition": "As in this example, To find out that two things went wrong yesterday was a double whammy for me."
+  },
+  {
+   "phrase": "Down in the dumps - Down and depressed.",
+   "definition": "As in this example, He's been down in the dumps lately. He just feels depressed and a bit despondent."
+  },
+  {
+   "phrase": "Down in the mouth - Sad.",
+   "definition": "As in this example, She's down in the mouth. She’s really upset about the things that have happened lately."
+  },
+  {
+   "phrase": "Down the tube - For something to go wrong, especially if something goes wrong with an exciting plan.",
+   "definition": "As in this example, We were so excited about our upcoming party plans, but everything ended up going down the tube."
+  },
+  {
+   "phrase": "Down-to-earth - To be practical and have lots of common sense.",
+   "definition": "As in this example, One of the things I like most about Katie is how down-to-earth she is. She's always so sensible and I like going to her for advice."
+  },
+  {
+   "phrase": "Down to the wire - The deadline for a project is quickly approaching.",
+   "definition": "As in this example, We're down to the wire on this project! We must devote all our energy to it until it is complete."
+  },
+  {
+   "phrase": "Dragging your feet - Putting off doing something.",
+   "definition": "As in this example, Why are you dragging your feet on dealing with this problem? The longer you leave it, the worse it might get."
+  },
+  {
+   "phrase": "Drastic times call for drastic measures - Difficult circumstances can call for decisive action.",
+   "definition": "As in this example, Marianne felt a bit hesitant at first, but the circumstances were so serious that she knew she had to. Drastic times call for drastic measures."
+  },
+  {
+   "phrase": "Draw a blank - To realize you have forgotten something you now want or need to remember.",
+   "definition": "As in this example, I tried to remember what I wanted to say but drew a blank. I couldn't remember! It was quite embarrassing."
+  },
+  {
+   "phrase": "Drawing card - A famous individual whose presence draws people to an event.",
+   "definition": "As in this example, The committee was excited to hear that the celebrity had agreed to appear at their event. She would definitely be a drawing card. Attendance was sure to be great!"
+  },
+  {
+   "phrase": "Dressed to kill - Dressed in a very impressive way.",
+   "definition": "As in this example, They were dressed to kill at the event. Everyone was so fashionable and impressive."
+  },
+  {
+   "phrase": "Drive someone up the wall - To greatly annoy someone and make them angry.",
+   "definition": "As in this example, The music coming from next door was driving them up the wall. It was way too loud and was disturbing them as they tried to work."
+  },
+  {
+   "phrase": "Driving me nuts – Something is making me extremely annoyed and frustrated, or perhaps angry.",
+   "definition": "As in this example, That noise coming from the radio is driving me nuts! It sounds like nails on a blackboard!"
+  },
+  {
+   "phrase": "Drop by - Come over to one's house in an informal way.",
+   "definition": "As in this example, Brenda dropped by my friend's house the other day."
+  },
+  {
+   "phrase": "Drop in the bucket - Something so insignificant that it won't make any real difference.",
+   "definition": "As in this example, They decided to begin a serious fundraising effort for the charity. The amount they'd received so far was just a drop in the bucket compared to what they needed."
+  },
+  {
+   "phrase": "Drop someone a line - To write to someone, probably just a short letter or message.",
+   "definition": "As in this example, Maude set aside some time to drop her friend a line. It was just a few words, but that was all that was needed."
+  },
+  {
+   "phrase": "Drop-dead gorgeous - Very beautiful or gorgeous.",
+   "definition": "As in this example, Lots of people were jealous of the model when she was growing up. She was drop-dead gorgeous."
+  },
+  {
+   "phrase": "Dry run - Rehearsal.",
+   "definition": "As in this example, The band is doing a dry run of the show tonight. They always make sure to practice their numbers in advance."
+  },
+  {
+   "phrase": "Ducks in a row - Well-organized and prepared.",
+   "definition": "As in this example, Ruth has everything ready that she needs to apply to college. She really has her ducks in a row."
+  },
+  {
+   "phrase": "Dyed-in-the-wool - To have a trait or characteristic that seems basic to the individual's nature or that is ingrained in some way.",
+   "definition": "As in this example, The entire family are dyed-in-the-wool tennis fans."
+  },
+  {
+   "phrase": "Eager beaver - An extremely eager person.",
+   "definition": "As in this example, They said that the students who arrived for class half an hour early were eager beavers."
+  },
+  {
+   "phrase": "Easy come, easy go - You get something easily and you lose it easily.",
+   "definition": "As in this example, They lost all their winnings from the contest. Oh well! I guess easy come, easy go."
+  },
+  {
+   "phrase": "Easy does it - Move or act more slowly and carefully.",
+   "definition": "As in this example, Could you pick up that heavy box for me, please? Easy does it! You don't want to hurt your back."
+  },
+  {
+   "phrase": "Eat crow - To admit that you were mistaken about something.",
+   "definition": "As in this example, Noah was completely wrong in the approach he took. He's definitely going to have to eat crow and admit his error."
+  },
+  {
+   "phrase": "Eat like a bird - To eat very little.",
+   "definition": "As in this example, My friend doesn't eat very much at lunch. Honestly, he eats like a bird."
+  },
+  {
+   "phrase": "Eat like a horse - To eat a lot and have a big appetite.",
+   "definition": "As in this example, That guy has at least five meals a day. He eats like a horse!"
+  },
+  {
+   "phrase": "Eat my hat – When someone says that they will “eat my hat” if something happens, they are essentially saying that they think it will not happen.",
+   "definition": "As in this example, I will eat my hat if he wins the competition. It's just impossible!"
+  },
+  {
+   "phrase": "Eat your heart out - To have to deal with hopeless circumstances or suffer without saying anything. Often said triumphantly.",
+   "definition": "As in this example, “Joey loves me, so eat your heart out,” Sarah said to her best friend Lucy, knowing that Lucy was actually in love with Joey herself."
+  },
+  {
+   "phrase": "Egg on your face - To seem, or be, embarrassed.",
+   "definition": "As in this example, The politician had egg on his face; he messed up several lines his last speech."
+  },
+  {
+   "phrase": "Elevator pitch - A very short speech in which you promote your capabilities and discuss how you can benefit an individual or organization; used in job searches.",
+   "definition": "As in this example, I quickly started my elevator pitch, but he had to walk away after getting a text. I don't think I'll get the job."
+  },
+  {
+   "phrase": "Elvis has left the building - The show is over now. Everything is over.",
+   "definition": "As in this example, It looks like Elvis has left the building. There's no sign of Mr. Smith anywhere."
+  },
+  {
+   "phrase": "Every cloud has a silver lining - Good things can arise as a result of, or after, bad things.",
+   "definition": "As in this example, I know you're disappointed about missing out on taking a vacation, but remember that every cloud has a silver lining. Maybe you'll get a promotion."
+  },
+  {
+   "phrase": "Every dog has his day - Everyone has a chance of some success, of some kind, at least once.",
+   "definition": "As in this example, He said the guy had a bit of success in something and that every dog has his day."
+  },
+  {
+   "phrase": "Every now and then – Occasionally.",
+   "definition": "As in this example, We go to that park every now and then. It's not something we can do all the time."
+  },
+  {
+   "phrase": "Everything but the kitchen sink - Pretty much everything has been included.",
+   "definition": "As in this example, I always find it a bit difficult to pack for vacation. It's because I always want to pack everything but the kitchen sink!"
+  },
+  {
+   "phrase": "Exact change - The exact amount of coins needed.",
+   "definition": "As in this example, It's best to have exact change when you want to take the bus."
+  },
+  {
+   "phrase": "Excuse my French/Pardon my French - Excuse the fact that I used an offensive (swear) word.",
+   "definition": "As in this example, Sorry. Pardon my French. I don't usually use swear words like that!"
+  },
+  {
+   "phrase": "Face the music - Face the consequences of something you have done.",
+   "definition": "As in this example, My sister was really offended when I wasn't able to attend her event last week. I think I'll have to call her and face the music."
+  },
+  {
+   "phrase": "Fair and square - To be done fairly and correctly.",
+   "definition": "As in this example, Your share of the pie is one quarter, because there are four people. That's fair and square!"
+  },
+  {
+   "phrase": "Fair to middling - Average in quality.",
+   "definition": "As in this example, The quality of the car was fair to middling. It was just average."
+  },
+  {
+   "phrase": "Fair-weather friend - A person who only acts like a friend when things are going well and they can benefit in some way.",
+   "definition": "As in this example, Linda was a fair-weather friend. I only ever heard from her when she could get something from me."
+  },
+  {
+   "phrase": "Fall by the wayside - Something that comes to be ignored.",
+   "definition": "As in this example, Our concern about the first issue fell by the wayside when we heard about the new problem."
+  },
+  {
+   "phrase": "Fall off the wagon - To fail to stick to a determination to do something, for example,  to give up alcohol (for an alcoholic) or smoking.",
+   "definition": "As in this example, Brittany had been determined to quit smoking but she ended up falling off the wagon. She was determined to get back on it again, though, and become a non-smoker."
+  },
+  {
+   "phrase": "Fall on deaf ears - Someone is not listening to what is said.",
+   "definition": "As in this example, I tried to give her some good advice but it seemed to fall on deaf ears. She didn't listen."
+  },
+  {
+   "phrase": "Familiarity breeds contempt - You begin to like or respect someone less the better you know them.",
+   "definition": "As in this example, Bill didn't like his best friend’s others friends after he got to know them. But maybe it's because familiarity breeds contempt."
+  },
+  {
+   "phrase": "Fancy pants - Very fancy and maybe ostentatious.",
+   "definition": "As in this example, The family was always showing off the things they had and making a big deal of it. People called their kids fancy pants at school."
+  },
+  {
+   "phrase": "Fashion victim - Someone who is obsessed with fashion, probably to the point where they go overboard and end up looking worse.",
+   "definition": "As in this example, We weren't impressed by what we saw at last night's fashion show. It looked like a parade of fashion victims."
+  },
+  {
+   "phrase": "Fat cat - A wealthy, but usually very lazy, person.",
+   "definition": "As in this example, People thought the leaders of the company were all fat cats. They were wealthy but never seemed to do very much of anything."
+  },
+  {
+   "phrase": "Feather in one's cap - Something one is proud of.",
+   "definition": "As in this example, The fact that he got the promotion was truly a feather in his cap. He was very proud of it."
+  },
+  {
+   "phrase": "Feather one's nest - To gather up resources to ensure future comfort. Often used sarcastically, implying that someone is doing this in a dishonest or exploitative way.",
+   "definition": "As in this example, We think that he was trying to get as much money as he could, even if it meant that we didn't receive our fair share. He was definitely feathering his nest."
+  },
+  {
+   "phrase": "Feeding frenzy - To eat a large amount of food, probably in a frantic manner. Also refers to consuming anything in a frantic way, such as the public being in a feeding frenzy about the latest celebrity story.",
+   "definition": "As in this example, It seemed like all the magazines were in a feeding frenzy for stories about my favorite celebrity. There were stories printed all over the place."
+  },
+  {
+   "phrase": "Feel like a million dollars - To feel extremely good—both in the way you feel inside and the way you look.",
+   "definition": "As in this example, I felt like a million dollars when I was dressed up for the banquet last night."
+  },
+  {
+   "phrase": "Feel the pinch - To feel the effects of a lack of money or other resources.",
+   "definition": "As in this example, The business had been feeling the pinch. Money was in short supply and they weren't sure how they could continue to offer their services."
+  },
+  {
+   "phrase": "Feel/look like death warmed over - To feel or look extremely tired and drained.",
+   "definition": "As in this example, Jesse's flu seems to be over, but he still looks like death warmed over. His face appears so tired and pale."
+  },
+  {
+   "phrase": "Feeling blue - Feeling sad or depressed.",
+   "definition": "As in this example, She's feeling a bit blue right now. We're trying to cheer her up."
+  },
+  {
+   "phrase": "Fender bender - A minor car accident.",
+   "definition": "As in this example, We got into a fender bender yesterday. Just a minor car accident. It was stressful at the time, though."
+  }
+ ]
+}

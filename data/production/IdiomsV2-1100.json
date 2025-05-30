@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Saving for a rainy day - To save money, especially keeping in mind that you might need it to address any future difficulties.",
+   "definition": "As in this example, He won $500 in a contest, but he's not spending the money. He's going to save it for a rainy day."
+  },
+  {
+   "phrase": "Say uncle - To admit that you have been defeated.",
+   "definition": "As in this example, I know you're too out of breath to race me again. If you insist, I bet you'll say uncle before we're done!"
+  },
+  {
+   "phrase": "Say your piece - Say what you want to say; give your opinion.",
+   "definition": "As in this example, Okay, I have some time to listen to you now. Go ahead and say your piece."
+  },
+  {
+   "phrase": "Scapegoat - Someone who is blamed for things that they're not actually responsible for.",
+   "definition": "As in this example, They weren't very nice to her. They seemed to make her the scapegoat all the time, blaming her for everything they did wrong."
+  },
+  {
+   "phrase": "Scare the pants off someone - To frighten someone.",
+   "definition": "As in this example, The haunted house ride scared the pants off everyone who went on it."
+  },
+  {
+   "phrase": "School of thought - A way of thinking, especially with regard to an academic subject.",
+   "definition": "As in this example, The professor explained that he belonged to a different school of thought on the subject than many other academics."
+  },
+  {
+   "phrase": "School someone in something - To make someone more informed in an area.",
+   "definition": "As in this example, Chloe really schooled her brother in manners yesterday! She told him that he's rude and needs to shape up."
+  },
+  {
+   "phrase": "Scot-free - To get away with something without facing any consequences.",
+   "definition": "As in this example, Everyone was very surprised and disappointed to see them get off scot-free; their actions had hurt a lot of people."
+  },
+  {
+   "phrase": "Screw up - To make a mistake.",
+   "definition": "As in this example, We screwed up on the project. That's why we got a failing grade."
+  },
+  {
+   "phrase": "Sea legs - Having sea legs means to maintain your balance and not get sea sickness on a ship, but it can also refer to someone becoming good at a job or task without feeling overwhelmed or lacking confidence.",
+   "definition": "As in this example, It took quite a while for me to get my sea legs on this job."
+  },
+  {
+   "phrase": "Second-rate (or third- or fourth-rate) - Of a lower quality or standard.",
+   "definition": "As in this example, Noah got upset when people said that he was a second-rate actor."
+  },
+  {
+   "phrase": "Security blanket - Something that makes you feel safe and secure.",
+   "definition": "As in this example, Elise realized that she was using certain things as a security blanket. They made her feel safe and secure, but they were holding her back. She decided to try to be more confident."
+  },
+  {
+   "phrase": "See eye to eye - To perceive and think about something in the same way as someone else.",
+   "definition": "As in this example, After Ava and Emily discussed it for a while, they finally came to an agreement. Now they see eye to eye on the issue."
+  },
+  {
+   "phrase": "See someone's true colors - To see a person's real character.",
+   "definition": "As in this example, I used to think that Ethan was a nice guy, but after knowing him for a while I saw his true colors. He's selfish and can be rude sometimes."
+  },
+  {
+   "phrase": "See the big picture/look at the big picture - To understand the larger context.",
+   "definition": "As in this example, Don't worry about all the little things right now. Try to focus on the big picture."
+  },
+  {
+   "phrase": "See the light - To finally recognize the truth or reality of something.",
+   "definition": "As in this example, A few weeks passed before we were able to make Mandy see the light about her boyfriend. Now she realizes that he is a bit of a jerk."
+  },
+  {
+   "phrase": "See through someone/something - To have the perceptiveness needed to not be fooled by a disguise or false appearance of some kind.",
+   "definition": "As in this example, Judy is always trying to give the impression that she is much more successful than I am, but I see through her. She exaggerates and is not as successful as she seems."
+  },
+  {
+   "phrase": "Sell like hotcakes - To sell extremely quickly.",
+   "definition": "As in this example, The copies of his new book sold like hotcakes! They almost sold out the very first day."
+  },
+  {
+   "phrase": "Sell someone short - To underestimate someone, especially their capabilities or potential.",
+   "definition": "As in this example, You shouldn't sell him short. He's much more talented than you think."
+  },
+  {
+   "phrase": "Set my teeth on edge - Something makes you feel extremely annoyed, perhaps to the point that you almost lose your patience or temper.",
+   "definition": "As in this example, No, I didn't like the movie last night. The actors set my teeth on edge with their cartoonish expressions."
+  },
+  {
+   "phrase": "Shake a leg - Move more quickly and hurry, especially in the context of getting ready to go somewhere or do something.",
+   "definition": "As in this example, We'd better start shaking a leg! I just checked the time and it's much later than I thought. If we don't leave soon, we'll be late for the appointment."
+  },
+  {
+   "phrase": "Shape up or ship out - Do better or leave.",
+   "definition": "As in this example, Ron hasn't been doing very well at his job. His boss told him he needs to shape up or ship out."
+  },
+  {
+   "phrase": "Sharp as a tack - Very clever and quick-thinking.",
+   "definition": "As in this example, Melissa is sharp as a tack. She always knows the answers to every question in class."
+  },
+  {
+   "phrase": "Ships passing in the night - Two individuals who meet and perhaps spend time together for a very brief period of time; especially used in a romantic context.",
+   "definition": "As in this example, The love story was about two people who were like ships passing in the night. They were only able to spend a few hours together before they went their separate ways."
+  },
+  {
+   "phrase": "Shoestring budget - A very limited budget.",
+   "definition": "As in this example, It was hard to organize the formal event on a shoestring budget."
+  },
+  {
+   "phrase": "Shoot from the hip - To say something in a very direct and honest way.",
+   "definition": "As in this example, My best friend, Anna, is really honest and direct. She likes to shoot from the hip on most occasions."
+  },
+  {
+   "phrase": "Shoot hoops - To play basketball, usually in an unstructured way.",
+   "definition": "As in this example, The kids were outside, shooting hoops in the driveway with my basketball."
+  },
+  {
+   "phrase": "Shoot off one's mouth - To speak in an unwarranted or offensive way.",
+   "definition": "As in this example, No need to shoot off your mouth like that! I don't think it's necessary to be so aggressive."
+  },
+  {
+   "phrase": "Shoot the breeze - To chat in a friendly and inconsequential way.",
+   "definition": "As in this example, We had a good time at lunch. We spent our time shooting the breeze and showing each other pictures of our pets!"
+  },
+  {
+   "phrase": "Shot in the arm - Something that suddenly energizes someone or renews their interest in, or concern about, something.",
+   "definition": "As in this example, Learning about their expenses last month was definitely a shot in the arm. They realized they'd been spending too much and needed to make some changes."
+  },
+  {
+   "phrase": "Shot in the dark - To make a guess based on limited information.",
+   "definition": "As in this example, She asked me to guess where she was going this weekend, so I took a shot in the dark and said New York. I was wrong. It was San Francisco."
+  },
+  {
+   "phrase": "Show of hands - To ask people to raise their hand if they are present or if they agree on something.",
+   "definition": "As in this example, The teacher wanted to know how many students agreed with the argument, so she asked for a show of hands."
+  },
+  {
+   "phrase": "Sick as a dog - To be extremely ill with a cold or the flu.",
+   "definition": "As in this example, I missed classes last week because I was as sick as a dog. I had a terrible bout of the flu."
+  },
+  {
+   "phrase": "Sit tight - Wait patiently, try not to worry, and don't act until you hear that you should.",
+   "definition": "As in this example, Erin felt really anxious as she waited for the results of her university applications. But she knew she just had to sit tight and hope for the best."
+  },
+  {
+   "phrase": "Sitting like a bump on a log - Sitting around inactive, especially when other people are busy working.",
+   "definition": "As in this example, One student sat like a bump on a log while everyone else ran around the library, looking for the books they needed."
+  },
+  {
+   "phrase": "Sitting pretty - Doing well and feeling content because of it.",
+   "definition": "As in this example, Ethan is doing well financially. He's certainly sitting pretty with his bank account."
+  },
+  {
+   "phrase": "Sixth sense - A sense of things or a source of perception that isn't based on any of the five senses; often refers to some sort of psychic ability or insight.",
+   "definition": "As in this example, She must have used her sixth sense to find her friend’s missing earring; it blended completely with the pebbles on the ground."
+  },
+  {
+   "phrase": "Skeleton in the closet - An event or fact from someone's past that is embarrassing or disgraceful in some way and that he or she tries to keep private. This could refer to an entire family, too.",
+   "definition": "As in this example, Mary certainly has some skeletons in the closet. There are lots of things from her past that she likes to hide."
+  },
+  {
+   "phrase": "Skelton crew - The minimum number of people necessary for something to operate.",
+   "definition": "As in this example, Quite a few people called in sick today. We're running the shop with a skeleton crew."
+  },
+  {
+   "phrase": "Skip class/cut class - To not go to a class that you're supposed to attend.",
+   "definition": "As in this example, The kids got in trouble with their parents when it was revealed that they had been skipping class."
+  },
+  {
+   "phrase": "Slap on the wrist - A very minor punishment, usually too minor for the crime or offence.",
+   "definition": "As in this example, I didn't think the punishment was severe enough for what he did. It was a mere slap on the wrist."
+  },
+  {
+   "phrase": "Sleep like a log - To sleep very soundly.",
+   "definition": "As in this example, I slept like a log last night. It had been a really tiring day and I needed my rest."
+  },
+  {
+   "phrase": "Slim chance - Very unlikely to happen.",
+   "definition": "As in this example, There's only a slim chance that you'll get that job. There's a lot of competition and your qualifications aren't the best."
+  },
+  {
+   "phrase": "Slip of the tongue - To say something you didn't mean to say.",
+   "definition": "As in this example, I'm sorry I said that. I didn't mean to! It was a slip of the tongue."
+  },
+  {
+   "phrase": "Slow and steady wins the race - In the end, being persistent is more important than having speed.",
+   "definition": "As in this example, She felt bad that she wasn't as good at sports as some of her classmates, but she decided that she should keep trying. Slow and steady wins the race."
+  },
+  {
+   "phrase": "Small world - A statement expressing the idea that the world seems so small when you discover that you have mutual connections with others.",
+   "definition": "As in this example, It's such a small world! I found out that Mary knows my old friend, Jill, from across the country."
+  },
+  {
+   "phrase": "Smell a rat - To have the intuition that someone or something isn't quite right.",
+   "definition": "As in this example, I think I smell a rat. I'm sure that Daniel is up to something that he shouldn't be."
+  },
+  {
+   "phrase": "Smoke and mirrors - The use of illusion.",
+   "definition": "As in this example, Don't believe everything Mary says about her lifestyle. A lot of it is just smoke and mirrors. She likes to impress people."
+  },
+  {
+   "phrase": "Smoke like a chimney - To smoke too many cigarettes.",
+   "definition": "As in this example, The elderly man had a lot of health problems, mainly because he'd smoked like a chimney since his youth."
+  },
+  {
+   "phrase": "Snowed under - Busy or overwhelmed with tasks.",
+   "definition": "As in this example, He wanted to take part in a fun day with his friends but he was snowed under with work."
+  },
+  {
+   "phrase": "So far so good - Things have gone well so far.",
+   "definition": "As in this example, Luke is happy about how things are going at his new job. So far so good."
+  },
+  {
+   "phrase": "Sold me out - To tell someone's secret without permission or to report something they did.",
+   "definition": "As in this example, Annabelle was extremely upset with her friend for telling her secret. She couldn't believe that she'd sold her out."
+  },
+  {
+   "phrase": "Something is killing me - Something hurts or adversely affects you.",
+   "definition": "As in this example, Amy had a terrible headache yesterday. Several times, she said that her head was killing her."
+  },
+  {
+   "phrase": "Something sucks - Something is terrible or disappointing.",
+   "definition": "As in this example, The movie I saw last night sucked. Don't go to see it."
+  },
+  {
+   "phrase": "Something to crow about - An accomplishment that you are proud of and that you can boast about.",
+   "definition": "As in this example, I don't like to boast, but I do think my accomplishments at work this year have given me a little something to crow about."
+  },
+  {
+   "phrase": "Sour grapes - When someone criticizes someone or something because they are jealous of them.",
+   "definition": "As in this example, Jim complained that Jonathan cheated in the race, but there was no evidence of it and everyone said it must just be sour grapes."
+  },
+  {
+   "phrase": "Speak of the devil - Someone whom you (or someone else) just spoke about suddenly appears.",
+   "definition": "As in this example, Have you spoken to Andy lately? Oh, speak of the devil! He's right over there."
+  },
+  {
+   "phrase": "Spice things up - To make something more exciting or interesting.",
+   "definition": "As in this example, They have always served the same kinds of things at their dinner parties, so they decided to spice things up and try something new."
+  },
+  {
+   "phrase": "Spill the beans - To reveal a secret.",
+   "definition": "As in this example, I don't understand why Rebecca won't tell me what's going on. Why won't she just spill the beans?"
+  },
+  {
+   "phrase": "Spin doctor - Someone who manipulates the communication of information to give a desired impression.",
+   "definition": "As in this example, The politician had lots of spin doctors working for him, to help maintain the image he wished to convey."
+  },
+  {
+   "phrase": "Spineless - To lack courage.",
+   "definition": "As in this example, Everyone exclaimed that the leader was spineless when he refused to do what was needed to ensure success. He didn't have the necessary courage."
+  },
+  {
+   "phrase": "Spitting image - To look just like someone else.",
+   "definition": "As in this example, We thought that Louise was the spitting image of her favorite actress."
+  },
+  {
+   "phrase": "Splitting hairs - To engage in an argument about an insignificant detail.",
+   "definition": "As in this example, It was always so tiresome to debate anything with Melissa. She was always splitting hairs, focusing on things that didn’t matter."
+  },
+  {
+   "phrase": "Spread too thin - To have too many responsibilities or tasks at once, and to therefore be unable to properly focus on any of them.",
+   "definition": "As in this example, Do you know what the problem was? I was spread too thin. That's why I couldn't fully focus on the project."
+  },
+  {
+   "phrase": "Square meal - A meal that includes all the food groups, to ensure health.",
+   "definition": "As in this example, Norah was feeling very hungry. She'd only had snacks throughout the day and felt like it had been ages since she'd had a square meal."
+  },
+  {
+   "phrase": "Squeaky clean - Extremely clean.",
+   "definition": "As in this example, Don't worry about the floor. It's squeaky clean."
+  },
+  {
+   "phrase": "Stab someone in the back - To betray someone.",
+   "definition": "As in this example, Molly told me she was very upset the other day. She'd just found out that her best friend had stabbed her in the back by spreading rumors about her."
+  },
+  {
+   "phrase": "Stand my ground - To be firm in defending yourself, your interests, and/or your opinions.",
+   "definition": "As in this example, She was always trying to dismiss my opinions, but this time I decided to stand my ground and to try to persuade her that I was right."
+  },
+  {
+   "phrase": "Stay in touch - To keep in regular contact.",
+   "definition": "As in this example, I'll miss you while you're away. Make sure to stay in touch."
+  },
+  {
+   "phrase": "Stay on budget - To maintain costs within the limits of the budget.",
+   "definition": "As in this example, We have to make sure that we stay on budget with this venture. We can't afford to do otherwise."
+  },
+  {
+   "phrase": "Steal someone's thunder - To steal credit for something or to take attention away from someone else.",
+   "definition": "As in this example, Her sister had just announced her excellent exam marks to their parents, so Alexis decided to wait a few days before sharing her own good news. She didn't want to steal her sister's thunder."
+  },
+  {
+   "phrase": "Step up your game - To start to do better at a task.",
+   "definition": "As in this example, Danny decided he really needed to step up his game at school. He wasn't doing very well."
+  },
+  {
+   "phrase": "Stew in your own juices - To feel annoyed, frustrated, or upset and unable to do anything about it.",
+   "definition": "As in this example, Joe and Melinda got into an argument. Melinda felt that she was in the right and left Joe to stew in his own juices; she refused to talk to him."
+  },
+  {
+   "phrase": "Stick out like a sore thumb - To not fit in within a specific group or context.",
+   "definition": "As in this example, No matter how hard I tried, I never seemed to fit in at their parties. I always stood out like a sore thumb."
+  },
+  {
+   "phrase": "Stick to your guns - To retain your position on something in spite of what others say.",
+   "definition": "As in this example, I think you need to follow your own ideas and stick to your guns in this situation."
+  },
+  {
+   "phrase": "Sticking points - Areas of contention.",
+   "definition": "As in this example, There were many sticking points in our discussion. That's why it was difficult for us to reach a final agreement."
+  },
+  {
+   "phrase": "Stick-in-the-mud - Old-fashioned and inflexible.",
+   "definition": "As in this example, Mr. Robinson is extremely old-fashioned. He's definitely a stick-in-the-mud."
+  },
+  {
+   "phrase": "Sticky fingers - The propensity to steal.",
+   "definition": "As in this example, They didn't trust him to deal with money because he was known to have sticky fingers. He's a thief."
+  },
+  {
+   "phrase": "Stop on a dime - To stop accurately and promptly.",
+   "definition": "As in this example, Marie was an amazing driver. She almost got into an accident once because of someone else's carelessness, but she was able to stop on a dime and avoid it."
+  },
+  {
+   "phrase": "Street-smart - To understand the dangers and realities of the streets (especially in more questionable areas) and to act in a cautious manner.",
+   "definition": "As in this example, They raised their kids to be street-smart and to know how to avoid getting into dangerous situations."
+  },
+  {
+   "phrase": "Stretch the truth - To say something that might be partially true but that also has elements of exaggeration in it.",
+   "definition": "As in this example, Laura stretched the truth when she told us about her new job. She exaggerated quite a bit about her responsibilities."
+  },
+  {
+   "phrase": "Strike it rich - To suddenly gain a large amount of money and become wealthy.",
+   "definition": "As in this example, During our history course, we learned about an historical figure who struck it rich during the gold rush of the nineteenth century."
+  },
+  {
+   "phrase": "String someone along - To give someone the false impression that something is going to happen.",
+   "definition": "As in this example, Don't string them along. If it's not going to happen, you need to tell them."
+  },
+  {
+   "phrase": "Stuffed shirt - A person who is pompous and frustrating to deal with.",
+   "definition": "As in this example, The businessman was a stuffed shirt. He was conceited and also didn't seem to know what he was talking about."
+  },
+  {
+   "phrase": "Swallow your pride - To accept and endure something you find humiliating in some way.",
+   "definition": "As in this example, I think it's time for you to swallow your pride and accept that job. I know it wasn't what you wanted, but it's better than nothing right now."
+  },
+  {
+   "phrase": "Sweat blood - To work extremely hard.",
+   "definition": "As in this example, We sweated blood working on that project, so we were extremely annoyed when it was criticized."
+  },
+  {
+   "phrase": "Sweating bullets - To be extremely anxious.",
+   "definition": "As in this example, Chris was really anxious about his upcoming math exam. He was sweating bullets about it!"
+  },
+  {
+   "phrase": "Take a rain check - To postpone something.",
+   "definition": "As in this example, He received an invitation to meet up with some friends, but he had to take a rain check because he was busy with work."
+  },
+  {
+   "phrase": "Take a shine to something/someone - To instantly like someone or something.",
+   "definition": "As in this example, The teacher took a shine to her new group of students. They all seemed to enthusiastic and polite, and she really liked them."
+  },
+  {
+   "phrase": "Take it easy - Relax and take care of yourself, or good-bye.",
+   "definition": "As in this example, You need to start taking it easy. Your health is suffering because you don't relax enough."
+  },
+  {
+   "phrase": "Take it with a grain of salt/a pinch of salt - Don’t assume that something must be true.",
+   "definition": "As in this example, My friend, who is very competitive, told me all about her recent vacation. She said it was incredibly luxurious. I took her story with a grain of salt."
+  },
+  {
+   "phrase": "Take someone at their word - To believe what someone says without verification or proof.",
+   "definition": "As in this example, They took the man at his word when he said that the store was closing."
+  },
+  {
+   "phrase": "Take something by storm - To overwhelm something or someone.",
+   "definition": "As in this example, The new play took the city by storm. Everyone loved it, making it wildly successful."
+  },
+  {
+   "phrase": "Take something in stride - To accept some sort of trouble or difficulty, and adjust to it as needed.",
+   "definition": "As in this example, Joseph was a relaxed guy who tended to take things in stride. Whenever a difficulty arose, he stayed calm and figured out how to deal with it."
+  },
+  {
+   "phrase": "Take the cake - Amazing (probably in a negative way).",
+   "definition": "As in this example, Tim told you that I said I didn't want to play in the game. Well, that really takes the cake! He's the one who pressured me not to participate."
+  },
+  {
+   "phrase": "Take the floor - To become the center of focus in a room; it usually involves public speaking of some kind.",
+   "definition": "As in this example, The main speaker will take the floor at 6 p.m."
+  },
+  {
+   "phrase": "Take the plunge - To decide to proceed with something, suddenly and perhaps with apprehension.",
+   "definition": "As in this example, We weren't sure whether we should make the purchase, but we decided to take the plunge anyway."
+  },
+  {
+   "phrase": "Take the wind out of your sails - Feeling of disappointment.",
+   "definition": "As in this example, Missing out on the trip really took the wind out of my sails."
+  },
+  {
+   "phrase": "Taken for a ride - Taken advantage of in some way.",
+   "definition": "As in this example, My friend lied to me and took advantage of my kindness several times. He really took me for a ride."
+  },
+  {
+   "phrase": "Talk a blue streak - To talk quickly and for a long time.",
+   "definition": "As in this example, The presenter talked a blue streak! He talked so quickly we could barely tell when one sentence ended and a new one began. And his speech seemed to last for hours!"
+  },
+  {
+   "phrase": "Talk of the town - Someone or something a large number of people are talking (probably gossiping) about.",
+   "definition": "As in this example, The new movie is the talk of the town everywhere."
+  }
+ ]
+}

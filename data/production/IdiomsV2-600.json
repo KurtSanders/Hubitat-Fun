@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Give someone the benefit of the doubt - To trust what someone says until you see proof that you shouldn't.",
+   "definition": "As in this example, Susan gave her friend the benefit of the doubt. She had no reason to disbelieve what she said."
+  },
+  {
+   "phrase": "Give someone the cold shoulder - To ignore or act dismissively toward someone.",
+   "definition": "As in this example, She had looked forward to seeing her old friend at the reunion, and was surprised she was given the cold shoulder."
+  },
+  {
+   "phrase": "Give them the slip - To escape or get away from someone.",
+   "definition": "As in this example, The college students didn't want to see their professor, so they gave him the slip and left the classroom before he saw them."
+  },
+  {
+   "phrase": "Go against the grain - To act in a way that is different from the people around you and to follow your own path.",
+   "definition": "As in this example, Rose was an independent thinker. She was never afraid to go against the grain and do what she thought was right, even if others disagreed with her."
+  },
+  {
+   "phrase": "Go around in circles - To keep trying to do the same thing, with little to no progress.",
+   "definition": "As in this example, I'm sorry, but we just couldn't get it done. We kept going around in circles, trying to decide what we could do to fix the situation."
+  },
+  {
+   "phrase": "Go back to the drawing board - To completely start over.",
+   "definition": "As in this example, I don't think this has turned out very well. We'd better go back to the drawing board."
+  },
+  {
+   "phrase": "Go bananas - To go crazy.",
+   "definition": "As in this example, They got so excited and acted so strangely that I almost started to wonder if they'd gone bananas!"
+  },
+  {
+   "phrase": "Go belly up - For a business to fail.",
+   "definition": "As in this example, The store around the corner went belly up just a few months after it opened."
+  },
+  {
+   "phrase": "Go bonkers - To go crazy.",
+   "definition": "As in this example, She went bonkers when she found out that she failed the exam."
+  },
+  {
+   "phrase": "Go cold turkey - To suddenly and completely stop a practice, often smoking or drinking.",
+   "definition": "As in this example, Laureen had smoked for ten years and knew that she had to quit. She had tried to go cold turkey several times but hadn't succeeded, so she decided to find some help."
+  },
+  {
+   "phrase": "Go down in flames - To fail in a spectacular way.",
+   "definition": "As in this example, I thought my plans would work out but, sadly, everything went down in flames."
+  },
+  {
+   "phrase": "Go fly a kite - To go away; to leave someone alone.",
+   "definition": "As in this example, Joseph got angry at his friend the other day and told him to go fly a kite."
+  },
+  {
+   "phrase": "Go fry an egg - To go away; to leave someone alone.",
+   "definition": "As in this example, Anthony was in a bad mood yesterday. When I tried to talk to him, he got mad at me and told me to go fry an egg!"
+  },
+  {
+   "phrase": "Go haywire - To become erratic and behave very strangely.",
+   "definition": "As in this example, Joe and Tom were acting really strangely last week. I told people that they had gone haywire!"
+  },
+  {
+   "phrase": "Go it alone - To do something alone, with little or no help.",
+   "definition": "As in this example, We decided to go it alone with the business. We knew we could do it by ourselves."
+  },
+  {
+   "phrase": "Go off half-cocked - To try to do something without being properly prepared for it.",
+   "definition": "As in this example, I made sure to read the instruction booklet and understand what I was doing before I tried. I didn't want to go off half-cocked."
+  },
+  {
+   "phrase": "Go off the deep end - To panic or act irrationally.",
+   "definition": "As in this example, I was really worried about Alex the other day. It seemed like he was about to go off the deep end after he learned the bad news."
+  },
+  {
+   "phrase": "Go on a wild goose chase - To undertake a pointless endeavor.",
+   "definition": "As in this example, Connie went out to run some errands and ended up going on a wild goose chase. There was one item on her list that she couldn't find anywhere."
+  },
+  {
+   "phrase": "Go out of one's way - To make an extra effort to do something for someone else.",
+   "definition": "As in this example, I went out of my way to help her study for the final exam. I didn't have to do that, but wanted to be of assistance."
+  },
+  {
+   "phrase": "Go out on a limb - To put oneself in a difficult position just to help someone else or to assist with something.",
+   "definition": "As in this example, Derek went on a limb for me. He didn't have to help me get out of the situation but he did, even though it caused him some difficulties."
+  },
+  {
+   "phrase": "Go overboard - To do something in excess.",
+   "definition": "As in this example, I'm afraid I might have gone overboard with my shopping the other day! I bought a designer handbag and designer shoes!"
+  },
+  {
+   "phrase": "Go postal - To go crazy in an aggressive way.",
+   "definition": "As in this example, Lydia didn't tell me about what was happening. Maybe she was afraid that I'd go postal? Just kidding!"
+  },
+  {
+   "phrase": "Go south - When something starts to go badly.",
+   "definition": "As in this example, Everything with the new venture seemed to be going so well, but it suddenly started to go south."
+  },
+  {
+   "phrase": "Go the extra mile - To do more than is required.",
+   "definition": "As in this example, Meredith always went the extra mile with her job. That's why she was considered such a great employee."
+  },
+  {
+   "phrase": "Go the whole hog - Do the whole thing and go to the fullest extent.",
+   "definition": "As in this example, Her daughter decided she wanted to go the whole hog with her upcoming birthday party. She wanted it to be really exciting and to have everything you could imagine."
+  },
+  {
+   "phrase": "Go through it with a fine-tooth comb - To explore a topic, or object, in an extremely thorough way.",
+   "definition": "As in this example, The detectives looked at the situation extremely carefully. They went through it with a fine-tooth comb."
+  },
+  {
+   "phrase": "Go to hell in a handbasket - Headed for disaster or deteriorating significantly.",
+   "definition": "As in this example, Have you looked at the building project on the corner lately? It really seems like it's going to hell in a handbasket."
+  },
+  {
+   "phrase": "Go to pieces/Fall to pieces - To feel frantic and/or not be able to cope with something.",
+   "definition": "As in this example, Poor Nicole! She seemed to fall to pieces the other day when her boyfriend broke up with her."
+  },
+  {
+   "phrase": "Go to the dogs - To significantly deteriorate in condition or circumstances.",
+   "definition": "As in this example, Mike was terrified when he found out that he'd lost his job. He was afraid that he'd end up going to the dogs."
+  },
+  {
+   "phrase": "Go to town - To do something very enthusiastically or to get permission to go overboard.",
+   "definition": "As in this example, They told me to go to town with what I wanted to do. They liked my enthusiasm."
+  },
+  {
+   "phrase": "Go up in smoke - There’s a possibility of something disappearing or significantly deteriorating.",
+   "definition": "As in this example, Linda was afraid that her chances of getting her dream job had gone up in smoke. It seemed like they'd been destroyed."
+  },
+  {
+   "phrase": "Go with the flow - To take an easygoing attitude and just go along with whatever is happening.",
+   "definition": "As in this example, Robert overreacted a bit at first and got pretty upset about the situation, but he decided to try to just go with the flow."
+  },
+  {
+   "phrase": "Goes without saying - Something is obvious and therefore doesn't really need to be said.",
+   "definition": "As in this example, It goes without saying that I'll want to relax this weekend. You see how tired I am."
+  },
+  {
+   "phrase": "Golden age - The most wonderful period of a stretch of time.",
+   "definition": "As in this example, Ava loved her time in college. She considered it the golden age of her life."
+  },
+  {
+   "phrase": "Golden opportunity - An incredible opportunity.",
+   "definition": "As in this example, The job offer was a golden opportunity."
+  },
+  {
+   "phrase": "Good egg - Someone who is generally a good and reliable person but who has some peculiarities or eccentricities.",
+   "definition": "As in this example, He's can be little odd on occasion, but it's definitely a good egg. He's very sweet and just a little awkward."
+  },
+  {
+   "phrase": "Good for you! - That's great and you should be proud of yourself.",
+   "definition": "As in this example, You got an A+ on your exam? Good for you. That's amazing!"
+  },
+  {
+   "phrase": "Good riddance - To be glad that something or someone one dislikes is gone.",
+   "definition": "As in this example, They are gone now? Good riddance! They were so rude to me."
+  },
+  {
+   "phrase": "Good things come to those who wait - If you're patient, you are likely to eventually be rewarded.",
+   "definition": "As in this example, Don't lose heart! Good things come to those who wait. You're sure to find good career opportunities soon. Just keep trying!"
+  },
+  {
+   "phrase": "Good to know - That's useful to be aware of.",
+   "definition": "As in this example, Oh, you're going this weekend? Good to know. I might go too, then."
+  },
+  {
+   "phrase": "Goody, goody gumdrops - An expression usually used by children. A child (especially a girl) who is very good and never misbehaves.",
+   "definition": "As in this example, Our son said that there's a girl in his class who never, ever misbehaves and who always helps the teacher during recess. He calls her a goody, goody gumdrop, but I told him he should be like that, too."
+  },
+  {
+   "phrase": "Goof off - To act in a silly way and to take a break from more serious things.",
+   "definition": "As in this example, The professor became annoyed when some of the students in his class wouldn't stop goofing off."
+  },
+  {
+   "phrase": "Got off scot-free - To not be held responsible for something.",
+   "definition": "As in this example, I couldn't believe it when they got off scot-free! They did something serious that deserved to be punished."
+  },
+  {
+   "phrase": "Got the third degree - To be questioned intensely and persistently.",
+   "definition": "As in this example, Her parents gave her the third degree when she came home too late the other night. They asked her questions for at least an hour."
+  },
+  {
+   "phrase": "Got their hackles up - To make upset or to offend.",
+   "definition": "As in this example, That thing Anthony said really got my hackles up. I have never felt so insulted in my life!"
+  },
+  {
+   "phrase": "Go-to-guy - The person you go to for help with a certain endeavor or issue.",
+   "definition": "As in this example, He's their go-to-guy for office equipment problems. He's a great repairman."
+  },
+  {
+   "phrase": "Grasping at straws - Desperate to find solutions.",
+   "definition": "As in this example, They're having a difficult time. They've been grasping at straws, desperate to find a solution."
+  },
+  {
+   "phrase": "Graveyard shift - A work shift between about midnight and eight in the morning, when most other people are asleep.",
+   "definition": "As in this example, They found out that they'd need to work the graveyard first when they first started their new job. They weren't looking forward to having to work all night!"
+  },
+  {
+   "phrase": "Gravy train - Something that allows people to make lots of money with hardly any, or no, effort.",
+   "definition": "As in this example, The people in the town didn't trust their local officials. They felt they were corrupt and riding a gravy train."
+  },
+  {
+   "phrase": "Gray area - Something that cannot really be thought of in black-and-white terms. There are both bad and good aspects to the situation.",
+   "definition": "As in this example, My opinion was that it was a gray area. It was neither completely good nor completely bad."
+  },
+  {
+   "phrase": "Grease monkey - A mechanic (this expression might be considered dismissive if said to a mechanic).",
+   "definition": "As in this example, The mechanic seemed offended when I called him a grease monkey. I won't do that again."
+  },
+  {
+   "phrase": "Greased lightning - Very fast.",
+   "definition": "As in this example, The race car was like greased lightning! It was amazingly fast."
+  },
+  {
+   "phrase": "Great minds think alike - Intelligent people often have the same ideas.",
+   "definition": "As in this example, Wow, I can't believe we both had the same idea at the same time! Great minds think alike!"
+  },
+  {
+   "phrase": "Green around the gills - Feeling nauseous or sick to your stomach.",
+   "definition": "As in this example, Sophia often got motion sickness in cars. After a few minutes on the highway, she'd be green around the gills."
+  },
+  {
+   "phrase": "Green room - A room where people wait before they go on a TV or radio show.",
+   "definition": "As in this example, The stars of the show are waiting in the green room. They're ready to go on."
+  },
+  {
+   "phrase": "Green thumb - Talent with gardening.",
+   "definition": "As in this example, Louise always has such a beautiful garden. She has a green thumb."
+  },
+  {
+   "phrase": "Green with envy - To be extremely jealous or envious.",
+   "definition": "As in this example, My friends were green with envy when they saw my new designer shoes."
+  },
+  {
+   "phrase": "Grin and bear it - To deal with something and endure it without complaint.",
+   "definition": "As in this example, I was upset when they told me to just grin and bear it. This problem is interfering with my life."
+  },
+  {
+   "phrase": "Guinea pig - Someone who considers himself or herself to be experimented on in some way.",
+   "definition": "As in this example, They felt as if they'd been used as guinea pigs when they realized the new product had been released without the company knowing whether or not it was actually safe to use."
+  },
+  {
+   "phrase": "Gung ho – Enthusiastic.",
+   "definition": "As in this example, Tommy is certainly gung ho about his upcoming vacation in the Caribbean. He's so enthusiastic. We're a bit jealous!"
+  },
+  {
+   "phrase": "Gut feeling - An intuition.",
+   "definition": "As in this example, I just had a gut feeling that I shouldn't go shopping today. I'm not sure why. It was just my intuition."
+  },
+  {
+   "phrase": "Hair of the dog - An alcoholic beverage of some kind taken in an attempt to cure a hangover.",
+   "definition": "As in this example, Bill woke up with a terrible hangover. He didn't make the wisest decision, however, when he had some hair of the dog. That drink just made it worse."
+  },
+  {
+   "phrase": "Hair's breadth - A very narrow space.",
+   "definition": "As in this example, I felt there was only a hair's breadth of difference between the two approaches. They seemed almost exactly the same."
+  },
+  {
+   "phrase": "Half a mind to do something - Thinking about doing something.",
+   "definition": "As in this example, I have half a mind to learn how to play tennis. All my friends love the sport and I wish I could take part in it with them."
+  },
+  {
+   "phrase": "Half the battle - Half of the effort or work required.",
+   "definition": "As in this example, Learning how to do this is half the battle. Once you've become good at it, you'll be able to work much more quickly."
+  },
+  {
+   "phrase": "Half-baked - Inadequately thought-out or planned.",
+   "definition": "As in this example, I think it's a terrible plan. Honestly, it's half-baked. Didn't anyone think it out?"
+  },
+  {
+   "phrase": "Hammering out a deal - To negotiate and arrive at a deal.",
+   "definition": "As in this example, They managed to hammer out a great deal with the salesperson."
+  },
+  {
+   "phrase": "Hand in glove - Very close.",
+   "definition": "As in this example, The two parts of the business worked hand in glove. They were necessary for each other."
+  },
+  {
+   "phrase": "Hand over fist - Very quickly.",
+   "definition": "As in this example, We were surprised by how much money they spent yesterday. It seemed like they were paying out cash hand over fist!"
+  },
+  {
+   "phrase": "Hang in there - Stay determined and persistent.",
+   "definition": "As in this example, I know things are difficult right now but hang in there!"
+  },
+  {
+   "phrase": "Hang tight - Just wait for something to happen.",
+   "definition": "As in this example, It's okay! Hang tight. It'll definitely happen eventually."
+  },
+  {
+   "phrase": "Happy-go-lucky - Very cheerful and happy.",
+   "definition": "As in this example, Don't worry about him! He's always so happy-go-lucky; it seems like he can deal with almost anything with a smile on his face."
+  },
+  {
+   "phrase": "Hard sell - To use selling techniques that are relatively aggressive or pushy.",
+   "definition": "As in this example, The used car salesperson always used a hard sell when dealing with customers. That's why people tried to avoid him. He was pushy."
+  },
+  {
+   "phrase": "Hard/bitter pill to swallow - Something that is difficult to take or accept.",
+   "definition": "As in this example, The fact that he hadn't done well in the course was a bitter pill to swallow. He didn't want to accept it."
+  },
+  {
+   "phrase": "Haste makes waste - Rushing through something will likely lead to mistakes.",
+   "definition": "As in this example, Susan tried to hurry as she made the dress, but her friend advised her that haste makes waste."
+  },
+  {
+   "phrase": "Have an axe to grind - To be upset about something and to perhaps desire revenge of some kind",
+   "definition": "As in this example, Laura definitely has an axe to grind with Lindsey. It seems like Lindsay did something to upset her in the past and she still hasn't let it go."
+  },
+  {
+   "phrase": "Have bats in one's belfry - Eccentric or crazy in a harmless way.",
+   "definition": "As in this example, That professor seems weird. I think he has bats in his belfry!"
+  },
+  {
+   "phrase": "Have hell to pay - To be in severe difficulties.",
+   "definition": "As in this example, I'm afraid there could be hell to pay if we don't get this done by the deadline. We'll be in a lot of trouble."
+  },
+  {
+   "phrase": "Have something down pat - To thoroughly understand something.",
+   "definition": "As in this example, Don't worry about Isabella. She has the instructions for the task down pat."
+  },
+  {
+   "phrase": "Have the world by the tail - To be doing remarkably well with something; to be in control of one's life and prospects.",
+   "definition": "As in this example, It seems like Madison has the world by the tail. She appears to be in control of everything and is immensely successful."
+  },
+  {
+   "phrase": "Have time off - To have time away from work.",
+   "definition": "As in this example, Marissa has a bit of time off work. She is planning to use it for a short vacation to a nearby city."
+  },
+  {
+   "phrase": "Have two left feet - To be clumsy, especially while dancing.",
+   "definition": "As in this example, I'm a terrible dancer! I have two left feet."
+  },
+  {
+   "phrase": "Have your head in the clouds - To fail to concentrate or to live in a dreamworld.",
+   "definition": "As in this example, Max always seemed to have his head in the clouds. He never appeared to focus and seemed to live in a dreamworld."
+  },
+  {
+   "phrase": "He has bigger fish to fry - He/she has more important issues to deal with than what we are currently discussing.",
+   "definition": "As in this example, Don't bother him with that problem right now. He is very busy and has bigger fish to fry."
+  },
+  {
+   "phrase": "He who laughs last laughs loudest - I'll get some kind of revenge for what you have done.",
+   "definition": "As in this example, You think that you've outsmarted me, but remember: he who laughs last laughs loudest."
+  },
+  {
+   "phrase": "Head and shoulders above - Vastly superior.",
+   "definition": "As in this example, The literary critic thought that the first book was head and shoulders above the second. It was superior in every way."
+  },
+  {
+   "phrase": "Head honcho - Someone in the highest position of power within an organization or company.",
+   "definition": "As in this example, We told them they would need to ask our boss about it. She's the head honcho, after all, and makes all the important decisions."
+  },
+  {
+   "phrase": "Head in the clouds - Tending to live in the imagination and not firmly grounded in reality.",
+   "definition": "As in this example, Noreen's head is always in the clouds. She seems to live mostly in her imagination. I can't get her to think of practical things."
+  },
+  {
+   "phrase": "Head over heels - To fall, or to be, deeply in love.",
+   "definition": "As in this example, The couple is very much in love. They are head over heels for each other."
+  },
+  {
+   "phrase": "Heads-up - An update that provides new knowledge or understanding of something.",
+   "definition": "As in this example, I asked her to give me a heads-up if anything about the situation changed."
+  },
+  {
+   "phrase": "Hear it on the grapevine - To hear a rumor about someone or something.",
+   "definition": "As in this example, Olivia wondered how Emily had heard about her news. Emily explained that she heard it on the grapevine, through rumors from friends."
+  },
+  {
+   "phrase": "Hear something straight from the horse's mouth - To hear information directly from the individual involved.",
+   "definition": "As in this example, It's true, I promise you. He's going to Europe this summer. I got it straight from the horse's mouth."
+  },
+  {
+   "phrase": "Heebie-jeebies - A creepy feeling that might make you shudder.",
+   "definition": "As in this example, Lizzy hates any kind of spider or insect. They always give her the heebie-jeebies! If she sees one, she’ll ask someone else to deal with it!"
+  },
+  {
+   "phrase": "Here and there - Sometimes/occasionally, or in several different places.",
+   "definition": "As in this example, I buy new shoes here and there. I don't go shopping very often because trying on new shoes takes too long."
+  },
+  {
+   "phrase": "He's a chip off the old block - A son who is similar to his father.",
+   "definition": "As in this example, Look at him, fishing like he's been doing it forever! I can’t believe this is his first try. He must be a chip off the old block."
+  },
+  {
+   "phrase": "He's not playing with a full deck - He's not very smart.",
+   "definition": "As in this example, Derek told me the news, so I'm not sure if I really believe it's true. After all, he's not playing with a full deck."
+  },
+  {
+   "phrase": "He's off his rocker - Someone who is very irrational, even crazy.",
+   "definition": "As in this example, I can't believe he'd run in front of traffic like that! He must be off his rocker."
+  },
+  {
+   "phrase": "High on the hog - To live in a luxurious way.",
+   "definition": "As in this example, Their family has lots of money, and they always seem to live high on the hog. They went on four vacations last year."
+  },
+  {
+   "phrase": "High, wide, and handsome - Large and impressive.",
+   "definition": "As in this example, We couldn't believe it when we saw the house! It is truly high, wide, and handsome. I've never known anyone with such an impressive piece of property."
+  },
+  {
+   "phrase": "Hissy fit - To get really upset and to show it.",
+   "definition": "As in this example, I couldn't believe how upset they got! They never stopped talking loudly; they even shouted about their frustration. For adults, they threw quite a hissy fit."
+  },
+  {
+   "phrase": "Hit it on the nose - To have a perfect understanding of something or to do something perfectly.",
+   "definition": "As in this example, Olivia was very smart. She seemed to get everything right at work, constantly hitting things on the nose."
+  }
+ ]
+}

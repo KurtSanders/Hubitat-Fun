@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Make hay while the sun shines - To make full use of a good situation.",
+   "definition": "As in this example, We considered putting off taking advantage of the situation. After a while, though, we realized that we should make hay while the sun was still shining."
+  },
+  {
+   "phrase": "Make no bones about - To say something in a very definite way that doesn't allow for objections.",
+   "definition": "As in this example, Diane made no bones about how she felt. She described it very clearly and no one was about to argue with her."
+  },
+  {
+   "phrase": "Make out like a bandit - To have success in a venture, especially one involving money or other benefits.",
+   "definition": "As in this example, Ethan was an amazing negotiator. It seemed like he was always making out like a bandit in business deals."
+  },
+  {
+   "phrase": "Make out what someone said - Discern what someone said.",
+   "definition": "As in this example, She was at the other end of the room and I couldn't make out what she said; she spoke too softly for me to hear."
+  },
+  {
+   "phrase": "Make the grade - To be satisfactory or to meet necessary standards.",
+   "definition": "As in this example, Lara said she didn't end up making the grade in her evaluation the other day. Her work isn't up to standard, so she has to improve."
+  },
+  {
+   "phrase": "Make tracks - To promptly or quickly leave.",
+   "definition": "As in this example, I think it's time we made tracks. I have an appointment this afternoon and if I don't leave now, I might be late."
+  },
+  {
+   "phrase": "Make waves - To create any controversy or trouble.",
+   "definition": "As in this example, I was thinking about expressing my disagreement on the issue, but I really want to avoid making waves right now."
+  },
+  {
+   "phrase": "Make yourself at home - An invitation to feel comfortable in someone else’s home.",
+   "definition": "As in this example, I'll probably have to go out right after you arrive, but I want you to make yourself at home."
+  },
+  {
+   "phrase": "Man's best friend - A dog.",
+   "definition": "As in this example, He loves his dog. Well, you know what they say! A dog is man's best friend."
+  },
+  {
+   "phrase": "Mark time - To wait out the minimum time you need to put in.",
+   "definition": "As in this example, We got the impression that the new employee was just marking time. He didn't seem to be trying very hard, and his gaze kept focusing on the clock."
+  },
+  {
+   "phrase": "Meat and potatoes - The basics of something or a situation.",
+   "definition": "As in this example, Let's not talk about the details of the matter right now. We'll just focus on the meat and potatoes."
+  },
+  {
+   "phrase": "Meet halfway - To understand one another's positions in an argument or situation, and to make compromises accordingly.",
+   "definition": "As in this example, I think it's time for Janet and Ellen to meet halfway on this issue. They are both right in some ways and wrong in others, and they should compromise."
+  },
+  {
+   "phrase": "Mickey mouse job - A job that is considered insignificant, perhaps even useless.",
+   "definition": "As in this example, People said I had a mickey mouse job in customer service. They thought it was unimportant and wouldn't lead to any other opportunities."
+  },
+  {
+   "phrase": "Midas touch - To be able to make money much more easily than other people.",
+   "definition": "As in this example, It seems like everything she touches turns to gold; she makes so much money and doesn’t even have to try that hard. She has the Midas touch."
+  },
+  {
+   "phrase": "Middle of the road - A position (especially political) that is not at either extreme of the spectrum. It is pretty much in the middle.",
+   "definition": "As in this example, Ben didn't really have many opinions on politics, but he could say that the ones he had were generally middle of the road."
+  },
+  {
+   "phrase": "Mind your own beeswax - Mind your own business and refrain from interfering in other people's concerns.",
+   "definition": "As in this example, Why are you asking me all of these questions? It's my private business. Mind your own beeswax!"
+  },
+  {
+   "phrase": "Miss the boat - To miss out on an opportunity because you're too late.",
+   "definition": "As in this example, I don't want to miss the boat on this investment opportunity."
+  },
+  {
+   "phrase": "Mom-and-pop - A small family-run business, or a tiny establishment, such as a corner shop.",
+   "definition": "As in this example, Have you ever been to the little store around the corner? It's a real classic mom-and-pop shop."
+  },
+  {
+   "phrase": "Money burns a hole in someone's pocket - When someone feels the need to spend money simply because they have it.",
+   "definition": "As in this example, It's hard for Tim to save money. He says that money always burns a hole in his pocket and he wants to spend it right away."
+  },
+  {
+   "phrase": "Money talks - Money can be used to gain power and leverage; there is a strong implication of corruption.",
+   "definition": "As in this example, Many people wondered how he got the contract; it didn’t seem so mysterious to me. Money talks."
+  },
+  {
+   "phrase": "Money to burn - To have large amounts of extra money.",
+   "definition": "As in this example, They've apparently got money to burn. They've done a huge number of unnecessary renovations to their house, just to make it more luxurious, and they have four sports cars!"
+  },
+  {
+   "phrase": "More bang for your buck - To get a lot of value for your money.",
+   "definition": "As in this example, The saleswoman told Andrea she should go with the other TV because it would give more bang for her buck."
+  },
+  {
+   "phrase": "More than I bargained for - More than I expected.",
+   "definition": "As in this example, The amount of work Douglas was assigned was more than he had bargained for. He felt overwhelmed."
+  },
+  {
+   "phrase": "More than meets the eye - There is more to it than you think.",
+   "definition": "As in this example, Don't underestimate what could happen. There's a lot more than meets the eye here."
+  },
+  {
+   "phrase": "Move some things around - To make some adjustments.",
+   "definition": "As in this example, Let me see if I can move some things around in my schedule so that I can book you an appointment for next week."
+  },
+  {
+   "phrase": "Mumbo jumbo - Meaningless words or nonsense.",
+   "definition": "As in this example, I heard about the theory, but honestly I felt it was really a bunch of mumbo jumbo. It sounded like nonsense to me."
+  },
+  {
+   "phrase": "Mum's the word - Stay quiet and don't talk about it.",
+   "definition": "As in this example, I trusted you when I told you all about my secret yesterday, so please remember that mum's the word. Don’t tell anyone else about it."
+  },
+  {
+   "phrase": "My bad - It was my mistake and I take responsibility for it.",
+   "definition": "As in this example, Sorry about that. I thought that what I said about the store I recommended was true. My bad."
+  },
+  {
+   "phrase": "My eyes are bigger than my stomach - I wanted to eat more than my stomach could handle.",
+   "definition": "As in this example, I put way too much on my plate at the buffet. Apparently, my eyes were bigger than my stomach."
+  },
+  {
+   "phrase": "My hands are tied - I cannot do anything to change the situation because I am not the one who can make the decision.",
+   "definition": "As in this example, I'm sorry but I can't change the meeting time. My hands are tied; my boss is the one who makes those decisions."
+  },
+  {
+   "phrase": "My heart is set on - It means a lot to me to do something.",
+   "definition": "As in this example, My heart is set on going to Europe this year. I just hope it will be possible."
+  },
+  {
+   "phrase": "My neck of the woods - Where one lives.",
+   "definition": "As in this example, Ashley couldn't find any fashionable clothing stores near her. She always complained about the limited shopping options in her neck of the woods."
+  },
+  {
+   "phrase": "Nest egg - Savings that are meant for use in the future.",
+   "definition": "As in this example, They had a large nest egg. There wasn't a need to worry about their finances. They'd probably be quite wealthy when they retired."
+  },
+  {
+   "phrase": "Never bite the hand that feeds you - Don't hurt someone who helps you.",
+   "definition": "As in this example, I don't think you should say anything potentially hurtful to him. Remember, it's best not to bite the hand that feeds you."
+  },
+  {
+   "phrase": "New kid on the block - New person in an area, or a person newly involved in something.",
+   "definition": "As in this example, Marie had a hard time when she first started her new job. She felt like the new kid on the block and excluded from the other employees' friendships."
+  },
+  {
+   "phrase": "New York minute - A minute that seems to pass especially quickly in a hectic environment.",
+   "definition": "As in this example, It seemed like less than a New York minute before my book was stolen! I barely had time to blink."
+  },
+  {
+   "phrase": "Night owl - Someone who tends to stay up very late at night.",
+   "definition": "As in this example, I am a bit of a night owl and tend to stay up after everyone else goes to sleep."
+  },
+  {
+   "phrase": "Nip something in the bud - To prevent something from getting worse by cutting it off at the very beginning.",
+   "definition": "As in this example, When we were kids in elementary school, our teachers always said that bad behavior needed to be nipped in the bud."
+  },
+  {
+   "phrase": "Nitty-gritty - The most fundamental aspects of something. Can have a negative connotation.",
+   "definition": "As in this example, Melvin felt awkward about talking about the subject with his co-worker, but eventually he felt the need to get down to the nitty-gritty and address it."
+  },
+  {
+   "phrase": "No big deal - Not anything of significance.",
+   "definition": "As in this example, Don't worry about the issue. It's no big deal. No need to worry."
+  },
+  {
+   "phrase": "No dice - It's not going to happen.",
+   "definition": "As in this example, I hoped to get the time off to go to the Caribbean this year, but no dice. My vacation will have to wait."
+  },
+  {
+   "phrase": "No pain, no gain - You need to exert yourself to accomplish things.",
+   "definition": "As in this example, You should go on morning runs to get fit. No pain, no gain!"
+  },
+  {
+   "phrase": "No rhyme or reason - Without explanation or logic.",
+   "definition": "As in this example, With no rhyme or reason, my friend decided to move across the country."
+  },
+  {
+   "phrase": "No-brainer - Easy and simple.",
+   "definition": "As in this example, It was easy for me to help Joey with his math problem. It was a no-brainer. I didn't tell him that, though! He might have been insulted."
+  },
+  {
+   "phrase": "Not a spark of decency - To have no decency at all, or no manners or consideration.",
+   "definition": "As in this example, Hannah was really upset with how her friend reacted to her crisis. She felt he didn't have a spark of decency."
+  },
+  {
+   "phrase": "Not have a leg to stand on - Lacking the ability to support an argument.",
+   "definition": "As in this example, The competitor in the debate doesn't have a leg to stand on with his argument."
+  },
+  {
+   "phrase": "Not one's cup of tea - Something that doesn't fit one's taste, or that one doesn’t enjoy or like.",
+   "definition": "As in this example, I never watch football. It's never really been my cup of tea."
+  },
+  {
+   "phrase": "Not playing with a full deck - Not very intelligent.",
+   "definition": "As in this example, James is really difficult to work with. He doesn't seem to know what he's doing. I don't think he's playing with a full deck. He doesn't seem very smart."
+  },
+  {
+   "phrase": "Not what it's cracked up to be - Something is not as good or impressive as people have implied.",
+   "definition": "As in this example, Yes, we went to that amusement park last summer. It's not what it's cracked up to be though. There weren't very many rides."
+  },
+  {
+   "phrase": "Not worth a red cent - Something that lacks any value.",
+   "definition": "As in this example, I wish I could sell my car, but the truth is it's not worth a red cent! Who would buy it?"
+  },
+  {
+   "phrase": "Nothing to write home about - Nothing exciting or extraordinary.",
+   "definition": "As in this example, The meal at the famous restaurant was quite good, but it was nothing to write home about. It simply wasn't as special as I thought it would be."
+  },
+  {
+   "phrase": "Number cruncher - Someone who works with numbers, especially in a tedious way, in accounting or finance.",
+   "definition": "As in this example, The accountant knew he was much more than just a number cruncher. For that reason, he got annoyed when people called him that."
+  },
+  {
+   "phrase": "Odd man out - Person who doesn't fit in or who is somehow left out.",
+   "definition": "As in this example, Nathan always felt like he was the odd man out when his friends got together. He just didn't think he really belonged."
+  },
+  {
+   "phrase": "Off-color - For something to be a little odd or perhaps objectionable in some way.",
+   "definition": "As in this example, The comedian's jokes were a little off-color. They made some people feel uncomfortable."
+  },
+  {
+   "phrase": "Off on the wrong foot - To start something the wrong way or in a way that is disadvantageous to you.",
+   "definition": "As in this example, Mike got off on the wrong foot with his interview. He arrived late and was inadvertently rude to the employer about something!"
+  },
+  {
+   "phrase": "Off the cuff - To do something spontaneously, or without much preparation.",
+   "definition": "As in this example, She made her speech completely off the cuff, without a single note to refer to. I could never do that."
+  },
+  {
+   "phrase": "Off the hook - To not be held responsible for something.",
+   "definition": "As in this example, I'm so relieved. The teacher is letting me off the hook even though my homework is late. He's not marking down my grade."
+  },
+  {
+   "phrase": "Off the record - To saying something that you don't want the other person to tell anyone else about.",
+   "definition": "As in this example, Can I tell you something off the record? Peggy said that she has decided on a new career, but she isn't sure yet when she'll be handing in her notice at her current job."
+  },
+  {
+   "phrase": "Off the top of my head - Without any previous consideration.",
+   "definition": "As in this example, Off the top of my head, I'd say that red is my favorite color. I've never really thought about it, though."
+  },
+  {
+   "phrase": "Off the wall - Bizarre or crazy.",
+   "definition": "As in this example, We all agreed that his reaction was totally off the wall! It didn't make any sense and defied logic."
+  },
+  {
+   "phrase": "Old school - To be old-fashioned in some way.",
+   "definition": "As in this example, He's kind of old school. He always listens to records and he hates downloading music."
+  },
+  {
+   "phrase": "On a shoestring - On an extremely limited budget.",
+   "definition": "As in this example, They are going on vacation, but it's going to be on a shoestring. They don't have very much money right now."
+  },
+  {
+   "phrase": "On a tear - A time of emotional reactivity, energy, or heightened emotions. Can also mean a period of drug use or drunkenness.",
+   "definition": "As in this example, He was on a tear when we last saw him. That's how upset he was."
+  },
+  {
+   "phrase": "On a treadmill - Stuck in a routine that is boring and dull.",
+   "definition": "As in this example, Grace feels she's on a treadmill with her current routine. She wants to change her life but doesn't know how."
+  },
+  {
+   "phrase": "On cloud nine - Extremely happy or blissful.",
+   "definition": "As in this example, We've all been on cloud nine since hearing the wonderful news."
+  },
+  {
+   "phrase": "On pins and needles - To be nervous or anxious, especially in anticipation of something.",
+   "definition": "As in this example, She's on pins and needles about her interview tomorrow. She's very nervous."
+  },
+  {
+   "phrase": "On the ball - Being alert and competent when completing a task.",
+   "definition": "As in this example, Annabelle is definitely going to win the employee of the year award. She's so on the ball in everything she does."
+  },
+  {
+   "phrase": "On the blink - Not working as it should. Usually applies to a piece of equipment.",
+   "definition": "As in this example, The stove is on the blink! That's why we can't make any soup tonight."
+  },
+  {
+   "phrase": "On the cheap - For little money and/or on a limited budget.",
+   "definition": "As in this example, I'm going, but I'm going to do it on the cheap. I don't want to spend too much money."
+  },
+  {
+   "phrase": "On the dot - To get somewhere right on time.",
+   "definition": "As in this example, I got to the appointment at 3:15 p.m. on the dot. I didn’t even have to wait for the receptionist to call my name!"
+  },
+  {
+   "phrase": "On the fence - Having a difficult time making a decision about something.",
+   "definition": "As in this example, He's still on the fence about whether he should go to France or Spain."
+  },
+  {
+   "phrase": "On the fly - Doing something else while on the go.",
+   "definition": "As in this example, She just left to go to work, but she said she'd pick up a newspaper on the fly."
+  },
+  {
+   "phrase": "On the fritz - Something is not working as it should.",
+   "definition": "As in this example, It was a tricky day in the office yesterday. It seemed like every piece of equipment was on the fritz! We could hardly get anything done."
+  },
+  {
+   "phrase": "On the house - Free, at the expense of the restaurant or bar.",
+   "definition": "As in this example, The bartender gave us some drinks on the house!"
+  },
+  {
+   "phrase": "On the level - Honest.",
+   "definition": "As in this example, I truly feel that the salesperson was on the level when she claimed that this would suit my needs perfectly."
+  },
+  {
+   "phrase": "On the line - In jeopardy in some way.",
+   "definition": "As in this example, They put all their resources on the line with the new business. It ended up being a mistake."
+  },
+  {
+   "phrase": "On the same page - To think the same way.",
+   "definition": "As in this example, We're definitely on the same page when it comes to the office party. We agree on what should be done."
+  },
+  {
+   "phrase": "On the spot - Right here, at this time.",
+   "definition": "As in this example, He made the decision on the spot; He did not need any additional time to consider the alternatives."
+  },
+  {
+   "phrase": "On the spur of the moment - Spontaneously and without prior planning.",
+   "definition": "As in this example, I know I didn't tell you we'd be going for a country drive; we just decided to go there on the spur of the moment!"
+  },
+  {
+   "phrase": "On the top of the world - Feeling very happy and perhaps triumphant.",
+   "definition": "As in this example, My brother was feeling on the top of the world when he found out that he got his dream job."
+  },
+  {
+   "phrase": "On the up and up - Fair and ethical.",
+   "definition": "As in this example, We were worried at first that the book might have been dishonest, but now we believe that it is actually on the up and up. The contents seem unbiased and well-researched."
+  },
+  {
+   "phrase": "On the warpath - Extremely angry and wanting to confront someone.",
+   "definition": "As in this example, Watch out for Dan! He's extremely angry about the work you did and is on the warpath. He's such a difficult boss."
+  },
+  {
+   "phrase": "On thin ice - You have already made several mistakes and if you make another one, you will be in trouble.",
+   "definition": "As in this example, My teacher told me that I'm on thin ice. If I do poorly on another assignment, I could get a failing grade."
+  },
+  {
+   "phrase": "Once and for all - Indicating a permanent answer or solution.",
+   "definition": "As in this example, Once and for all, I wish you would admit that you were wrong on that subject."
+  },
+  {
+   "phrase": "Once bitten, twice shy - Something unpleasant has happened, so now you exercise more cautious to prevent the same thing from happening again.",
+   "definition": "As in this example, I don't think I'll shop at that store again. They ripped me off on something a few years ago. Once bitten, twice shy."
+  },
+  {
+   "phrase": "Once in a blue moon - Something that very rarely happens.",
+   "definition": "As in this example, I like ice cream, but I only have it once in a blue moon because it's unhealthy."
+  },
+  {
+   "phrase": "One fell swoop - In one quick and sweeping effort.",
+   "definition": "As in this example, It's true! We got all of this done in one fell swoop this morning."
+  },
+  {
+   "phrase": "One-trick pony - Someone who is only really good at one thing.",
+   "definition": "As in this example, Jeremy is kind of a one-trick pony. He's only good at that one thing and nothing else."
+  },
+  {
+   "phrase": "Open a can of worms - To open up discussion or contemplation of a new topic, or a new situation, probably a tricky one.",
+   "definition": "As in this example, Hannah discouraged us from asking our friends that question. She said it would open up a whole new can of worms."
+  },
+  {
+   "phrase": "Out of date - Not relevant or applicable today; if in relation to food, no longer safe to eat.",
+   "definition": "As in this example, We told her that the skirt she wanted to buy was a bit out of date. It seemed like something that would have been fashionable many years ago."
+  },
+  {
+   "phrase": "Out of left field - Unrelated to the issue at hand, or whatever is being discussed.",
+   "definition": "As in this example, Katie made a really strange comment yesterday. It didn't have anything to do with what we were talking about. It was just so out of left field!"
+  },
+  {
+   "phrase": "Out of my hands - Out of your control.",
+   "definition": "As in this example, It's out of my hands now. There's nothing I can do to make changes to the project."
+  },
+  {
+   "phrase": "Out of order - No longer working or effective; in some contexts, unacceptable.",
+   "definition": "As in this example, Don't bother putting your money in that vending machine. It's out of order and won't give you a candy bar."
+  },
+  {
+   "phrase": "Out of the blue - Something that occurs unexpectedly and abruptly.",
+   "definition": "As in this example, That letter really came from out of the blue! I hadn't heard from her in years!"
+  },
+  {
+   "phrase": "Out of the frying pan and into the fire - Things were bad, but now they'll get worse.",
+   "definition": "As in this example, He thought his new job would be easier than his previous one, but it isn't. It's actually harder! Out of the frying pan and into the fire."
+  },
+  {
+   "phrase": "Out of the question - Not possible or acceptable.",
+   "definition": "As in this example, It's simply out of the question for him to buy that. He can't afford it."
+  },
+  {
+   "phrase": "Out of the woods - A difficult situation has improved or become easier to deal with. The most challenging part is over.",
+   "definition": "As in this example, The horrible time the Maxwell family has been going through might end soon, but they're not quite out of the woods yet."
+  },
+  {
+   "phrase": "Out of this world - Extraordinary.",
+   "definition": "As in this example, The celebration was out of this world. It was extraordinary and something I'll never forget."
+  },
+  {
+   "phrase": "Out on the town - To go out and enjoy yourself.",
+   "definition": "As in this example, They went out on the town last night, visiting a few nightclubs and just having fun."
+  },
+  {
+   "phrase": "Out to lunch - Confused or unaware of circumstances or reality, or perhaps absentminded.",
+   "definition": "As in this example, I tried to talk to my professor this morning but he seemed very distracted. I've heard of professors being a little absentminded, but this guy is out to lunch!"
+  },
+  {
+   "phrase": "Over my dead body - To forbid something.",
+   "definition": "As in this example, You think you're going there by yourself? Over my dead body! You're only twelve years old."
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "9-to-5 - An average job schedule.",
+   "definition": "As in this example, He decided that he was going to look for a 9-to-5 job soon ."
+  },
+  {
+   "phrase": "A bad apple - A bad (or morally questionable) person within a group of good individuals, who might corrupt the entire group. Like a rotten apple in a barrel of good ones .",
+   "definition": "As in this example, Onlookers were worried that the entire group of trick-or-treaters was bad, but there were really only a couple of bad apples."
+  },
+  {
+   "phrase": "A baker's dozen - Thirteen, or one more than an actual dozen (which is twelve).",
+   "definition": "As in this example, We went to the grocery store and bought a baker's dozen of chocolate chip muffins. We're looking forward to eating them later."
+  },
+  {
+   "phrase": "A ballpark figure - An approximate figure.",
+   "definition": "As in this example, This is only a ballpark figure. It may not be very accurate once you add up all the numbers."
+  },
+  {
+   "phrase": "A bird in the hand is worth two in the bush - What you have at this moment carries more value than something you might obtain later.",
+   "definition": "As in this example, Jane asked me whether she should take the current job offer or wait for a better one. I told her to accept the current one. After all, a bird in the hand is worth two in the bush."
+  },
+  {
+   "phrase": "A bit/A little bit - To a small extent or a small amount.",
+   "definition": "As in this example, I think I'll have just a little bit of cereal this morning. I'm not very hungry."
+  },
+  {
+   "phrase": "A blessing in disguise - Something that seems bad initially, but that ends up having a positive outcome.",
+   "definition": "As in this example, He was very upset about not getting the job, but it ended up being a blessing in disguise as he got a better one later on."
+  },
+  {
+   "phrase": "A bone to pick - A reason why one is upset.",
+   "definition": "As in this example, I have a bone to pick with you. I don't like the way you did this."
+  },
+  {
+   "phrase": "A breath of fresh air - A person who is different from others in a very positive way. Everyone thought that Sasha was a breath of fresh air. She was so clever and friendly, and so different from anyone else they'd ever met.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "A bunch of friends and I are going on a day trip tomorrow.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Have you met Max? That guy has a real chip on his shoulder. He's always a bit arrogant and on the defensive.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Elizabeth tried to hand in her assignment, but her teacher said it was a day late and a dollar short.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Shirts in that style are a dime a dozen at the local mall.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "That storm the other day was a real doozy! I don't think I'll ever forget it. The thunder was terrible.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Jonathan is very hard to convince about anything. He always wants evidence. He's a real doubting Thomas.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "That movie was a far cry from anything I would like. I just didn't enjoy it.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The team decided that the additional guest speaker was a fifth wheel and not necessary to include.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We were excited about what happened, but it ended up just being a flash in the pan. Nothing came of it.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I can't believe so many people have bought the product from that questionable infomercial. Well, you know what they say! A fool and his money are easily parted.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I have to give the script writers an A for effort, but I don't feel that the program came together very well in the end.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I think I've reached a fork in the road here. I don't know which direction to go.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Shelly was always such a good Samaritan. She always helped people in need.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Helen tended to be difficult to deal with. She had a lot of hang-ups, and it was easy to offend her.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Yes, I'm enjoying my new job. My boss, though, is a hard nut to crack. I'm having difficulty in understanding what he wants.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The family tried to avoid bringing up political hot potatoes during the holidays.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The politician was known to be corrupt. It had been proven that he had accepted kickbacks from several people.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "How did I find out that your sister is getting married? A little bird told me.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Some people are always promoting opinions that make me realize that a little learning can be a dangerous thing.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I can't believe I forgot that! I have a memory like a sieve.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "You're very quiet today. A penny for your thoughts.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Try to save more of your money. Remember that a penny saved is a penny earned.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The family seemed to be experiencing a perfect storm of unfortunate events.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Look at the sad faces on everyone. They wouldn’t believe it if they hadn’t seen it. A picture is worth a thousand words.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Don't worry about the exam. I took one for the same course last year and it was a piece of cake.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Audrey is a ray of sunshine. She is always so cheerful that she inevitably cheers me up as well.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The coat was a rip-off. It was extremely expensive and ended up being low-quality.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We thought he had a screw loose when we saw him dancing around as if his shoes were on fire!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "It turned out that what they said in the announcement was a screwup! They're not really opening on August 15th.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I can't understand why Charles is doing such drastic things to try to solve a simple problem. It's like using a sledgehammer to crack a nut!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "You're a really smart cookie, so you're sure to do well on the test if you study hard.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Things started to go wrong; eventually, it seemed like they were dealing with a snowball effect.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Jake wants to travel this summer but there's not a snowball's chance in hell that he will get to.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Abby decided to deal with the problem and not leave it for later. After all, a stitch in time saves nine.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We had an awesome time on vacation! The hotel was just a stone's throw away from lots of the museums we were eager to visit.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Jill and Amy got really upset about the issue but calmed down later on. They realized it was just a storm in a teacup.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Do you really think everything is okay? I have a feeling that if it is, it won't be for long. I think a storm is brewing.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Failing to study early on in a course is a surefire way of getting a bad mark.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I'm afraid I have a terrible sweet tooth. I eat far too much cake and candy.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "She couldn't decide which of her friends had improved the most in their running skills. It was a toss-up!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "He seemed a bit absentminded that day. His focus seemed to be somewhere else.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "My resume ended up being my ace in the hole when competing for the job. I was the most highly qualified.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "No, I'm not worried about the upcoming competition. I have an ace up my sleeve.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "His love of junk food was his Achilles' heel. It really was his downfall, as it greatly affected his health.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Beth felt that their outing on the upcoming weekend would be the acid test for her friendship with Meredith. It would tell her whether the friendship could really continue.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We decided to change the rules for the contest across the board. They just weren't fair.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "My friend apologized for upsetting me, but I'm not sure if I believe that she will change yet. Actions speak louder than words.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Maxine tried to help with the problem, but it turned out that her advice only added fuel to the fire.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I bought a new sweater that I thought was on sale, but they didn't give me the discount. To add insult to injury, they wouldn't give me a refund when I brought it back.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Madison was really rushing with the end of her exam. She was working against the clock.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Things are getting done ahead of schedule. Our boss is very pleased about that.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Don't worry about Larry getting angry. He's a bit like his big dog. His bark is worse than his bite!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "When Angela found out that her friend had talked behind her back, she decided that all bets were off and she would do the same to her.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I'm having a hard time understanding this instructions pamphlet. It's all Greek to me.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Abigail is a wonderful, caring person. She's all heart.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We are all in the same situation right now. Without a doubt, we are all in the same boat.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "So, do you think it would be okay if I spent all day, every day, at the beach this summer? But all kidding aside, I do want to spend a lot of time by the ocean this year.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "We discussed the issue, but the conversation was all over the map. It wasn't very focused.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Are you all set to go? We need to leave soon.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I ended up ruining my knitting project. I'm all thumbs with complicated things like that.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Harry really gets on my nerves sometimes. Some of the things he says are all wet. He tends to be silly.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I thought that my friend wanted to come on the trip to keep me company and make me feel better, but it turned out that she was just along for the ride.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "She did an about-face on this topic a little while ago. She completely changed her position and opinions.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Her illness was extremely persistent and difficult to deal with. It was like an albatross around her neck.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "My co-workers always joke about how I bring an apple for lunch every day. But I tell them that an apple a day keeps the doctor away.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Marissa was an old head on young shoulders. She was only seventeen years old but seemed so wise and sensible.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Everyone said that Henry was an old soul. He seemed to have so much wisdom and insight for a sixteen-year-old boy.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "It was very easy to get to know Hannah. She was an open book and made friends easily.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Henry decided to go to the doctor about his headaches. It probably wasn't anything serious, but an ounce of prevention is worth a pound of cure.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Are you kidding me? I can't believe that what you just said is true. Is it?",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Bob wouldn't keep quiet during the football game; he constantly talked about what the players were doing wrong. He's such an armchair quarterback.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I watched that war movie I mentioned last night. All the characters were armed to the teeth.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Their boss seems quite unreasonable. It appears he expects an immediate response from them around-the-clock!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "I'm as busy as a bee this morning. I've run lots of errands and completed lots of tasks.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Don't worry about learning how to ride a bike. It's as easy as ABC once you get going.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "No problem. I'll show you to how to do this tomorrow. Don't worry! It's as easy as pie.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Xavier was showing us many of his antiques, telling us that they are rare and expensive. In my opinion, though, some of them are about as genuine as a three-dollar bill.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Don't worry about the kids. They're as happy as clams playing video games in the other room!",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "She is as quiet as a mouse. It seems like she hardly ever speaks.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "No, I have never seen that animal even though it's supposed to live around here. I've found they're as rare as hen's teeth.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Maggie asked me how my work was going and I told her the truth, that it's as right as rain.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The mall is only two miles away, as the crow flies. It's takes longer to get there when you take certain routes.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "What's wrong? You look as white as a sheet! Are you ill? Has something terrible happened?",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "At best, I can say that he was kind of creative in his essay. It wasn't very good, overall.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The news bulletin said that the individual who escaped from prison is still at-large.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "It's disappointing that she can't go with you this time, but at least she might be able to next time.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The two co-workers were at loggerheads on the project. They just couldn't agree on the correct direction.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Janette explained that she was at her wits' end with a few of her friends. They were very difficult to deal with and she felt she couldn't communicate with them.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Michael decided against giving any suggestions about how things should be done at work. After all, he was still at the bottom of the totem pole and didn't have much influence.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "They need to wake up at what seems like the crack of dawn in order to get there in time.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "Juliana was really impatient as she waited for her friends to join her, but they couldn't just come over at the drop of a hat.",
+   "definition": "As in this example, "
+  },
+  {
+   "phrase": "The teacher felt like she was almost at the end of her rope with some of the students. They were very difficult to deal with in class and liked to test her patience.",
+   "definition": "As in this example, "
+  }
+ ]
+}

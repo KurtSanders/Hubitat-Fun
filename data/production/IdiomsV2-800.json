@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Keep the ball rolling - To keep something going or to make sure it continues.",
+   "definition": "As in this example, Could you please keep the ball rolling on this project for me while I'm away on vacation? If you could, I'd appreciate it!"
+  },
+  {
+   "phrase": "Keep up with - To match someone else in terms of progress or success.",
+   "definition": "As in this example, Moira was careful to try to keep up with her co-workers’ achievements."
+  },
+  {
+   "phrase": "Keep you posted - To keep someone notified of what is happening.",
+   "definition": "As in this example, I'll keep you posted on what happens with the situation."
+  },
+  {
+   "phrase": "Keep your chin up - To keep a positive and optimistic frame of mind.",
+   "definition": "As in this example, I know things have been difficult lately but you've got to keep your chin up! Things will get better soon."
+  },
+  {
+   "phrase": "Keep your head - Maintain your sense of logic and be sensible.",
+   "definition": "As in this example, I told her it's essential that she keep her head when dealing with all this stress. It will be difficult, but it's necessary."
+  },
+  {
+   "phrase": "Keep your mouth shut - Stay quiet about something.",
+   "definition": "As in this example, I need you to keep your mouth shut about this situation. Don't tell anyone about it."
+  },
+  {
+   "phrase": "Keep your nose clean - Behave well and stay out of trouble.",
+   "definition": "As in this example, From now on, you need to stay out of trouble. Keep your nose clean."
+  },
+  {
+   "phrase": "Keep your wits about you - Stay aware of the situation you are in and be ready to react if you need to.",
+   "definition": "As in this example, I advised them to keep their wits about them when walking through that area. It can be quite dangerous."
+  },
+  {
+   "phrase": "Keeping up with the Joneses - To try to keep up with other people in terms of wealth and material possessions.",
+   "definition": "As in this example, I feel sorry for that family. They spent so much money just trying to keep up with the Joneses, and now they're in a lot of debt. How silly of them to think that they needed to copy their neighbor and have three sports cars!"
+  },
+  {
+   "phrase": "Kept in the dark - To be kept unaware of something.",
+   "definition": "As in this example, They kept me in the dark about their real plans for the trip. I thought that was very unfair, as I deserved to know the details."
+  },
+  {
+   "phrase": "Keyed up - To be tense and anxious, perhaps in anticipation of something.",
+   "definition": "As in this example, Justin was a bit keyed up yesterday. He has an interview coming up soon, and he really needs this job."
+  },
+  {
+   "phrase": "Kick up your heels – Celebrate.",
+   "definition": "As in this example, Mia and Ava decided they would have a good time this weekend. They wanted to celebrate, really kick up their heels!"
+  },
+  {
+   "phrase": "Kill the mood - To do something that ruins someone else’s mood.",
+   "definition": "As in this example, We were having a fun time at the party until Margaret arrived. She really killed the mood."
+  },
+  {
+   "phrase": "Kill two birds with one stone - To accomplish two tasks with one action.",
+   "definition": "As in this example, Elizabeth decided to run another errand while she was in the area. By doing so, she killed two birds with one stone."
+  },
+  {
+   "phrase": "Kit and caboodle - Everything, or all things, involved in something.",
+   "definition": "As in this example, Wow! You packed a lot of luggage for this trip. You seem to have packed the whole kit and caboodle!"
+  },
+  {
+   "phrase": "Knee-jerk reaction - An automatic, unthinking reaction.",
+   "definition": "As in this example, I wish Walter would think more about how he responds to things. He always seems to give a knee-jerk reaction."
+  },
+  {
+   "phrase": "Knee-high to a grasshopper - Extremely young and small.",
+   "definition": "As in this example, My grandfather said he was knee-high to a grasshopper when he started to learn how to ride a bike."
+  },
+  {
+   "phrase": "Knock into a cocked hat - Something that is made useless or debunked.",
+   "definition": "As in this example, The scientist knocked their theory into a cocked hat. He totally disproved it."
+  },
+  {
+   "phrase": "Knock it off - Stop it.",
+   "definition": "As in this example, Knock it off! You're being too silly."
+  },
+  {
+   "phrase": "Knock on wood - To tap your knuckle on wood in an effort to avoid bad luck.",
+   "definition": "As in this example, I hope the roof stays okay for the remainder of the winter. Knock on wood!"
+  },
+  {
+   "phrase": "Knock someone's socks off - To surprise and impress someone.",
+   "definition": "As in this example, Your presentation knocked our socks off! Everyone was talking about it afterward."
+  },
+  {
+   "phrase": "Know the ins and outs - To have a detailed understanding of something.",
+   "definition": "As in this example, It didn't take long to train her. She seemed to know all the ins and outs of the job within a couple of weeks."
+  },
+  {
+   "phrase": "Know the ropes - To understand what to do and how to do it.",
+   "definition": "As in this example, They made sure the new hire was trained by someone who really knew the ropes in the department."
+  },
+  {
+   "phrase": "Know which way the wind is blowing - To comprehend a situation (generally negative).",
+   "definition": "As in this example, I was thinking about applying to work at that company, but I wanted to wait and see which way the wind was blowing. It seems to be in trouble."
+  },
+  {
+   "phrase": "Know your onions - To be extremely knowledgeable on a topic.",
+   "definition": "As in this example, He's an expert on this topic. Without question, he knows his onions!"
+  },
+  {
+   "phrase": "Know zip - To know nothing.",
+   "definition": "As in this example, He knows zip on the subject. There's no need to consider his opinion."
+  },
+  {
+   "phrase": "Knuckle under - To give in or be defeated.",
+   "definition": "As in this example, Unfortunately, Ryan ended up knuckling under with all the pressure. He gave in before the contest was even over."
+  },
+  {
+   "phrase": "Labor of love - Something one loves to do, especially for the benefit of someone one loves.",
+   "definition": "As in this example, Don't worry about all the time I spent knitting this sweater. It was a labor of love."
+  },
+  {
+   "phrase": "Laid off - To lose one's job.",
+   "definition": "As in this example, James found out that he is getting laid off from his job. He's really worried, as he won't have an income and will have to look for a new position."
+  },
+  {
+   "phrase": "Lap of luxury - To be in an extremely luxurious situation.",
+   "definition": "As in this example, The Smith family is extremely wealthy and lives in the lap of luxury. They have a mansion and two summer homes."
+  },
+  {
+   "phrase": "Last but not least - Something that is saved for last, but is not necessarily less important than whatever has come before it.",
+   "definition": "As in this example, We're having a delicious dinner tonight. And, last but not least, we're going to enjoy some lovely ice cream."
+  },
+  {
+   "phrase": "Last straw - The latest problem in a series of problems. Something that leads someone to finally lose their patience.",
+   "definition": "As in this example, Mr. Johnson said that Tom's sloppy work this past week was the last straw. He was going to be fired."
+  },
+  {
+   "phrase": "Last-ditch effort - A final, perhaps desperate, effort at something.",
+   "definition": "As in this example, He decided to make a last-ditch effort to fix the web site. He didn't know if he'd be successful, but he was going to give it his best shot."
+  },
+  {
+   "phrase": "Laugh all the way to the bank - To gain money, most likely in a dishonest manner, and to feel smug about it.",
+   "definition": "As in this example, No wonder the owner of that fraudulent company is so happy. He must be laughing all the way to the bank."
+  },
+  {
+   "phrase": "Lay an egg - To do something that is embarrassing.",
+   "definition": "As in this example, I'm afraid I'll lay an egg during the play tomorrow. I just hope I get my lines right."
+  },
+  {
+   "phrase": "Lay down the law - To set rules, probably strict ones.",
+   "definition": "As in this example, The parents decided they needed to lay down the law when their kids misbehaved too badly."
+  },
+  {
+   "phrase": "Lead someone around by the nose - To compel someone to do something, especially through manipulation or bullying.",
+   "definition": "As in this example, We don't like the way that she leads all her friends around by the nose. She's always bossing them around and telling them what to do."
+  },
+  {
+   "phrase": "Learn by rote - To memorize something.",
+   "definition": "As in this example, In the past, students tended to have to learn most things by rote."
+  },
+  {
+   "phrase": "Learn the ropes - To learn how to do something—especially, to learn how to do well in a new job",
+   "definition": "As in this example, It will take a while for the new trainees to learn the ropes and become full employees."
+  },
+  {
+   "phrase": "Learned my lesson - To have learned from an experience, probably one caused by a mistake.",
+   "definition": "As in this example, Noah learned his lesson about planning ahead when he ran out of time to study for his test."
+  },
+  {
+   "phrase": "Leave me alone - I want to be alone, so please stop talking to me; please go somewhere else, somewhere out of my sight.",
+   "definition": "As in this example, Look, please just leave me alone. I don't want to talk about this right now."
+  },
+  {
+   "phrase": "Leave no stone unturned - To look in every possible place.",
+   "definition": "As in this example, I promise that I'll leave no stone unturned while looking for that book you want."
+  },
+  {
+   "phrase": "Leave someone high and dry - To leave someone in a difficult position and to take things away from them.",
+   "definition": "As in this example, They left him high and dry. It was extremely unfair for them to treat him like that."
+  },
+  {
+   "phrase": "Leave well enough alone – Don’t involve yourself in a situation that already seems stable and decent enough.",
+   "definition": "As in this example, Don’t bother her with that tonight. Leave well enough alone."
+  },
+  {
+   "phrase": "Left me in the lurch - To be left in a difficult situation.",
+   "definition": "As in this example, I was left in the lurch by my co-workers the other day. They left the entire remainder of the work to me."
+  },
+  {
+   "phrase": "Left out in the cold - Left out of something pleasant, or excluded from an opportunity.",
+   "definition": "As in this example, He wanted to invest in the endeavor but was left out in the cold. He couldn't find the opportunity."
+  },
+  {
+   "phrase": "Left someone behind - To leave someone somewhere and to go somewhere else.",
+   "definition": "As in this example, The group of teenagers acted unpleasantly toward their friend. They even left her behind when they decided to go downtown."
+  },
+  {
+   "phrase": "Lend me your ear - Please listen to me.",
+   "definition": "As in this example, If you'd lend me your ear for a few moments, I'd like to play my newest song for you."
+  },
+  {
+   "phrase": "Lend someone a hand - To help someone.",
+   "definition": "As in this example, Lauren gave Debbie a hand with her homework. She often helped her in this way."
+  },
+  {
+   "phrase": "Let bygones be bygones - Leave past grievances in the past.",
+   "definition": "As in this example, James and Jonathan had argued a lot in the past, but they decided to let bygones be bygones and to focus on the future."
+  },
+  {
+   "phrase": "Let sleeping dogs lie - Stop talking about an issue.",
+   "definition": "As in this example, Jessica told me that she still wants to try to address the issue with Molly. But I said it might be better to let sleeping dogs lie."
+  },
+  {
+   "phrase": "Let someone off the hook - To refrain from holding someone accountable for something.",
+   "definition": "As in this example, He was angry that his friend was late returning his book, but he let him off the hook."
+  },
+  {
+   "phrase": "Let the cat out of the bag - To reveal a secret.",
+   "definition": "As in this example, The release date for the book remained a secret for a long time, but someone finally let the cat out of the bag."
+  },
+  {
+   "phrase": "Let the dust settle - To wait for circumstances to return to normal after something significant has happened.",
+   "definition": "As in this example, Brad's family has just had a major crisis and they're still recovering. I told him to try to wait for the dust to settle before he makes any major decisions."
+  },
+  {
+   "phrase": "Let your hair down - Let yourself relax.",
+   "definition": "As in this example, Don't worry about all the things you need to do tomorrow. Just let your hair down and enjoy yourself."
+  },
+  {
+   "phrase": "Letter perfect - Precisely correct.",
+   "definition": "As in this example, Everything she does is letter perfect. She's a great student and does wonderfully on her tests."
+  },
+  {
+   "phrase": "Level playing field - Fair and even circumstances, especially when it comes to anything with an element of competition.",
+   "definition": "As in this example, I feel that there should be a level playing field in school. Teachers and others should make an effort to ensure that all students have the things they need to succeed."
+  },
+  {
+   "phrase": "Life of Riley - A very comfortable, and probably luxurious, life.",
+   "definition": "As in this example, They won the lottery last year. That's why they can live the life of Riley now."
+  },
+  {
+   "phrase": "Light of my life - Someone you love who makes your life more cheerful and that you like to be around.",
+   "definition": "As in this example, Brenda said that her daughter is the light of her life. She is always talking about her."
+  },
+  {
+   "phrase": "Like a chicken with its head cut off - To behave in a frenzied manner.",
+   "definition": "As in this example, Marcie acted like a chicken with its head cut off when she heard the news. She got really anxious and ran around in a panic!"
+  },
+  {
+   "phrase": "Like a deer in headlights - To have a stunned or confused look on one's face.",
+   "definition": "As in this example, He looked like a deer in headlights when they confronted him about the money."
+  },
+  {
+   "phrase": "Like clockwork - On a very regular basis.",
+   "definition": "As in this example, The event happened every other Friday night, like clockwork."
+  },
+  {
+   "phrase": "Like nailing jello to the wall - A very difficult or impossible task.",
+   "definition": "As in this example, Figuring out what we should do was really difficult. It was like nailing jello to the wall."
+  },
+  {
+   "phrase": "Like pulling teeth - Extremely difficult; often refers to a difficulty in getting someone to do something.",
+   "definition": "As in this example, Trying to make the store manager realize that I deserved a refund was like pulling teeth. I was there for half an hour!"
+  },
+  {
+   "phrase": "Like riding a bicycle - Something you never forget, or stop knowing, how to do.",
+   "definition": "As in this example, She was worried that she wouldn't remember how to solve the problem. However, she soon realized that it was a bit like riding a bike. You never forget."
+  },
+  {
+   "phrase": "Like taking candy from a baby - Extremely easy to do, especially something that involves convincing someone to do, or to give, something.",
+   "definition": "As in this example, Convincing Paul to give me the information I needed was easy. It was like taking candy from a baby."
+  },
+  {
+   "phrase": "Like there is no tomorrow - Living in the moment.",
+   "definition": "As in this example, They went from store to store yesterday, shopping as if there was no tomorrow."
+  },
+  {
+   "phrase": "Like water off a duck's back - It doesn't bother me.",
+   "definition": "As in this example, The other students thought they were bothering me with their teasing. They didn't realize it was like water off a duck's back."
+  },
+  {
+   "phrase": "Live and learn - I will learn from a mistake that I have made.",
+   "definition": "As in this example, I made a huge mistake the other day. But live and learn."
+  },
+  {
+   "phrase": "Live and let live - To be non-judgmental of others.",
+   "definition": "As in this example, I believe in everyone living the way that they feel is best for them. Live and let live!"
+  },
+  {
+   "phrase": "Live it up - Have lots of fun.",
+   "definition": "As in this example, I think it's time to live it up this weekend. We've been working so hard."
+  },
+  {
+   "phrase": "Living the dream - Living a wonderful life, the type one would dream of.",
+   "definition": "As in this example, I asked how they felt after they won the lottery. They said they're living the dream!"
+  },
+  {
+   "phrase": "Lock, stock, and barrel - Absolutely everything involved.",
+   "definition": "As in this example, Can you believe it? They thought they were going to take everything, lock, stock, and barrel!"
+  },
+  {
+   "phrase": "Long face - A sad facial expression.",
+   "definition": "As in this example, Why the long face? I thought you felt happy now."
+  },
+  {
+   "phrase": "Long in the tooth - Older or elderly.",
+   "definition": "As in this example, Bill has been feeling a bit long in the tooth lately. He thinks he's old now."
+  },
+  {
+   "phrase": "Long time no see! - I haven't seen you in a long time.",
+   "definition": "As in this example, Long time no see! I think we last saw each other a couple of years ago."
+  },
+  {
+   "phrase": "Look before you leap - Think carefully before acting or taking a risk.",
+   "definition": "As in this example, Look before you leap! You don't want to leave your job for a new one without first thinking it out properly."
+  },
+  {
+   "phrase": "Look like a million bucks/dollars - To look very attractive, usually well-dressed.",
+   "definition": "As in this example, Tricia took three hours to get ready for the dance. Her family told her she looked like a million bucks!"
+  },
+  {
+   "phrase": "Look like the cat that swallowed the canary/got the cream - To look smugly pleased or satisfied with oneself.",
+   "definition": "As in this example, Kathryn was so pleased with herself. She looked like the cat that swallowed the canary!"
+  },
+  {
+   "phrase": "Loose cannon - A person who is unpredictable and difficult to control, and who will probably inadvertently cause problems.",
+   "definition": "As in this example, Everyone in the office thought that David was a loose cannon. He was extremely unpredictable and seemed likely to cause problems."
+  },
+  {
+   "phrase": "Lose one's shirt - To lose a large amount of money, probably one’s financial security as a whole.",
+   "definition": "As in this example, The businesspeople ended up losing their shirt on the new venture. It was a disaster."
+  },
+  {
+   "phrase": "Lose touch - To discontinue contact with someone, often unintentionally.",
+   "definition": "As in this example, The two friends lost touch over the years. They no longer exchanged letters or holiday cards."
+  },
+  {
+   "phrase": "Lose your marbles - To go crazy.",
+   "definition": "As in this example, He was quite rude about his friend. He said that he thought that he'd lost his marbles and couldn’t think rationally anymore."
+  },
+  {
+   "phrase": "Lose your touch - To lose one’s ability or skill in a specific area.",
+   "definition": "As in this example, I was worried that I might have lost my touch when I failed to convince my friend of something the other day. I've always been so good at persuading people."
+  },
+  {
+   "phrase": "Lost at sea - To feel confused about a situation, and to not know what to do.",
+   "definition": "As in this example, He said he feels lost at sea right now. He can't decide what path to take."
+  },
+  {
+   "phrase": "Lost my head - To become overcome with emotion or anger; to act irrationally.",
+   "definition": "As in this example, I'm afraid I lost my head the other day when I found out about my friend's betrayal. The news shocked me."
+  },
+  {
+   "phrase": "Low-hanging fruit - Something that is easy to take advantage of.",
+   "definition": "As in this example, It turned out that they saw me as low-hanging fruit. They thought they could take advantage of my kindness."
+  },
+  {
+   "phrase": "Luck out - To be very lucky.",
+   "definition": "As in this example, She lucked out when she won $1,000 on a scratch card."
+  },
+  {
+   "phrase": "Lucky break - Something very lucky has happened.",
+   "definition": "As in this example, The actress got a lucky break when she found a way to get to the audition and then won the part."
+  },
+  {
+   "phrase": "Lucky dog - A lucky person.",
+   "definition": "As in this example, You lucky dog! I can't believe you won that sports car!"
+  },
+  {
+   "phrase": "Mad as a hornet - Crazy or frantic.",
+   "definition": "As in this example, He's as mad as a hornet! Did you see the way he was acting? It was crazy."
+  },
+  {
+   "phrase": "Made for each other - When a couple is extremely well-suited to each other.",
+   "definition": "As in this example, The couple has so much in common that people say they are made for each other."
+  },
+  {
+   "phrase": "Made my hair stand on end - To be very frightened.",
+   "definition": "As in this example, The horror movie was terrifying! It made my hair stand on end."
+  },
+  {
+   "phrase": "Make a beeline for - To go directly toward.",
+   "definition": "As in this example, Whenever his friend comes over, he always makes a beeline for his video game system! They enjoy playing together."
+  },
+  {
+   "phrase": "Make a big stink - To complain loudly.",
+   "definition": "As in this example, The customer made a big stink when he complained about the bad quality of the product."
+  },
+  {
+   "phrase": "Make a long story short - To recount something in a brief way, leaving out unnecessary details.",
+   "definition": "As in this example, Yes, we plan to go there again. To make a long story short, we had an amazing time!"
+  },
+  {
+   "phrase": "Make a mountain out of a molehill - To exaggerate about the significance or severity of circumstances.",
+   "definition": "As in this example, Sabrina was really overreacting. She was making a mountain out of a molehill."
+  },
+  {
+   "phrase": "Make a pit stop - To stop somewhere for a short period of time, usually during a long journey.",
+   "definition": "As in this example, We made a lot of pit stops on the road trip, to go to the bathroom and to eat."
+  },
+  {
+   "phrase": "Make a scene - To create a fuss of some kind that draws the attention of others in a negative way.",
+   "definition": "As in this example, Stop talking so loudly! I know you're upset, but you are making a scene. People are looking."
+  },
+  {
+   "phrase": "Make ends meet - To have enough money for daily expenses over the course of a month.",
+   "definition": "As in this example, Kim was finding it difficult to make ends meet because of her limited income."
+  },
+  {
+   "phrase": "Make eyes at someone - To look at someone in a flirtatious way.",
+   "definition": "As in this example, She was making eyes at the guy she had a crush on all evening."
+  }
+ ]
+}

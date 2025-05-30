@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Packed like sardines - People in a very crowded and limited space.",
+   "definition": "As in this example, It was a nightmare on the subway yesterday. We were packed like sardines!"
+  },
+  {
+   "phrase": "Pain in the neck - Something that is causing you problems.",
+   "definition": "As in this example, She decided to stop talking to Jack. She thought he was a pain in the neck."
+  },
+  {
+   "phrase": "Paint the town red - To go out and enjoy a city's nightlife.",
+   "definition": "As in this example, The group of friends are going out for drinks tonight. They said they're determined to paint the town red!"
+  },
+  {
+   "phrase": "Paint you a picture - Explain something in detail.",
+   "definition": "As in this example, I painted a picture of the situation for him by describing everything in great detail."
+  },
+  {
+   "phrase": "Pandora's box - A situation that involves unexpected consequences and problems.",
+   "definition": "As in this example, We considered talking about the issue, but we changed our minds when we decided that it would be like opening Pandora's box."
+  },
+  {
+   "phrase": "Par for the course - To be expected.",
+   "definition": "As in this example, That was nothing out of the ordinary. It was all par for the course."
+  },
+  {
+   "phrase": "Party animal - Someone who goes to parties frequently and acts wildly, perhaps binge drinking and/or being loud.",
+   "definition": "As in this example, Some of the college students were party animals. They spent too much time drinking and not enough time studying."
+  },
+  {
+   "phrase": "Pass the buck - To put the blame or responsibility on someone else.",
+   "definition": "As in this example, Max felt too frustrated to call and lodge a complaint with the company. He said it would be a waste of time; they always seem to find a way to pass the buck."
+  },
+  {
+   "phrase": "Passed the course - Did all the work necessary for a course and earned an acceptable final grade.",
+   "definition": "As in this example, I passed the course! I'm so relieved—I needed to get a “C” or better in order to take the next math class."
+  },
+  {
+   "phrase": "Pay a pretty penny - Pay a lot of money for something.",
+   "definition": "As in this example, Emily paid a pretty penny for her new living room set. It was quite expensive."
+  },
+  {
+   "phrase": "Pay an arm and a leg - To pay a huge amount of money for something.",
+   "definition": "As in this example, He loves luxurious cars and has always wanted a Mercedes, but he realized that he'd have to pay an arm and a leg to get one."
+  },
+  {
+   "phrase": "Pay the piper - Deal with the consequences of one's actions and pay for one’s mistakes.",
+   "definition": "As in this example, It's time to pay the piper. You've made a lot of mistakes lately and there are going to be consequences."
+  },
+  {
+   "phrase": "Pay through the nose - To pay a large amount of money that is too much for what is gained.",
+   "definition": "As in this example, We were excited about the idea of getting the new car until we realized that we’d have to pay through the nose to own it. It was so overpriced!"
+  },
+  {
+   "phrase": "Pedal to the metal - To go really fast, probably while driving a vehicle.",
+   "definition": "As in this example, He really put the pedal to the metal, didn't he? I think he drove too fast. He was probably over the speed limit."
+  },
+  {
+   "phrase": "Peg out - To die. Used humorously and never in reference to someone who has actually died, as that would be insensitive.",
+   "definition": "As in this example, They both love to travel. There are many places they want to go before they finally peg out!"
+  },
+  {
+   "phrase": "Pencil/paper pusher - Someone who works in an office (for example, a bureaucrat) who mainly does paperwork and probably doesn't care about advancing in his or her career.",
+   "definition": "As in this example, We aren't very concerned about his opinion. He's just a pencil pusher in the office."
+  },
+  {
+   "phrase": "Peter out - To slowly fade in importance or significance.",
+   "definition": "As in this example, The sound we heard coming from outside finally started to peter out. We hoped it would end soon."
+  },
+  {
+   "phrase": "Pick up the tab - Pay for things (such as meals or drinks) that other people have consumed, for example, in a restaurant.",
+   "definition": "As in this example, My friend is always very generous. She always offers to pick up the tab for both us when we go out for something to eat."
+  },
+  {
+   "phrase": "Pick up your ears - To listen more closely and carefully.",
+   "definition": "As in this example, No, you're not listening properly. Pick up your ears!"
+  },
+  {
+   "phrase": "Pie in the sky - An unrealistic dream.",
+   "definition": "As in this example, Mandy had always wanted to be famous for something. As she got older, though, she realized that her dream was just a pie in the sky."
+  },
+  {
+   "phrase": "Pig out - To eat too much food in one sitting.",
+   "definition": "As in this example, We pigged out on junk food last night while watching movies! We ate three large bags of chips, lots of chocolates, and popcorn!"
+  },
+  {
+   "phrase": "Pigheaded - Ridiculously stubborn.",
+   "definition": "As in this example, Tom is so pigheaded! It's really frustrating to deal with him because he'll never change his mind about anything."
+  },
+  {
+   "phrase": "Pipe down - To be more quiet or to stop talking completely.",
+   "definition": "As in this example, Look, you need to pipe down! You've been speaking far too loudly."
+  },
+  {
+   "phrase": "Pipe dream - An unrealistic dream.",
+   "definition": "As in this example, Robert loved football and wanted to play it professionally some day. As he grew older though, he came to realize that this was just a pipe dream."
+  },
+  {
+   "phrase": "Pitch dark - Extremely dark outside.",
+   "definition": "As in this example, The group was too nervous to go outside because it was pitch dark and they could hardly see anything."
+  },
+  {
+   "phrase": "Pitch in - To help with an endeavor.",
+   "definition": "As in this example, Adam felt bad watching everyone else do all the work. He decided that he should pitch in."
+  },
+  {
+   "phrase": "Play by ear - To deal with things as they come.",
+   "definition": "As in this example, We haven't decided yet whether we'll go to the beach tomorrow or go shopping. I think we'll play it by ear."
+  },
+  {
+   "phrase": "Play devil's advocate - To argue for the opposite side, simply for argument's sake.",
+   "definition": "As in this example, I didn't really believe what I said when we were debating. I was just playing devil's advocate."
+  },
+  {
+   "phrase": "Play hardball - To act or work in a competitive and aggressive, or even ruthless, way (especially in business or politics).",
+   "definition": "As in this example, The businessperson really played hardball in that meeting yesterday. She was tough!"
+  },
+  {
+   "phrase": "Play second fiddle - To come second to someone else in something.",
+   "definition": "As in this example, I had to play second fiddle to Jonathan in running the office."
+  },
+  {
+   "phrase": "Playing dumb - Pretending that you don't know or understand something.",
+   "definition": "As in this example, Stop playing dumb! I know you heard about what happened. Why are you pretending that you didn't?"
+  },
+  {
+   "phrase": "Playing with fire - To be do something or to act in a way (especially in a careless way) that could lead to a worrisome or even dangerous situation.",
+   "definition": "As in this example, She advised me to stop challenging my boss on the matter, saying that I was probably playing with fire and that I could end up losing my job as a result."
+  },
+  {
+   "phrase": "Poker face - A face without any sort of expression; others find it difficult or impossible to figure out the person's mood or thoughts.",
+   "definition": "As in this example, Mark had an excellent poker face. If he wanted to hide it, no one could tell what he was thinking or how he felt."
+  },
+  {
+   "phrase": "Pound the pavement - To look for a job by walking the pavement, going from place to place.",
+   "definition": "As in this example, Hannah had been looking for a job for a very long time and was trying to think of new approaches. A friend suggested just pounding the pavement for a while and seeing what she could find."
+  },
+  {
+   "phrase": "Power dressing - To dress in a highly professional way.",
+   "definition": "As in this example, I always recommend power dressing when you start work in any sort of formal office. It will help get you noticed and recognized."
+  },
+  {
+   "phrase": "Pride comes before a fall - Being too arrogant can lead to significant problems, perhaps even your downfall.",
+   "definition": "As in this example, I tried to warn her; I told her to remember that pride comes before a fall. She wouldn't listen. I think she's just too arrogant."
+  },
+  {
+   "phrase": "Pull his/her own weight - Do the work needed to support oneself and fulfill one's needs.",
+   "definition": "As in this example, Noah was a very hard worker. He always pulled his weight."
+  },
+  {
+   "phrase": "Pull it off - To achieve something that had seemed very difficult to do.",
+   "definition": "As in this example, Tim's essay is due tomorrow and he hasn't even started. I don't think he'll be able to pull it off in time."
+  },
+  {
+   "phrase": "Pull out all the stops - To do everything possible to accomplish a goal. This might involve sparing no expense and using every resource.",
+   "definition": "As in this example, I decided to pull out all the stops when I bought my new outfit. I wanted to be the best-dressed person at the upcoming event."
+  },
+  {
+   "phrase": "Pull rank - To take advantage of the superior position that one holds.",
+   "definition": "As in this example, Don't pull rank with me. You're not above me in this organization."
+  },
+  {
+   "phrase": "Pull someone's leg - To make a joke and momentarily fool or trick someone.",
+   "definition": "As in this example, I didn't actually go skydiving last weekend. I was just pulling your leg!"
+  },
+  {
+   "phrase": "Pull strings - To use one's influence to make something happen that probably wouldn't have taken place otherwise.",
+   "definition": "As in this example, It turned out that he pulled strings to get his brother the job. That's really unfair."
+  },
+  {
+   "phrase": "Pull the plug - To end something or put a stop to it.",
+   "definition": "As in this example, They pulled the plug on our team's project. They said they lost the funding."
+  },
+  {
+   "phrase": "Pull the wool over your eyes - When someone sets out to deceive you.",
+   "definition": "As in this example, I was frustrated and upset with Arthur for hiding the truth from me. He really pulled the wool over my eyes and now it's caused me problems."
+  },
+  {
+   "phrase": "Pull up stakes - To gather up your household and move somewhere else.",
+   "definition": "As in this example, They expected everyone to just pull up stakes and move to the other side of the country for the sake of the company. This seems very unreasonable."
+  },
+  {
+   "phrase": "Pull your chain - To annoy you in some way, or to be unfair to you.",
+   "definition": "As in this example, I decided to cut down on the amount of time I spent with Sydney. She was constantly pulling my chain and I couldn't relax with her."
+  },
+  {
+   "phrase": "Pull yourself together - To calm yourself and become focused again.",
+   "definition": "As in this example, Beth was really upset after the phone call, but it didn't take long for her to pull herself together."
+  },
+  {
+   "phrase": "Pulled a rabbit out of one's hat - To do something amazing and unexpected.",
+   "definition": "As in this example, Ruth rendered us speechless the other day. She pulled a rabbit out of her hat and found money for the trip."
+  },
+  {
+   "phrase": "Pulled the rug out from under me - Someone does or says something that makes you feel disoriented and confused about what to do next.",
+   "definition": "As in this example, The company president's announcement about job losses pulled the rug out from under me. I'm really worried now."
+  },
+  {
+   "phrase": "Pulling my leg - Joking with me or playing a joke on me.",
+   "definition": "As in this example, I don't believe what you said about going scuba diving. You were pulling me leg, weren't you?"
+  },
+  {
+   "phrase": "Puppy love - Love between two young and innocent people.",
+   "definition": "As in this example, Everyone said her feelings for her first boyfriend were just puppy love."
+  },
+  {
+   "phrase": "Pushing your luck - Doing something that could cause you to get into trouble.",
+   "definition": "As in this example, You're pushing your luck right now. You should start acting more sensibly."
+  },
+  {
+   "phrase": "Put a sock in it - Be quiet; stop making noise.",
+   "definition": "As in this example, They told Paul to put a sock in it! He was being too noisy."
+  },
+  {
+   "phrase": "Put in their place - To rebuke someone and/or make them feel more humble.",
+   "definition": "As in this example, Natalie put Lisa in her place for insinuating that she wasn't very smart. She asked how it could be possible that Lisa was more intelligent when she had earned better marks in every course."
+  },
+  {
+   "phrase": "Put it on the back burner - To make something a lower priority for a while.",
+   "definition": "As in this example, I have so much to do that I think I'll need to put this task on the back burner for a while; I’ll get back to it later."
+  },
+  {
+   "phrase": "Put my foot down - To assert one's authority about something.",
+   "definition": "As in this example, The parents put their foot down with their son; they declared that he wasn't allowed to have any more new toys this month."
+  },
+  {
+   "phrase": "Put on my thinking cap - To try to think more intensely and carefully about something.",
+   "definition": "As in this example, It's time for us to put our thinking caps on, so that we can come up with some new ideas for the class trip."
+  },
+  {
+   "phrase": "Put our heads together - Two people share thoughts and try to come up with new ideas or a solution to something.",
+   "definition": "As in this example, Let's put our heads together and come up with a solution to this problem."
+  },
+  {
+   "phrase": "Put someone on the spot - To put someone in a tricky situation and/or to embarrass him or her.",
+   "definition": "As in this example, It's wasn't fair for Katie to put me on the spot like she did yesterday. How was I supposed to know that she'd suddenly ask me to travel with her next week, and that she’d expect me to give her an answer right away?"
+  },
+  {
+   "phrase": "Put something down in black and white - To put something in writing.",
+   "definition": "As in this example, They were glad to have the contract. It was good to have everything in black and white."
+  },
+  {
+   "phrase": "Put something into practice - To act on the basis of some kind of idea or principle.",
+   "definition": "As in this example, She's all talk. Why doesn't she put any of her ideas into practice?"
+  },
+  {
+   "phrase": "Put something on ice - To put something on hold with the plan to resume it later.",
+   "definition": "As in this example, The project was going well but other more pressing things came up, so we put it on ice."
+  },
+  {
+   "phrase": "Put the squeeze/screws on someone - To put intense pressure on someone to carry out a task, or to coerce or force someone to make something happen.",
+   "definition": "As in this example, I don't like it when people unfairly put the squeeze on me. If I can't do it, I can't do it!"
+  },
+  {
+   "phrase": "Put your finger on it - To properly identify and comprehend something.",
+   "definition": "As in this example, You really put your finger on it when you said that he needs to go back to school. He won't progress in his career unless he upgrades his qualifications."
+  },
+  {
+   "phrase": "Put your money where your mouth is - To actually invest in something that you claim to believe in.",
+   "definition": "As in this example, I think he's all talk when he describes his business plans. He needs to put his money where his mouth is."
+  },
+  {
+   "phrase": "Quality time - Time spent with someone you care about.",
+   "definition": "As in this example, The parents were worried that they weren't spending enough quality time with their kids. They decided to take them out to an amusement park that weekend, an activity that they could all enjoy together."
+  },
+  {
+   "phrase": "Racking my brain - Thinking intensely, trying to recall or remember something.",
+   "definition": "As in this example, I've been racking my brain for hours, but I just can't seem to remember where I left that notebook."
+  },
+  {
+   "phrase": "Rain on someone's parade - To ruin someone's enthusiasm for something, especially with a negative opinion.",
+   "definition": "As in this example, I don't mean to rain on your parade, but one person on the committee didn't like your work."
+  },
+  {
+   "phrase": "Rain or shine - No matter what.",
+   "definition": "As in this example, Don't worry! The mail will surely be delivered, rain or shine."
+  },
+  {
+   "phrase": "Raise Cain - Make a disturbance or a huge public conflict.",
+   "definition": "As in this example, Zack was always really difficult. It seemed like the slightest little thing ended up with him raising Cain and making a gigantic fuss!"
+  },
+  {
+   "phrase": "Read someone the riot act - To exert authority over someone who is behaving in a way that is out of line.",
+   "definition": "As in this example, They read their son the riot act when he had a huge party in the house and caused lots of damage."
+  },
+  {
+   "phrase": "Real McCoy - A genuine thing.",
+   "definition": "As in this example, Yes, that's the real McCoy. It's definitely a genuine bottle of that perfume."
+  },
+  {
+   "phrase": "Red flag - A sign that acts as a warning of some kind.",
+   "definition": "As in this example, When I look back, I see there were quite a few red flags that should have made me reconsider my decision."
+  },
+  {
+   "phrase": "Red herring - A clue that is meant to distract or mislead.",
+   "definition": "As in this example, It took us a while to figure out that the clue was just a red herring. We had to start all over with our investigation."
+  },
+  {
+   "phrase": "Red in the face - Bashful or embarrassed and blushing as a result.",
+   "definition": "As in this example, Joseph tripped on his way to the podium. That's why he was so red in the face."
+  },
+  {
+   "phrase": "Red letter day - A memorable day, probably a pleasant one.",
+   "definition": "As in this example, They knew that the day of their upcoming meeting was sure to be a red letter day. They felt certain that it would go wonderfully and help progress their careers."
+  },
+  {
+   "phrase": "Rest on one's laurels - To rely on the prestige brought about by previous accomplishments, and not bothering to do any more.",
+   "definition": "As in this example, The artist was accused of resting on his laurels; he did not try to create any other great achievements."
+  },
+  {
+   "phrase": "Right this way - Please come in this direction.",
+   "definition": "As in this example, I'll bring you to the correct area. Just follow me. Right this way."
+  },
+  {
+   "phrase": "Ring a bell - Recognition of something.",
+   "definition": "As in this example, Someone I recently met said they know you. Her name is Deanna. Does that ring a bell?"
+  },
+  {
+   "phrase": "Rinky-dink - Cheap and low-quality.",
+   "definition": "As in this example, We thought it was a rinky-dink sort of bike. It didn’t even come with a basket!."
+  },
+  {
+   "phrase": "Roll out the red carpet - To welcome someone (usually a prominent person or celebrity) in a very grand way.",
+   "definition": "As in this example, The red carpet was rolled out for all the celebrities when they arrived at the awards ceremony."
+  },
+  {
+   "phrase": "Rolling in it - Very wealthy.",
+   "definition": "As in this example, That family owns property on every continent. They're rolling in it."
+  },
+  {
+   "phrase": "Rome wasn't built in a day - You can't accomplish a big task in too short a period of time.",
+   "definition": "As in this example, I felt bad about not finishing the project in time, but then my friends reminded me that Rome wasn't built in a day."
+  },
+  {
+   "phrase": "Rub elbows with someone - To socially interact with someone who has prestige and a higher social position.",
+   "definition": "As in this example, We were really excited about the party. We expected to rub elbows with lots of prominent people."
+  },
+  {
+   "phrase": "Ruffle feathers - To cause annoyance or irritation.",
+   "definition": "As in this example, The article was very entertaining, but it certainly ruffled some feathers."
+  },
+  {
+   "phrase": "Rule of thumb - A general rule or convention.",
+   "definition": "As in this example, The teacher told her students that it was a good rule of thumb to regularly wash the chalkboard."
+  },
+  {
+   "phrase": "Run amok - To behave in a very disorderly or frenzied manner.",
+   "definition": "As in this example, They were really ran amok last night outside. They made so much noise that the neighbors called the police!"
+  },
+  {
+   "phrase": "Run circles around someone - To be more knowledgeable or skilled than someone, and to make them confused and unable to keep up as a consequence.",
+   "definition": "As in this example, They ran circles around the other students in their knowledge of math. They were incredibly skilled for their age."
+  },
+  {
+   "phrase": "Run errands - To go out and do things you need to do.",
+   "definition": "As in this example, I've got to run some errands this morning. They're all really important, but quite boring."
+  },
+  {
+   "phrase": "Run its course - To let something proceed as it would without intervention.",
+   "definition": "As in this example, We think that the best thing would be to let the situation run its course. Intervening wouldn't really accomplish anything."
+  },
+  {
+   "phrase": "Run like the wind - To run really quickly.",
+   "definition": "As in this example, I'm determined to run like the wind during the next track and field meet."
+  },
+  {
+   "phrase": "Run-of-the-mill - Common and ordinary.",
+   "definition": "As in this example, I liked the sweater that Amy pointed out, but I honestly felt that it was a bit run-of-the-mill. I could probably find one like it anywhere."
+  },
+  {
+   "phrase": "Run one's mouth off - To speak too much on something that you shouldn't.",
+   "definition": "As in this example, I don't want to run my mouth off, but I don't think you should go there tomorrow—and here's why."
+  },
+  {
+   "phrase": "Run out of steam - To run out of energy.",
+   "definition": "As in this example, I tried to finish rearranging the furniture yesterday, but I ran out of steam and had to get some sleep."
+  },
+  {
+   "phrase": "Run the show - To be in charge of something.",
+   "definition": "As in this example, The manager was determined to run the show in his office."
+  },
+  {
+   "phrase": "Running on fumes - To stay awake even when you're exhausted.",
+   "definition": "As in this example, The student had stayed up for hours studying and felt like he needed to go to sleep soon. He was running on fumes."
+  },
+  {
+   "phrase": "Sail close to the wind - To push boundaries or act in a way that is just within the limits of social and legal acceptability.",
+   "definition": "As in this example, Jacob decided that one of his employees had been sailing close to the wind with how much she had been slacking off. He thought he might have to fire her."
+  },
+  {
+   "phrase": "Sales pitch - A presentation or speech made in an attempt to persuade someone to purchase a product.",
+   "definition": "As in this example, His sales pitches were pretty weak. I don't think they'd convince anyone to buy anything. He probably shouldn't dream of a career as a salesperson."
+  },
+  {
+   "phrase": "Salt of the earth - To be highly moral and honest.",
+   "definition": "As in this example, The people of the village were really the salt of the earth. They were so very good and modest."
+  },
+  {
+   "phrase": "Saved by the bell - To get somewhere at the last possible moment.",
+   "definition": "As in this example, I was almost late for class yesterday morning but was saved by the bell! I sat down in my seat just as the clock struck ten."
+  },
+  {
+   "phrase": "Saved someone's skin - Saved someone from having to deal with some kind of disaster.",
+   "definition": "As in this example, Erin saved my skin. She got me out of a lot of trouble."
+  }
+ ]
+}

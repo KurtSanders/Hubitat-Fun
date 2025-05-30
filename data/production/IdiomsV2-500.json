@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Field day - An enjoyable circumstance or day.",
+   "definition": "As in this example, We had a field day on our excursion last week. We had a great time."
+  },
+  {
+   "phrase": "Fifteen minutes of fame - To enjoy an extremely short period of fame or recognition of some sort.",
+   "definition": "As in this example, James is doing really well with his YouTube channel. But you know what they say: everyone has their fifteen minutes of fame."
+  },
+  {
+   "phrase": "Fight an uphill battle - To deal with a difficult situation that becomes harder as you go.",
+   "definition": "As in this example, My sister told me that what I was attempting to do would probably end up being an uphill battle. It would be extremely difficult and the number of obstacles would only increase the longer that I tried to do it."
+  },
+  {
+   "phrase": "Fight tooth and nail - To fight hard and determinedly.",
+   "definition": "As in this example, I was determined to succeed in this field, deciding that I'd fight tooth and nail if I had to."
+  },
+  {
+   "phrase": "Fill in the blanks - To guess the content of missing information.",
+   "definition": "As in this example, We were left to fill in the blanks with the missing information about the course."
+  },
+  {
+   "phrase": "Filthy rich - Extremely wealthy.",
+   "definition": "As in this example, The Addison family owned two houses and five cars. Everyone said they were filthy rich."
+  },
+  {
+   "phrase": "Find your feet - Adjust and become accustomed to new circumstances or expectations.",
+   "definition": "As in this example, It took Mark quite a long time to find his feet in his new career, but he's doing great now!"
+  },
+  {
+   "phrase": "Finger lickin' good - Delicious food (very informal).",
+   "definition": "As in this example, I wish you could have come to the barbeque the other day. The food was finger lickin' good!"
+  },
+  {
+   "phrase": "Fish out of water - To be in an environment that you're not used to or that you don't readily fit into.",
+   "definition": "As in this example, He's a fish out of water here. He doesn't know anything about this field and doesn't understand its culture."
+  },
+  {
+   "phrase": "Fishy - Seems suspicious.",
+   "definition": "As in this example, Do you think the situation seemed kind of fishy? I thought something appeared suspicious."
+  },
+  {
+   "phrase": "Fit as a fiddle - In excellent health.",
+   "definition": "As in this example, When I went for a checkup with the doctor, he said there were a few problems. I was surprised. I had thought I was as fit as a fiddle."
+  },
+  {
+   "phrase": "Fit to be tied - Extremely angry.",
+   "definition": "As in this example, I was fit to be tied when they told me the news. I don't think I've ever been so angry."
+  },
+  {
+   "phrase": "Fits and starts - Very brief bursts of motion.",
+   "definition": "As in this example, Louise progressed in her career in fits and starts. She'd make a lot of progress at certain points but then fight to get any further for a while."
+  },
+  {
+   "phrase": "Five o'clock shadow - The signs of hair starting to grow back on the face of a man who has recently shaved.",
+   "definition": "As in this example, Daniel suddenly realized that he had forgotten to shave. He definitely had quite a bit of five o'clock shadow."
+  },
+  {
+   "phrase": "Fix someone's wagon - To ruin someone's chance of success, often in revenge for a grievance.",
+   "definition": "As in this example, I can't believe that she treated me that way. I'm going to fix her wagon. She can't get away with this."
+  },
+  {
+   "phrase": "Fixed in your ways - Inflexible in the ways you do things.",
+   "definition": "As in this example, Betty always did things the same way. She was very fixed in her ways."
+  },
+  {
+   "phrase": "Flavor of the month - Something that is trendy or fashionable to care about at the moment.",
+   "definition": "As in this example, Interest in that hobby is really popular right now, but I actually think it's just the flavor of the month."
+  },
+  {
+   "phrase": "Flea market - A market where people buy and sell secondhand and/or inexpensive goods.",
+   "definition": "As in this example, We went shopping this weekend, but instead of the mall we went to the nearby flea market. It was fun to look for some deals! My friend found a vintage hat."
+  },
+  {
+   "phrase": "Flesh and blood - People who are related to you, or anyone or anything that is alive.",
+   "definition": "As in this example, My cousin was happy to do the favor for me. After all, she said, I'm her flesh and blood."
+  },
+  {
+   "phrase": "Fly in the face of something - To act in opposition to something or to show disrespect for someone or something.",
+   "definition": "As in this example, The statement he made flew in the face of everything his friends expected of him. They were very disappointed."
+  },
+  {
+   "phrase": "Fly in the ointment - Something unpleasant in a situation that is otherwise entirely pleasant.",
+   "definition": "As in this example, The lack of money was a fly in the ointment. It could ruin their plans to travel to Europe this summer."
+  },
+  {
+   "phrase": "Fly off the handle - To suddenly become extremely angry, especially if overreacting to something.",
+   "definition": "As in this example, Wow! I was really surprised at how they got so angry about this. They really flew off the handle!"
+  },
+  {
+   "phrase": "Fly the coop - To escape.",
+   "definition": "As in this example, Jack was tired of the job he had held for twenty years and felt he wanted to advance in the field. He decided to fly the coop and look for a position elsewhere."
+  },
+  {
+   "phrase": "Fly-by-night - Markedly untrustworthy or undependable.",
+   "definition": "As in this example, The restaurant seemed like a fly-by-night. The furnishings were in a state of disrepair and the staff were extremely rude. It seemed like they could close down tomorrow."
+  },
+  {
+   "phrase": "Foam at the mouth - To show rage.",
+   "definition": "As in this example, David was incredibly angry about the situation. It seemed like he was almost foaming at the mouth."
+  },
+  {
+   "phrase": "Follow in someone's footsteps - To follow the same path in life as someone else.",
+   "definition": "As in this example, Liam was a plumber. His son decided to follow in his father's footsteps and become a plumber, too."
+  },
+  {
+   "phrase": "Follow the money - To follow the direction of people gaining large amounts of money when investigating corruption.",
+   "definition": "As in this example, The investigators always remembered to \"follow the money\" when investigating financial crimes."
+  },
+  {
+   "phrase": "Food for thought - Something that you or others think is worth carefully thinking about.",
+   "definition": "As in this example, When my best friends gave me their opinion, I realized that it was certainly food for thought."
+  },
+  {
+   "phrase": "Fool around - To joke around and act in a jovial or silly way.",
+   "definition": "As in this example, The high school students were fooling around outside the school, joking with each other and laughing."
+  },
+  {
+   "phrase": "Fool's gold - Something that looks like gold but isn't.",
+   "definition": "As in this example, They thought that the opportunity would be very lucrative. However, it ended up being fool's gold."
+  },
+  {
+   "phrase": "Foot in the door - To find an opportunity to make progress in a desired direction.",
+   "definition": "As in this example, Isabella explained that she had hoped to be offered a better position with the company. The job she got, though, is a foot in the door."
+  },
+  {
+   "phrase": "Footloose and fancy-free - To be free of care and worry, able to have fun all the time.",
+   "definition": "As in this example, Patricia had a wonderful life. She had lots of money and didn't have to worry about anything. Most of her time was spent shopping and traveling. She was footloose and fancy-free."
+  },
+  {
+   "phrase": "For crying out loud - Something one says when one is frustrated or at the end of one's patience.",
+   "definition": "As in this example, For crying out loud! Why are you still worrying about this? There's no reason to!"
+  },
+  {
+   "phrase": "For goodness' sake - Something one says when one is frustrated or in a state of disbelief.",
+   "definition": "As in this example, For goodness' sake, why do you feel the need to go shopping again today? You bought so much yesterday!"
+  },
+  {
+   "phrase": "For heaven's sake - Something one says when one is frustrated or in a state of disbelief.",
+   "definition": "As in this example, For heaven's sake, why are you doing this? It's a mistake."
+  },
+  {
+   "phrase": "For the birds - A waste of energy and time, or confused and disorganized.",
+   "definition": "As in this example, I think that's for the birds. It's a waste of time and doesn't make any sense."
+  },
+  {
+   "phrase": "Fork over/shell out money - To pay money (often a large or unaffordable amount) for something.",
+   "definition": "As in this example, They went to a fancy restaurant and ended up having to fork over much more money than they had anticipated. It was probably because of the wine they ordered."
+  },
+  {
+   "phrase": "Fortune favors the bold - Taking risks can lead to success.",
+   "definition": "As in this example, I tend to worry about taking risks but I need to remember that fortune favors the bold."
+  },
+  {
+   "phrase": "Forty winks - A very short nap, usually during the day.",
+   "definition": "As in this example, I'm very tired. I think I'll lie down and try to get forty winks."
+  },
+  {
+   "phrase": "Freak out - To become very angry, worried, or frightened.",
+   "definition": "As in this example, I thought she would be okay with the news but she started to freak out! She seemed really worried."
+  },
+  {
+   "phrase": "From day one - From the very beginning.",
+   "definition": "As in this example, That employee has been difficult to deal with since day one. He’s been giving us problems since we hired him."
+  },
+  {
+   "phrase": "From rags to riches - To go from being poor to wealthy.",
+   "definition": "As in this example, They had always been good at computer programming. It was their skills that helped them go from rags to riches with an amazing tech company."
+  },
+  {
+   "phrase": "From the get-go - From the beginning.",
+   "definition": "As in this example, Andrew left his job last week. He said he knew from the get-go that it wouldn't work out."
+  },
+  {
+   "phrase": "From the word go - From the very beginning.",
+   "definition": "As in this example, There have been problems with this project from the word go. There were issues ingrained in it from the beginning."
+  },
+  {
+   "phrase": "From time to time - Occasionally.",
+   "definition": "As in this example, I like to go for nature hikes from time to time. It's not something I do all the time, just sometimes on cooler days."
+  },
+  {
+   "phrase": "Fuddy-duddy - An excessively old-fashioned person.",
+   "definition": "As in this example, Mr. Roberts is so old-fashioned and inflexible with his thinking. He's definitely a fuddy-duddy."
+  },
+  {
+   "phrase": "Full of crap - Doesn't know what he or she is talking about. Offensive in most contexts.",
+   "definition": "As in this example, Don't tell anyone I said this, but I think that professor is full of crap."
+  },
+  {
+   "phrase": "Full of hot air - To be a person who talks a lot but has no idea what they are talking about and/or is arrogant.",
+   "definition": "As in this example, The speaker was full of hot air. He was arrogant and didn't seem to have any real idea of what he was talking about."
+  },
+  {
+   "phrase": "Full steam ahead - Enthusiastically moving forward.",
+   "definition": "As in this example, Yes, we've decided to move forward with the business. Full steam ahead!"
+  },
+  {
+   "phrase": "Gain ground - To advance and make progress.",
+   "definition": "As in this example, The company has really been gaining ground lately. It's doing well."
+  },
+  {
+   "phrase": "Gave someone the thumbs-up - Gave someone approval.",
+   "definition": "As in this example, Her parents gave her the thumbs-up when she asked if they'd allow her to go camping this summer."
+  },
+  {
+   "phrase": "Get a handle on something - To gain control or understanding of something.",
+   "definition": "As in this example, It took her a long time to get a handle on the situation. It was difficult to control."
+  },
+  {
+   "phrase": "Get a hold of something - To obtain possession of something.",
+   "definition": "As in this example, I couldn't get a hold of any of that brand of perfume yesterday. It seems to be unavailable right now."
+  },
+  {
+   "phrase": "Get a hold of yourself - To gain control of yourself.",
+   "definition": "As in this example, Get a hold of yourself! There's no reason to be so upset."
+  },
+  {
+   "phrase": "Get a move on - To start being active again in something.",
+   "definition": "As in this example, It's time to get a move on! If we don't leave now, we'll never get there on time."
+  },
+  {
+   "phrase": "Get a second wind - Gain more energy after feeling tired.",
+   "definition": "As in this example, I had to take a break during my run. I needed to get my second wind."
+  },
+  {
+   "phrase": "Get a taste of your own medicine - Experience being treated badly, as you have treated other people.",
+   "definition": "As in this example, We think you've been really mean to Mary lately. Maybe one day you'll get a taste of your own medicine."
+  },
+  {
+   "phrase": "Get a word in edgewise - To be able to say something when someone won't stop talking.",
+   "definition": "As in this example, It's hard to talk to James. He never lets you get a word in edgewise."
+  },
+  {
+   "phrase": "Get along with each other - To have a harmonious relationship with someone; to refrain from argument or conflict.",
+   "definition": "As in this example, Mike and Mitchell get along really well. They never argue."
+  },
+  {
+   "phrase": "Get back to someone - To contact a person again to tell them something in the near future.",
+   "definition": "As in this example, Yes, I got her phone message. I'm going to get back to her tomorrow."
+  },
+  {
+   "phrase": "Get down to brass tacks - To get down to the basics of a situation.",
+   "definition": "As in this example, I think we've been explaining things to the employees in an excessively complicated way. Let's just get down to brass tacks."
+  },
+  {
+   "phrase": "Get down to business - Start doing the practical things that need to be done.",
+   "definition": "As in this example, Let's get down to business! This work has to be done by tomorrow."
+  },
+  {
+   "phrase": "Get down to the nuts and bolts - To focus on the basics of something or a situation.",
+   "definition": "As in this example, Let's get down to the nuts and bolts of the issue. It's best to focus on the basics first."
+  },
+  {
+   "phrase": "Get from A to B - To get from one place to another.",
+   "definition": "As in this example, It seems to take a long time to get from A to B in this city. There's too much traffic."
+  },
+  {
+   "phrase": "Get hold of someone - To get in contact with someone.",
+   "definition": "As in this example, I tried to call and text her, but I couldn't get hold of Sarah yesterday. I don't know where she is."
+  },
+  {
+   "phrase": "Get in someone's hair - To annoy someone or cause them some kind of irritation or hindrance.",
+   "definition": "As in this example, Hannah has really been getting in my hair! She's always causing problems for me."
+  },
+  {
+   "phrase": "Get into deep water - In a lot of trouble.",
+   "definition": "As in this example, Michelle has been having a lot of financial trouble with her business. I'm afraid she'll get into deep water with it."
+  },
+  {
+   "phrase": "Get it off my chest - To express something that has been bothering you or making you sad.",
+   "definition": "As in this example, Nicole was relieved to express her feelings and get them off her chest. She had been keeping them to herself for a long time and it was a burden."
+  },
+  {
+   "phrase": "Get it through your head - Try to understand what one is saying. This is an impolite expression.",
+   "definition": "As in this example, Why can't he understand what I'm saying? I really wish he'd get it through his head."
+  },
+  {
+   "phrase": "Get off on the wrong foot - To start something the wrong way.",
+   "definition": "As in this example, They got off on the wrong foot at first, but they became very good friends later on."
+  },
+  {
+   "phrase": "Get off your high horse - Stop imagining that you are superior.",
+   "definition": "As in this example, I told Jane to get off her high horse. She always gives the impression that she thinks she's better than I am."
+  },
+  {
+   "phrase": "Get one's feet wet - To start something new, such as a new job or occupation.",
+   "definition": "As in this example, One day, during their internships, the students got their feet wet in the fields they wanted to enter."
+  },
+  {
+   "phrase": "Get out of hand - For something to get out of control.",
+   "definition": "As in this example, Things started quietly early in the evening but the party eventually got out of hand!"
+  },
+  {
+   "phrase": "Get over it - To stop feeling annoyed or upset about something.",
+   "definition": "As in this example, My brother is still really upset about not making it onto the basketball team. I felt bad for him at first but he needs to get over it."
+  },
+  {
+   "phrase": "Get something for peanuts - To get something for very little money.",
+   "definition": "As in this example, Do you like my new top? I got it for peanuts yesterday, at a clearance sale."
+  },
+  {
+   "phrase": "Get something out of your system - To do something you have wanted to do so that you can feel relieved and move on.",
+   "definition": "As in this example, Anne was quite wild when she was younger, but she wanted to get things out of her system."
+  },
+  {
+   "phrase": "Get the go-ahead - To get permission to proceed.",
+   "definition": "As in this example, Don't worry! We got the go-head for the project from the boss yesterday. We can start it very soon."
+  },
+  {
+   "phrase": "Get the green light - To get permission to proceed.",
+   "definition": "As in this example, We got the green light to move forward with the project. Let's get started!"
+  },
+  {
+   "phrase": "Get the hang of it - To become proficient in an activity or task.",
+   "definition": "As in this example, It took me a few months to get the hang of my new hobby."
+  },
+  {
+   "phrase": "Get the message - To understand what is communicated.",
+   "definition": "As in this example, I wish that Ashley would get the message and realize that I don't want to go out every weekend."
+  },
+  {
+   "phrase": "Get the sack - To be fired from one's job.",
+   "definition": "As in this example, The new employee got the sack the other day. Yes, he got fired."
+  },
+  {
+   "phrase": "Get this show on the road - To get something started.",
+   "definition": "As in this example, Let's get started! It's time to get this show on the road."
+  },
+  {
+   "phrase": "Get to the bottom of something - To understand all the aspects and origins of something.",
+   "definition": "As in this example, We're determined to find out what caused all of this. We'll get to the bottom of it."
+  },
+  {
+   "phrase": "Get to the point - To more clearly and promptly express what one is saying.",
+   "definition": "As in this example, She always takes a long time to explain things. It would be better if she made more of an effort to get to the point."
+  },
+  {
+   "phrase": "Get up on the wrong side of bed - To wake up in a bad mood or to be in a bad mood first thing in the morning.",
+   "definition": "As in this example, I think Cecilia got out of the wrong side of bed this morning. She was in a terrible mood when I saw her!"
+  },
+  {
+   "phrase": "Get wind of something - To hear news of something that has been kept secret.",
+   "definition": "As in this example, I finally got wind of the plans that they are making. I couldn't find out anything about them before."
+  },
+  {
+   "phrase": "Get with it - To become more alert and make more of an effort to understand what is going on.",
+   "definition": "As in this example, Look, you don't seem to be keeping up with what you need to know. It's time to get with it."
+  },
+  {
+   "phrase": "Get your act together - Start doing better or you will be in trouble.",
+   "definition": "As in this example, Robert was in trouble at work. His boss said he had better get his act together or he might get fired."
+  },
+  {
+   "phrase": "Get your dander up - For something to make you upset.",
+   "definition": "As in this example, Nicholas made everyone really frustrated and angry that day. He really got our dander up!"
+  },
+  {
+   "phrase": "Get your goat - To make someone annoyed or angry.",
+   "definition": "As in this example, My friends are nice people but they really frustrated me yesterday. They certainly got my goat when they laughed at my new haircut."
+  },
+  {
+   "phrase": "Get your head around it - To come to understand something.",
+   "definition": "As in this example, This is a really tricky subject. I'm having trouble getting my head around it."
+  },
+  {
+   "phrase": "Getting by - Managing to survive, especially financially.",
+   "definition": "As in this example, Ben isn't very happy in his job. He's only making enough to get by. He wants to be more financially successful."
+  },
+  {
+   "phrase": "Getting on my last nerve - Something is annoying you to the point that you feel you might lose your temper.",
+   "definition": "As in this example, This movie is so stupid that it's annoying. I'm telling you, that scene really got on my last nerve."
+  },
+  {
+   "phrase": "Getting on my nerves - Something is making you feel annoyed.",
+   "definition": "As in this example, That song is getting on my nerves. I’ve already heard it five times today."
+  },
+  {
+   "phrase": "Get-up-and-go - Physical energy.",
+   "definition": "As in this example, I didn't have enough get-up-and-go to finish it quickly. I lacked the energy."
+  },
+  {
+   "phrase": "Give a run for one's money - To present a significant challenge to someone.",
+   "definition": "As in this example, William didn't end up winning the contest but he gave his opponent a real run for his money."
+  },
+  {
+   "phrase": "Give props to - To express appreciation for someone.",
+   "definition": "As in this example, That is a challenging academic program. I give props to everyone who has completed it."
+  },
+  {
+   "phrase": "Give someone a hard time - To cause difficulty for someone.",
+   "definition": "As in this example, The kids gave their parents a hard time when they weren't allowed to go to Disney World."
+  },
+  {
+   "phrase": "Give someone a piece of my mind - To tell someone you strongly disagree with them and disapprove of something they've done or that they think.",
+   "definition": "As in this example, I gave the salesperson a piece of my mind the other day when I went in to get a refund for the top I had purchased. All the stitching came out when I washed it!"
+  },
+  {
+   "phrase": "Give someone a song and dance - To waste someone's time instead of giving them an explanation or something else that they require.",
+   "definition": "As in this example, I asked for an explanation for what happened the other day, but all I got was a song and dance. They didn't take responsibility for anything."
+  },
+  {
+   "phrase": "Give someone short shrift - To give only a very short amount of time to someone.",
+   "definition": "As in this example, Sarah gave her friend the short shrift. She wouldn't spend enough time with her and wouldn't listen to what she had to say."
+  }
+ ]
+}

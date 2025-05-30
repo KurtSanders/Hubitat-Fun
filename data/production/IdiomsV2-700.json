@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Hit me up - To get in contact with someone. For example to email, text, or call an acquaintance.",
+   "definition": "As in this example, Hit me up if you'd like to join the team."
+  },
+  {
+   "phrase": "Hit pay dirt - To come upon something of significant value.",
+   "definition": "As in this example, We were so lucky we found that the other day. We certainly hit pay dirt."
+  },
+  {
+   "phrase": "Hit someone below the belt - To insult or otherwise treat a person in an unfair way.",
+   "definition": "As in this example, I can't believe what Brad said to his best friend. That insult was really below the belt, wasn't it?"
+  },
+  {
+   "phrase": "Hit the books - To study intensely.",
+   "definition": "As in this example, I have three exams coming up next week. I'm really nervous and have to hit the books soon."
+  },
+  {
+   "phrase": "Hit the ceiling - To get extremely angry.",
+   "definition": "As in this example, When they asked how she reacted, I had to say the truth: she hit the ceiling! Yes, she was extremely angry."
+  },
+  {
+   "phrase": "Hit the hay - To go to bed.",
+   "definition": "As in this example, I had a long day and I'm so tired. I think I'll hit the hay soon."
+  },
+  {
+   "phrase": "Hit the jackpot - To come into possession of wealth or something of great value.",
+   "definition": "As in this example, Lisa hoped that maybe one day she would win the jackpot on the lottery,  and use all her winnings  to travel and and luxurious cars."
+  },
+  {
+   "phrase": "Hit the nail on the head - You've figured out the exact truth.",
+   "definition": "As in this example, I haven't been able to figure it out, but you have hit the nail on the head!"
+  },
+  {
+   "phrase": "Hit the road - To start on a journey.",
+   "definition": "As in this example, Hurry up! It's time to hit the road if we're going to get there in time."
+  },
+  {
+   "phrase": "Hit the sack - To go to bed and sleep.",
+   "definition": "As in this example, I've had a very long day. I think I'll hit the sack and see you in the morning."
+  },
+  {
+   "phrase": "Hocus-pocus - Magic of some sort, or perhaps trickery.",
+   "definition": "As in this example, I couldn't help but joke that they must have used some hocus-pocus. Why else would their professor give them an extension on the assignment?"
+  },
+  {
+   "phrase": "Hold the fort - To take responsibility for a place or maintain an activity while someone is away.",
+   "definition": "As in this example, Could you possibly hold the fort while I go to the store? I just need you to watch my dog."
+  },
+  {
+   "phrase": "Hold your horses - Wait for a bit before acting.",
+   "definition": "As in this example, Hold your horses! You shouldn't send a reply to that email until you've had time to calm down and think about it."
+  },
+  {
+   "phrase": "Hold your tongue - Stop talking, especially about something specific.",
+   "definition": "As in this example, Make sure you hold your tongue about this. I don't want you to mention anything about it to my brother."
+  },
+  {
+   "phrase": "Holding the bag - Having to be responsible for something.",
+   "definition": "As in this example, Kevin ended up holding the bag for the team project. The others just weren't responsible enough."
+  },
+  {
+   "phrase": "Hopping mad - Extremely angry.",
+   "definition": "As in this example, Heather was hopping mad when she found out that her friend had talked about personal business behind her back."
+  },
+  {
+   "phrase": "Horse around - To act in a silly way.",
+   "definition": "As in this example, The kids weren't really fighting. They were just horsing around."
+  },
+  {
+   "phrase": "Horse of a different color - Something that is very different, especially with regard to a situation or an idea in the context of a debate.",
+   "definition": "As in this example, He didn't feel that the situations were comparable. Each was a horse of a different color, he said."
+  },
+  {
+   "phrase": "Hot-button issue - An issue that people tend to have strong opinions on.",
+   "definition": "As in this example, Politics are a hot-button issue in the area. Everyone has an opinion and people get into arguments."
+  },
+  {
+   "phrase": "Hot under the collar - Angry.",
+   "definition": "As in this example, They got hot under the collar when they discovered that someone had deliberately ruined their project."
+  },
+  {
+   "phrase": "Hotshot - An important and powerful person in a particular place or situation.",
+   "definition": "As in this example, He's a local hotshot because of all the businesses he owns. He's very influential."
+  },
+  {
+   "phrase": "How do you like them apples - An expression used to boast about/gloat over something to someone. Can also be used to express surprise.",
+   "definition": "As in this example, Nancy and Alexis didn't get along. They were always competing to see who could be more successful. When Nancy got an amazing new job, she couldn't wait to tell Alexis. “How do you like them apples?” she planned to say."
+  },
+  {
+   "phrase": "Hunky-dory - Happy and comfortable.",
+   "definition": "As in this example, There was no need for you to worry about me being uncomfortable in my hotel room while on vacation. Everything was hunky-dory!"
+  },
+  {
+   "phrase": "I can't imagine - Something  is unbelievable or terrible.",
+   "definition": "As in this example, I'm sorry to hear that you didn't get into the program on the third try. I just can't imagine."
+  },
+  {
+   "phrase": "I don't have two nickels to rub together - A drastic lack of money.",
+   "definition": "As in this example, My friends said I should go with them on vacation to the islands. I had to explain to them that I don't have two nickels to rub together."
+  },
+  {
+   "phrase": "I suck at something - I'm terrible or disappointing at something.",
+   "definition": "As in this example, I suck at basketball. I can never get the ball in the hoop."
+  },
+  {
+   "phrase": "I wasn't born yesterday - I am not naïve.",
+   "definition": "As in this example, Can you believe that ridiculous trick the salesperson tried to play on me? I wasn't born yesterday!"
+  },
+  {
+   "phrase": "Icing on the cake - Something extra that is good, that comes along with something else that's very good, too.",
+   "definition": "As in this example, We're going to France this year, and to put the icing on the cake, we're visiting Spain, too."
+  },
+  {
+   "phrase": "I'd give my right hand to - Would give up anything to be able to do something or to have something.",
+   "definition": "As in this example, She said she'd give her right hand to go to Europe for six months! It was her dream to explore France and Portugal."
+  },
+  {
+   "phrase": "Idle hands are the devil's tools - Idleness can lead to boredom, and that might result in someone doing stupid or bad things.",
+   "definition": "As in this example, What are you doing? Nothing? You should be doing something. Remember that idle hands are the devil's tools."
+  },
+  {
+   "phrase": "If I had a nickel for every time something happened - A specific thing happens a lot.",
+   "definition": "As in this example, If I had a nickel for every time Hannah boasted about her vacations, I'd have a thousand dollars. She is always bragging!"
+  },
+  {
+   "phrase": "If worst comes to worst - If the worst possible scenario happens.",
+   "definition": "As in this example, If worst comes to worst, we'll have to do something more drastic to deal with the situation."
+  },
+  {
+   "phrase": "If you can't stand the heat, get out of the kitchen - If you don’t want to deal with the difficulties required to complete a task, then don't bother to do it at all.",
+   "definition": "As in this example, Gary was always complaining about the work involved in preparing for his dream career. His instructors told him that if he couldn’t stand the heat, to get out of the kitchen! Their declaration made him try harder to deal with it."
+  },
+  {
+   "phrase": "If you play your cards right - If you do the right things.",
+   "definition": "As in this example, If you play your cards right, I think you'll get a promotion at work this year."
+  },
+  {
+   "phrase": "Ignorance is bliss - It's easier not to know.",
+   "definition": "As in this example, Sometimes not knowing everything about a situation can make things easier for you. You know what they say: ignorance is bliss."
+  },
+  {
+   "phrase": "I'm losing it - I feel like I'm going crazy.",
+   "definition": "As in this example, I think I'm losing it! I've forgotten to do the gardening for the last few days in a row."
+  },
+  {
+   "phrase": "In a bind - To be in a tricky position or situation.",
+   "definition": "As in this example, I decided I needed to help my friends. They were in a bind and needed some assistance to get out of it."
+  },
+  {
+   "phrase": "In a jam - To be in a difficult situation that may be difficult to get out of.",
+   "definition": "As in this example, Her best friend was always there for her. She could always count on her when she was in a jam."
+  },
+  {
+   "phrase": "In a nutshell - In a concise way.",
+   "definition": "As in this example, It would take me a long time to explain the whole thing, so I'll just put it in a nutshell for you and be brief."
+  },
+  {
+   "phrase": "In a pinch - If necessary, for example, in an emergency.",
+   "definition": "As in this example, I realized I didn't have one of the ingredients in the recipe, but I looked online and found out I could use a substitute in a pinch."
+  },
+  {
+   "phrase": "In a rut - Stuck in a mundane routine.",
+   "definition": "As in this example, Edward realized he was in a rut with his job. The work was boring and he wanted to look for a change."
+  },
+  {
+   "phrase": "In charge of - To have ultimate authority over something, someone, or a group of people.",
+   "definition": "As in this example, Our teacher left the most responsible student in charge while he left the classroom for a moment."
+  },
+  {
+   "phrase": "In full swing - At the highest level of intensity or activity.",
+   "definition": "As in this example, The summer season was in full swing at the tourist destination when they arrived for their holiday."
+  },
+  {
+   "phrase": "In high gear - To get into a much faster pace.",
+   "definition": "As in this example, Angela's plans are going exactly as she wanted. Everything seems to be going into high gear."
+  },
+  {
+   "phrase": "In hot water - In trouble.",
+   "definition": "As in this example, He has made a lot of mistakes on the accounts, so I think he's going to be in hot water at work."
+  },
+  {
+   "phrase": "In my book - In my opinion.",
+   "definition": "As in this example, You asked me for my opinion, and so I'll tell you. In my book, you shouldn't go out dancing tonight when you have a test in two days."
+  },
+  {
+   "phrase": "In my element - In an area in which one feels comfortable and/or knowledgeable.",
+   "definition": "As in this example, Danielle was really in her element when teaching music. She was so good at it, and it made her feel good about herself."
+  },
+  {
+   "phrase": "In seventh heaven - To feel blissfully happy, especially about a certain situation or outcome.",
+   "definition": "As in this example, The kids were in seventh heaven when they found out they were going to Disney World this summer."
+  },
+  {
+   "phrase": "In spades - There is a lot of something.",
+   "definition": "As in this example, She had been hoping her project would be well-received and was pleased with how successful it was. She got praise in spades!"
+  },
+  {
+   "phrase": "In stitches - Laughing uncontrollably.",
+   "definition": "As in this example, The comedian had me in stitches with his hilarious jokes."
+  },
+  {
+   "phrase": "In the bag - Certain to be successful.",
+   "definition": "As in this example, Don't worry about our presentation tomorrow. It's in the bag! We're sure to do great, as we've prepared so carefully."
+  },
+  {
+   "phrase": "In the black - To have more money than you owe.",
+   "definition": "As in this example, Audrey is really happy that her finances are back in order again. She says it feels so good to finally be in the black."
+  },
+  {
+   "phrase": "In the boondocks - In a very isolated and rural area.",
+   "definition": "As in this example, Her family lived out in the boondocks. That's why it was hard to get to, and find, their house."
+  },
+  {
+   "phrase": "In the chips/money - To have (probably unexpectedly) received—or to be about to receive—a large, or relatively large, amount of money.",
+   "definition": "As in this example, We're going to have lots of fun when we go on our trip. We're in the chips, so we'll have plenty to spend!"
+  },
+  {
+   "phrase": "In the doghouse - Someone is mad at you and probably ignoring you.",
+   "definition": "As in this example, Mark is in the doghouse right now. His girlfriend is really angry with him."
+  },
+  {
+   "phrase": "In the heat of the moment - Feeling negatively overwhelmed by current circumstances.",
+   "definition": "As in this example, He ended up blurting something out that he shouldn't have during the meeting. It was in the heat of the moment. He didn't take the time to think it through first."
+  },
+  {
+   "phrase": "In the least - At all.",
+   "definition": "As in this example, I don't think he wants to be a doctor in the least. He's not interested in science."
+  },
+  {
+   "phrase": "In the long run - Over the long-term.",
+   "definition": "As in this example, I know it's a difficult decision to make, but I think it'll be the right one in the long run. Eventually, you'll see the benefits."
+  },
+  {
+   "phrase": "In the loop - To be aware of what is going on.",
+   "definition": "As in this example, I'm sick right now, but I've asked my co-workers to keep me in the loop about what is going on at the office."
+  },
+  {
+   "phrase": "In the nick of time - Just in time.",
+   "definition": "As in this example, We arrived at the theatre in the nick of time—just one minute before the show was scheduled to start."
+  },
+  {
+   "phrase": "In the pink - To be healthy or in excellent condition.",
+   "definition": "As in this example, No need to worry about Jacqueline. She's in the pink right now."
+  },
+  {
+   "phrase": "In the red - To be in debt.",
+   "definition": "As in this example, Tom's in the red for quite a bit of money because he overspent on his cruise."
+  },
+  {
+   "phrase": "In the sticks - In a rural area with not much going on.",
+   "definition": "As in this example, It was a much longer drive to the dinner party last night than we had anticipated. Their house is way out in the sticks!"
+  },
+  {
+   "phrase": "In the way - Some kind of obstruction.",
+   "definition": "As in this example, There were lots of people in the way when we were trying to get into the popular nightclub."
+  },
+  {
+   "phrase": "It ain't over till the fat lady sings - This has not ended yet.",
+   "definition": "As in this example, She thinks that she will definitely win the contest, but it's not over till the fat lady sings."
+  },
+  {
+   "phrase": "It is a poor workman who blames his tools - Don't cast blame elsewhere if you can't do the job right.",
+   "definition": "As in this example, They did a really bad job on the roof and blamed other factors. I told them it's a poor workman who blames his tools."
+  },
+  {
+   "phrase": "It is always darkest before the dawn - The most difficult times come before much better ones.",
+   "definition": "As in this example, I know you're going through a really terrible time, but try to stay positive. Remember that it's always darkest before the dawn."
+  },
+  {
+   "phrase": "It takes one to know one - If you call me a name, you must be what you have called me.",
+   "definition": "As in this example, Bullies called the little boy names. He told them that it takes one to know one."
+  },
+  {
+   "phrase": "It takes two to tango - Both people are responsible; you cannot place the blame on just one person.",
+   "definition": "As in this example, Jane tried to blame the whole thing on Anna, but everyone knows that it takes two to tango."
+  },
+  {
+   "phrase": "Itchy feet - Feeling restless and wanting to get up and move around.",
+   "definition": "As in this example, The presentation went on for a very long time. I enjoyed it, but I must admit I got itchy feet about an hour in."
+  },
+  {
+   "phrase": "It's a piece of cake - Something  that is very simple and easy to do.",
+   "definition": "As in this example, I did that project for a course last year. Don't worry about it. It's a piece of cake."
+  },
+  {
+   "phrase": "It's a scorcher - It's a hot day.",
+   "definition": "As in this example, We're in the middle of a heat wave here. Today is a a scorcher!"
+  },
+  {
+   "phrase": "It's crunch time - An important project or some other task must be completed very soon.",
+   "definition": "As in this example, Things are extremely busy at work at the moment. Many deadlines are coming up quickly. It's crunch time!"
+  },
+  {
+   "phrase": "It's in the bag - Something is secure or certain.",
+   "definition": "As in this example, There's no need to worry about it. It's in the bag and sure to be successful."
+  },
+  {
+   "phrase": "It's no skin off my nose - Something that doesn't bother, or negatively affect, me.",
+   "definition": "As in this example, Diane was worried that I would be upset about it. She was surprised when I told her it was no skin off my nose."
+  },
+  {
+   "phrase": "It's not rocket science - It's not difficult to understand.",
+   "definition": "As in this example, This furniture is easy to put together. It's not rocket science."
+  },
+  {
+   "phrase": "It's raining cats and dogs - It's raining heavily outside.",
+   "definition": "As in this example, I don't think they'll go for a walk this morning. Have you looked outside? It's raining cats and dogs!"
+  },
+  {
+   "phrase": "Ivory tower - To work and exist in a space that is held above the concerns of the rest of society. This phrase is usually applied to professors in a college or university.",
+   "definition": "As in this example, He doesn't understand anything about real life. He's spent the last thirty years in an ivory tower."
+  },
+  {
+   "phrase": "Jaywalking - Crossing the street at a place other than the crosswalk.",
+   "definition": "As in this example, You should try not to jaywalk. It could be dangerous. You're probably better off crossing at the crosswalk, instead."
+  },
+  {
+   "phrase": "Johnny-come-lately - Someone who is new to a place or situation. Tends to be said with sarcasm.",
+   "definition": "As in this example, I'm not worried about the competition his new business will pose. He's just a Jonny-come-lately."
+  },
+  {
+   "phrase": "Joined at the hip - Always, or almost always, with a certain person.",
+   "definition": "As in this example, Lynn and Margaret are really close friends. It seems like they're always together. I say that they're joined at the hip."
+  },
+  {
+   "phrase": "Joshing me - Fooling me about something.",
+   "definition": "As in this example, Are you sure it's true? Or are you just joshing me and this is a joke?"
+  },
+  {
+   "phrase": "Jump down someone's throat - To get really angry with someone and express that emotion, perhaps in an aggressive way.",
+   "definition": "As in this example, Why are you jumping down my throat like that! There's no need to be so defensive or upset."
+  },
+  {
+   "phrase": "Jump on the bandwagon - To do what everyone else is doing, or to follow a trend.",
+   "definition": "As in this example, Alan tried to give the impression that he really enjoyed his trendy new hobby, but I think he was just jumping on the bandwagon."
+  },
+  {
+   "phrase": "Jump the gun - To start too quickly, either without adequate preparation or at the wrong time.",
+   "definition": "As in this example, Too late, I realized that I had really jumped the gun with submitting my application. I should have spent more time on my resume."
+  },
+  {
+   "phrase": "Jump through hoops - To do things that don't seem to make much sense (or be strictly necessary), just because they're required",
+   "definition": "As in this example, You're required to jump through a lot of hoops in order to get your professional license."
+  },
+  {
+   "phrase": "Junk food - Unhealthy, usually heavily processed food (such as candy).",
+   "definition": "As in this example, Andrea made a resolution to stop eating so much junk food. She was determined to improve her health."
+  },
+  {
+   "phrase": "Jury is still out - A decision hasn't been made yet.",
+   "definition": "As in this example, I've asked my friends what they think I should do about my situation, but no one has answered yet. It seems that the jury is still out."
+  },
+  {
+   "phrase": "Just a moment - Please wait a moment or two.",
+   "definition": "As in this example, Yes, I can put you through to his extension. Just a moment, please."
+  },
+  {
+   "phrase": "Just around the corner - Very close by.",
+   "definition": "As in this example, Don't worry, the store is close enough to walk to. Just around the corner."
+  },
+  {
+   "phrase": "Just now - Something has recently occurred, perhaps within the last few seconds or minutes.",
+   "definition": "As in this example, Oh, I wish you'd come earlier! He was here just now but left really quickly."
+  },
+  {
+   "phrase": "Keep body and soul together - To earn enough money to stay alive.",
+   "definition": "As in this example, It's not the best of jobs, but it's enough to live on and keep body and soul together."
+  },
+  {
+   "phrase": "Keep it under control - To control a situation.",
+   "definition": "As in this example, Don’t worry about the problem. We'll keep it under control."
+  },
+  {
+   "phrase": "Keep it under wraps - To keep something a secret.",
+   "definition": "As in this example, Please keep this under wraps until I decide how to handle the situation."
+  },
+  {
+   "phrase": "Keep me posted/Keep me in the loop - To keep in contact and/or to consistently let someone know what you're doing and/or where you are.",
+   "definition": "As in this example, I asked my friend to keep me in the loop about what she's doing this weekend. She promised she'd keep me posted."
+  },
+  {
+   "phrase": "Keep my cool - To stay calm.",
+   "definition": "As in this example, I managed to keep my cool even when everyone criticized me for no reason."
+  },
+  {
+   "phrase": "Keep my head above water - To manage to survive adversity, especially with regard to finances.",
+   "definition": "As in this example, They're having some financial difficulties, but they're managing to keep their heads above water. Though they're paying their bills, they aren’t able to save very much, if anything."
+  },
+  {
+   "phrase": "Keep my nose to the grindstone - To remain focused on hard work.",
+   "definition": "As in this example, I'm going to keep my nose to the grindstone today. I've got lots of work to do."
+  },
+  {
+   "phrase": "Keep someone at arm's length - To keep someone at a distance.",
+   "definition": "As in this example, I'd recommend keeping them at arm's length. I'm not sure if they're trustworthy and I think you should keep your distance."
+  },
+  {
+   "phrase": "Keep something at bay - To keep something at a distance.",
+   "definition": "As in this example, Oliver was hoping that his healthy diet would keep the flu at bay like it usually did, but this year his plan failed."
+  },
+  {
+   "phrase": "Keep something under one's hat - To keep something private or secret.",
+   "definition": "As in this example, Please just keep it under your hat for now. I don't want anyone else to know."
+  }
+ ]
+}
