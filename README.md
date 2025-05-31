@@ -1,13 +1,13 @@
 ## Hubitat Fun Api Responses App
- * Idioms, Jokes, Trivia, Poems, Quotes & Riddles
+ * Idioms, Jokes, Trivia, Poems, Quotes, Riddles, Cat-Facts, Zen-Facts, Advice, Useless-Facts, Dad-Facts
  
  ---
  
-This application generates random responses that are suitable for TTS on capability 'SpeechSynthesis' compatible devices (ie. Amazon, Google, Sonos, Ikea, etc).  
+This application generates random responses suitable for TTS on capability 'SpeechSynthesis' compatible devices (e.g., Amazon, Google, Sonos, Ikea, etc.).  
 
-A free account on [APILeague.com](https://apileague.com/) is required to obtain an api string for those categories indicated below.  You may wish to purchase their paid plans, which allow more responses (tokens) per day.
+To obtain an API string for the categories indicated below, you must have a free account on [APILeague.com](https://apileague.com/). You may wish to purchase their paid plans, which allow you to receive more responses (tokens) per day.
 
-The 'Idiom' category does not require an api account or api string. The **Idioms** category is powered by my own JSON file (over 700 entries), and I will add more on an as-needed basis. 
+The 'Idiom' category does not require an API account or API string. The **Idioms** category is powered by a JSON file (over 1,350 entries).
 
 <center>
 
@@ -18,11 +18,16 @@ The 'Idiom' category does not require an api account or api string. The **Idioms
 | Poem | Yes |  [ApiLeague.com](https://apileague.com/) | Title, Author, Poem|
 | Quotes | Yes |  [ApiLeague.com](https://apileague.com/) | Author, Quote |
 | Riddles | Yes |  [ApiLeague.com](https://apileague.com/) | Question, Answer|
-| Idioms | No |  | Phrase, Definition |
+| Idioms | No |[GitHub Repo](https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main/data/production) | Phrase, Definition |
+| Dad-Jokes | No |  icanhazdadjoke.com |Jokes |
+| Useless-facts| No |http://uselessfacts.jsph.pl  | text |
+| Cat-Facts | No |  http://catfact.ninja | fact |
+| Zen-Facts | No |  zenquotes.io | Author, Quote |
+| Advice | No | api.adviceslip.com  | Slip |
 
 </center>
 
-These responses are not only enjoyable to hear but also educational, especially for the younger generation.  A random response can be triggered by each separate device with a push momentary button and/or a Hubitat rule, for example, when you wake up, go to bed, arrive home, have company over, turn a switch on or off, etc.
+These responses are not only enjoyable to hear but also educational, especially for the younger generation. Each separate device can trigger a random response with a push momentary button, switch, and/or a Hubitat rule, for example, when you wake up, go to bed, arrive home, have company over, turn a switch on or off, etc.
 
 ## Screen Captures
 
