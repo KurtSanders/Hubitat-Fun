@@ -9,7 +9,7 @@ To obtain an API string for the categories indicated below, you must have a free
 
 The 'Idiom' category does not require an API account or API string. The **Idioms** category is powered by a JSON file (over 1,350 entries).
 
-<div align="center">
+<center>
 
 | Category  | API Required  | Api Website  |  Responses |
 |---|:---:|:---:|:---:|
@@ -26,6 +26,7 @@ The 'Idiom' category does not require an API account or API string. The **Idioms
 | Advice | No | api.adviceslip.com  | Slip |
 
 </center>
+
 
 These responses are not only enjoyable to hear but also educational, especially for the younger generation. Each separate device can trigger a random response with a push momentary button, switch, and/or a Hubitat rule, for example, when you wake up, go to bed, arrive home, have company over, turn a switch on or off, etc.
 
