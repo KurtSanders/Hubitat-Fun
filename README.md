@@ -9,7 +9,7 @@ To obtain an API string for the categories indicated below, you must have a free
 
 The 'Idiom' category does not require an API account or API string. The **Idioms** category is powered by a JSON file (over 1,350 entries).
 
-<center>
+<div align="center">
 
 | Category  | API Required  | Api Website  |  Responses |
 |---|:---:|:---:|:---:|
