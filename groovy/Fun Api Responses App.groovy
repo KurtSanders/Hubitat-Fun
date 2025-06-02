@@ -20,7 +20,7 @@
 import groovy.transform.Field
 
 @Field static final String APP_NAME      			= "Fun Api Responses App"
-@Field static final String VERSION                 	= "0.1.0"
+@Field static final String VERSION                 	= "0.1.1"
 
 
 definition(
@@ -227,7 +227,7 @@ def mainPage() {
                 def title = (state.mysite?.parameters)?"OPTIONAL ${site} Filters & Test":"${site} Test"
                 section(sectionHeader("${title}")) {
                     paragraph getFormat('text-blue', "You can 'test' your preferences and TTS settings using this button.  If successful, you will see the response below and be confident that the child devices will create a random response.")
-                    input "testGet", "button", title: "Test Response for <strong>'${site}'</strong>", submitOnChange: true
+                    input "testGet", "button", title: "Test ${site} Response", submitOnChange: true
                     if (state.response) {
                         def responseOutput = "<style>table, th, td {border:1px solid black;}</style><table><tr><th style='text-align:center'>${site} Response</th></tr><tr><td>${getFormat('text-green',state.response)}</td></tr></table>"
                         if (state.mysite?.api && state.quotaLeft) {

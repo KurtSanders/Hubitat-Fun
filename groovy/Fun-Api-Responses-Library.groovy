@@ -13,7 +13,7 @@ import groovy.transform.Field
 @Field static final String 	OPENAPI_API_JSON_LEAGUE = "https://raw.githubusercontent.com/ddsky/api-league-clients/master/apileague-openapi-3.json"
 @Field static final String  API_LEAGUE_WEBSITE		= "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>"
 @Field static final String  BOX_ARROW				= "<img src='https://raw.githubusercontent.com/KurtSanders/Hubitat-Api-Fun/refs/heads/main/images/box-arrow-up-right.png' />"
-@Field static final Integer IDIOMS_MAX	 			= 695
+@Field static final Integer IDIOMS_MAX	 			= 1358
 @Field static final Integer IDIOMS_MAX_PER_FILE 	= 100
 @Field static final Map    	SERVICES = [
         "sites" : [            
@@ -110,7 +110,7 @@ import groovy.transform.Field
                 ],
             "Idioms" : [
 		        url			: "https://raw.githubusercontent.com",
-                path		: "/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/data/production/Idioms-%s.json",
+                path		: "/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/data/production/IdiomsV2-%s.json",
                 responseVars: ["phrase", "definition"],
                 responseKey	: 'Idioms',
                 strTemplate	: 'Here is your idiom for today. %1$s. %2$s',
