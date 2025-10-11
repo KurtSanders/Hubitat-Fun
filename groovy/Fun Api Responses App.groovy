@@ -20,7 +20,7 @@
 import groovy.transform.Field
 
 @Field static final String APP_NAME      			= "Fun Api Responses App"
-@Field static final String VERSION                 	= "0.1.1"
+@Field static final String VERSION                 	= "0.1.2"
 
 
 definition(
@@ -139,23 +139,25 @@ void updateDeviceQueryKeys() {
         logTrace "Site = ${it}"
         if (SERVICES['sites'][it].parameters) {
             def d = getChildDevice(state.siteDevId[it])
-            SERVICES['sites'][it].parameters.each {
-		        logTrace "Parameter = ${it}"        
-                switch (it) {
-                case "include-tags":
-	                d.sendEvent(name: "includeTags", value: includeTags?includeTags.toString().replaceAll("[\\[\\](){}]",""):' ')
+            if (d) {
+                SERVICES['sites'][it].parameters.each {
+                    logTrace "Parameter = ${it}"        
+                    switch (it) {
+                    case "include-tags":
+                        d.sendEvent(name: "includeTags", value: includeTags?includeTags.toString().replaceAll("[\\[\\](){}]",""):' ')
+                        break
+                    case "exclude-tags":
+                        d.sendEvent(name: "excludeTags", value: excludeTags?excludeTags.toString().replaceAll("[\\[\\](){}]",""):' ')
+                        break
+                    case "difficulty":
+                        d.sendEvent(name: "difficulty", value: difficultyTags?difficultyTags.toString().replaceAll("[\\[\\](){}]",""):' ')
+                        break
+                    case "language":
+                        break
+                    default:
+                        logErr "updateDeviceQueryKeys(): Unknown parameter '${it}'"
                     break
-                case "exclude-tags":
-	                d.sendEvent(name: "excludeTags", value: excludeTags?excludeTags.toString().replaceAll("[\\[\\](){}]",""):' ')
-                    break
-                case "difficulty":
-	                d.sendEvent(name: "difficulty", value: difficultyTags?difficultyTags.toString().replaceAll("[\\[\\](){}]",""):' ')
-                    break
-                case "language":
-                    break
-                default:
-                    logErr "updateDeviceQueryKeys(): Unknown parameter '${it}'"
-                break
+                    }
                 }
             }
         }

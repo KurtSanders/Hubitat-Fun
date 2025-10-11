@@ -17,7 +17,7 @@
 #include kurtsanders.SanderSoft-Library
 #include kurtsanders.Fun-Api-Responses-Library
 
-@Field static final String  VERSION 			= "0.1.0"
+@Field static final String  VERSION 			= "0.1.1"
 
 metadata {
     definition(name: "Fun Api Responses Driver", namespace: "kurtsanders", author: "Kurt Sanders") {
@@ -90,5 +90,11 @@ def updated() {
 }
 
 def refresh() {
-    parent.refresh(device.deviceNetworkId.split('-')[0])   
+    def matcher = device.deviceNetworkId =~ /(.*)\-\d/
+
+    if (matcher) { // Matcher object coerced to boolean in conditional context
+        parent.refresh(matcher[0][1])
+    } else {
+		parent.refresh(device.deviceNetworkId.split('-')[0])
+    }
 }
