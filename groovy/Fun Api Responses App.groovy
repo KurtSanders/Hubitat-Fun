@@ -20,7 +20,7 @@
 import groovy.transform.Field
 
 @Field static final String APP_NAME      			= "Fun Api Responses App"
-@Field static final String VERSION                 	= "0.1.2"
+@Field static final String VERSION                 	= "0.1.3"
 
 
 definition(
@@ -468,6 +468,9 @@ void refresh(selectedSite=site) {
             d.sendEvent(name: "response", value: response)
             // Update state variable with response
             state.response = response
+            
+            // Get size of response and send event
+            d.sendEvent(name: "responseSize", value: response.size())
             
             // Add response to the global hub variable
             if (whichVar)  {

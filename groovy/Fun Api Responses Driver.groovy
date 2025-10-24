@@ -17,7 +17,7 @@
 #include kurtsanders.SanderSoft-Library
 #include kurtsanders.Fun-Api-Responses-Library
 
-@Field static final String  VERSION 			= "0.1.1"
+@Field static final String  VERSION 			= "0.1.3"
 
 metadata {
     definition(name: "Fun Api Responses Driver", namespace: "kurtsanders", author: "Kurt Sanders") {
@@ -50,6 +50,7 @@ metadata {
         attribute "quotaUsed"			, "number"
         attribute "quotaLeft"			, "number"
         attribute "quotaLastUpdated"	, "date"
+        attribute "responseSize"		, "number"
     }
 }
 
