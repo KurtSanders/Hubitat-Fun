@@ -20,7 +20,7 @@
             "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
-            "version": "0.1.3",
+            "version": "0.1.4",
             "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }
