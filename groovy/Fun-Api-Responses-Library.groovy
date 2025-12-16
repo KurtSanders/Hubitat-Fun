@@ -136,7 +136,7 @@ library (
     name: "Fun-Api-Responses-Library",
     namespace: "kurtsanders",
     documentationLink: "https://github.com/KurtSanders/",
-    version: "0.0.1",
+    version: "0.1.5",
     disclaimer: "This library is only for use with SanderSoft Apps and Drivers."
 )
 

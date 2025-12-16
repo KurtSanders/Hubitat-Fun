@@ -20,7 +20,7 @@
 import groovy.transform.Field
 
 @Field static final String APP_NAME      			= "Fun Api Responses App"
-@Field static final String VERSION                 	= "0.1.3"
+@Field static final String VERSION                 	= "0.1.5"
 
 
 definition(

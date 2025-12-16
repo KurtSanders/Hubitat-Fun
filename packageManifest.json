@@ -20,7 +20,7 @@
             "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
-            "version": "0.1.4",
+            "version": "0.1.5",
             "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }
@@ -29,7 +29,7 @@
         {
             "id": "28856352-d07f-4bfb-a487-6d1eb5b9b92b",
             "name": "Fun Api Responses App",
-            "version": "0.1.3",
+            "version": "0.1.5",
             "primary": true,
             "namespace": "kurtsanders",
             "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20App.groovy",
