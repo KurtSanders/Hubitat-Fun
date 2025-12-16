@@ -6,6 +6,7 @@
     "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main?tab=readme-ov-file#hubitat-fun-api-responses-app",
     "communityLink": "https://community.hubitat.com/t/pre-release-new-hubitat-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331",
     "licenseFile": "",
+    "version": "0.1.5",
     "releaseNotes": "Added a new API category 'Affirmation' which returns a random affirmation to boost your confidence and motivation. Affirmations are positive statements that can help you overcome negative thoughts and improve your mindset and well-being.",
     "bundles": [
         {
