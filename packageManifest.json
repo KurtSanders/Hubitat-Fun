@@ -2,11 +2,11 @@
     "packageName": "Fun Api Responses",
     "author": "Kurt Sanders",
     "minimumHEVersion": "2.4.3",
-    "dateReleased": "2025-10-24",
+    "dateReleased": "2025-12-16",
     "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main?tab=readme-ov-file#hubitat-fun-api-responses-app",
     "communityLink": "https://community.hubitat.com/t/pre-release-new-hubitat-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331",
     "licenseFile": "",
-    "releaseNotes": "Added a new 'responseSize' data attribute which will contain the response size.  Users can check this numeric value for compatibility to size limitations in devices and HE global variable limit of 1024",
+    "releaseNotes": "Added a new API category 'Affirmation' which returns a random affirmation to boost your confidence and motivation. Affirmations are positive statements that can help you overcome negative thoughts and improve your mindset and well-being.",
     "bundles": [
         {
             "id": "b438d8c9-c3bb-45b6-9dcd-a5f0fb931617",
@@ -20,7 +20,7 @@
             "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
-            "version": "0.1.1",
+            "version": "0.1.2",
             "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }

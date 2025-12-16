@@ -16,7 +16,16 @@ import groovy.transform.Field
 @Field static final Integer IDIOMS_MAX	 			= 1358
 @Field static final Integer IDIOMS_MAX_PER_FILE 	= 100
 @Field static final Map    	SERVICES = [
-        "sites" : [            
+        "sites" : [
+            "Affirmations" : [
+		        url			: "https://api.apileague.com",
+                path		: "/retrieve-random-affirmation",
+                website		: ['name': "Random Affirmations",'link': "https://apileague.com/apis/random-affirmation-api/"],
+                api			: ['where':'headers', 'name': 'x-api-key'],
+                responseVars: ["affirmation"],
+                strTemplate	: 'Here is a random affirmation for you today. %1$s',
+                description	: "This category returns a random affirmation to boost your confidence and motivation. Affirmations are positive statements that can help you overcome negative thoughts and improve your mindset and well-being.. An api key is required.",
+                ],
             "Jokes": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-joke",
@@ -27,15 +36,6 @@ import groovy.transform.Field
                 parameters	: ["include-tags","exclude-tags"],
                 keywords	: ["analogy","animal","alondes","christmas","chuck norris","clean","dark","deep thougths","food","holiday","insults","jewish","kids","knock knock","law","nerdy","nsfw","one liner","political","racist","relationship","religious","school","sexist","sexual","sport","yo momma"],
                 description	: "This category returns a random joke. You can filter the jokes by tags and keywords. To make sure they are safe for work/home, you could use the exclude-tags to exclude jokes with certain tags such as \"sexual\" or \"racist\". An api key is required.",
-                ],
-            "Trivia": [
-		        url			: "https://api.apileague.com",
-                path		: "/retrieve-random-trivia",
-                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
-                api			: ['where':'headers', 'name': 'x-api-key'],
-                responseVars: ["trivia"],
-                strTemplate	: 'Here is your trivia for today. %1$s',
-                description	: "This category returns a random piece of trivia like \"Rio de Janeiro was once the capital of Portugal, making it the only European capital outside of Europe.\" An api key is required..",
                 ],
             "Quotes": [
 		        url			: "https://api.apileague.com",
@@ -56,6 +56,15 @@ import groovy.transform.Field
                 parameters	: ["difficulty"],
                 keywords	: ["easy", "medium", "hard"],
                 description	: "This category returns a random riddle or brain-teaser. Riddles are a great way to exercise your brain and keep it sharp. The API supports brain-teasers in three difficulty levels: easy, medium, and hard. You can also get a random riddle without specifying a difficulty level. An api key is required.",
+                ],
+            "Trivia": [
+		        url			: "https://api.apileague.com",
+                path		: "/retrieve-random-trivia",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
+                api			: ['where':'headers', 'name': 'x-api-key'],
+                responseVars: ["trivia"],
+                strTemplate	: 'Here is your trivia for today. %1$s',
+                description	: "This category returns a random piece of trivia like \"Rio de Janeiro was once the capital of Portugal, making it the only European capital outside of Europe.\" An api key is required..",
                 ],
             "Poems" : [
 		        url			: "https://api.apileague.com",
