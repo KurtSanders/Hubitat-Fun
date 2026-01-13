@@ -2,18 +2,18 @@
     "packageName": "Fun Api Responses",
     "author": "Kurt Sanders",
     "minimumHEVersion": "2.4.3",
-    "dateReleased": "2025-12-16",
+    "dateReleased": "2026-1-13",
     "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main?tab=readme-ov-file#hubitat-fun-api-responses-app",
     "communityLink": "https://community.hubitat.com/t/pre-release-new-hubitat-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331",
     "licenseFile": "",
-    "version": "0.1.5",
-    "releaseNotes": "Added a new API category 'Affirmation' which returns a random affirmation to boost your confidence and motivation. Affirmations are positive statements that can help you overcome negative thoughts and improve your mindset and well-being.",
+    "version": "0.1.6",
+    "releaseNotes": "Added a new API category 'Life-Hack' which returns a random life hack to make your life easier. Life hacks are simple and clever tips or tricks that can help you save time, money, or effort in your daily life.",
     "bundles": [
         {
             "id": "b438d8c9-c3bb-45b6-9dcd-a5f0fb931617",
             "name": "SanderSoft Bundle",
             "namespace": "kurtsanders",
-            "version": "0.0.7",
+            "version": "0.0.8",
             "location": "https://github.com/KurtSanders/HubitatPackages/raw/master/resources/bundles/SanderSoftBundle.zip",
             "required": true
         },
@@ -21,7 +21,7 @@
             "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
-            "version": "0.1.5",
+            "version": "0.1.6",
             "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }

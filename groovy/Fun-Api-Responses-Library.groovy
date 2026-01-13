@@ -37,6 +37,15 @@ import groovy.transform.Field
                 keywords	: ["analogy","animal","alondes","christmas","chuck norris","clean","dark","deep thougths","food","holiday","insults","jewish","kids","knock knock","law","nerdy","nsfw","one liner","political","racist","relationship","religious","school","sexist","sexual","sport","yo momma"],
                 description	: "This category returns a random joke. You can filter the jokes by tags and keywords. To make sure they are safe for work/home, you could use the exclude-tags to exclude jokes with certain tags such as \"sexual\" or \"racist\". An api key is required.",
                 ],
+            "Life-Hack": [
+		        url			: "https://api.apileague.com",
+                path		: "/retrieve-random-life-hack",
+                website		: ['name': "Api*League",'link': "https://apileague.com/console/"],
+                api			: ['where':'headers', 'name': 'x-api-key'],
+                responseVars: ["title", "description"],
+                strTemplate	: 'Here is your random Life Hack for today. %1$s %2$s',
+                description	: "This category returns a random life hack. An api key is required.",
+                ],
             "Quotes": [
 		        url			: "https://api.apileague.com",
                 path		: "/retrieve-random-quote",
@@ -136,7 +145,7 @@ library (
     name: "Fun-Api-Responses-Library",
     namespace: "kurtsanders",
     documentationLink: "https://github.com/KurtSanders/",
-    version: "0.1.5",
+    version: "0.1.6",
     disclaimer: "This library is only for use with SanderSoft Apps and Drivers."
 )
 
